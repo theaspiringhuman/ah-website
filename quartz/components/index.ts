@@ -24,8 +24,6 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 
-export { default as LogoTitle } from "./LogoTitle";
-
 export {
   ArticleTitle,
   Content,
