@@ -36,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-  hideFolders: ["_hidden"],
+  hideFolders: ["_hidden", "posts", "tags"],
 }),
   ],
   right: [
