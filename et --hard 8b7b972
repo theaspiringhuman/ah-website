@@ -1,0 +1,128 @@
+[33ma608271[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mv4[m[33m, [m[1;31morigin/v4[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update Head.tsx
+[33ma612800[m Update Test Note.md
+[33mbbab50a[m Update quartz.config.ts
+[33mfde8c00[m Update quartz.config.ts
+[33m807e5bb[m Update favicon
+[33mb8cd99a[m Update icon.png
+[33mf71d680[m Update quartz.layout.ts
+[33mf4020a7[m Update quartz.layout.ts
+[33m4951814[m Update quartz.layout.ts
+[33m647c4c2[m Update quartz.layout.ts
+[33m74806b3[m Update quartz.layout.ts
+[33m7aa9561[m Update quartz.layout.ts
+[33m692cbb2[m Update quartz.layout.ts
+[33m70a72ed[m Update quartz.layout.ts
+[33m2bfbc0e[m Update quartz.layout.ts
+[33m6fa4b37[m Update quartz.layout.ts
+[33m9fef254[m Update quartz.layout.ts
+[33m8b7b972[m Delete Another Test.md
+[33me097317[m Update Test Note.md
+[33mc044d85[m Create Another Test.md
+[33m76c95af[m Delete Yet another test.md
+[33medab255[m Delete Test Note.md
+[33mbf19ea9[m Create Megan Leon Hike Montana for Web.png
+[33mc6bd907[m Create Aspiring Human Logo.png
+[33m7fd7d4c[m Create Yet another test.md
+[33m0bd0bdf[m Create Test Note.md
+[33m7989bb1[m Create Another Test.md
+[33m291d38b[m Delete Megan Leon Hike Montana for Web.png
+[33m24cfc58[m Delete Aspiring Human Logo.png
+[33mdfe7f26[m Delete Another Test.md
+[33m96d39e4[m Update index.md
+[33m2e45342[m Create Megan Leon Hike Montana for Web.png
+[33md86e2c2[m Delete Aspiring Human Logo.png
+[33mecdf637[m Create Aspiring Human Logo.png
+[33m34760f2[m Update index.md
+[33md46d038[m Create Aspiring Human Logo.png
+[33m2a1f72c[m Update index.md
+[33mb7eaf63[m Update quartz.config.ts
+[33m0c8e6ba[m Update quartz.layout.ts
+[33ma6490fc[m Update index.ts
+[33m0208f6d[m Update quartz.layout.ts
+[33m1db85f9[m Update index.ts
+[33ma8c740f[m Update LogoTitle.tsx
+[33m303c705[m Update quartz.layout.ts
+[33m4bc0ee9[m Update quartz.layout.ts
+[33m5cfc027[m Update index.ts
+[33mf9fa8f4[m Update index.ts
+[33m690c70b[m Update quartz.layout.ts
+[33m35ccb46[m Update Yet another test.md
+[33m4f39632[m Create aspiring-human-logo.png
+[33mcdeac8c[m Create LogoTitle.tsx
+[33m3c7c5d9[m Update quartz.layout.ts
+[33me7d397c[m Update quartz.config.ts
+[33m40e05fa[m Delete Yet another test.md
+[33ma9eb028[m Create Yet another test.md
+[33m69e1b31[m Create Yet another test.md
+[33m18e154d[m Create Another Test.md
+[33m637f05a[m Minor edits
+[33m20294ae[m Add CNAME for custom domain
+[33m87dc891[m Update Test Note.md
+[33m9a6e03d[m Quartz sync: Sep 27, 2025, 3:39 PM
+[33mc05f518[m Quartz sync: Sep 27, 2025, 3:34 PM
+[33mf5450e9[m Quartz sync: Sep 27, 2025, 3:24 PM
+[33meb6cc6f[m chore(deps): bump the production-dependencies group with 9 updates (#2134)
+[33m4923aff[m[33m ([m[1;33mtag: [m[1;33mv4.5.2[m[33m)[m fix(callouts)!: match callout DOM to Obsidian (#2104)
+[33m4c78d29[m fix(search): css min padding
+[33m7a77f54[m fix(i18n): Add RTL Detection based on Config Set Language (#2100)
+[33m03ccac2[m feat: Update FlexSearch and Add Support for All Languages (#2108)
+[33m6add0c8[m fix(style): layout flow, search restyle
+[33m8df8d5c[m fix: fix CNAME path error (#2096)
+[33mac06a52[m chore(deps): bump the production-dependencies group with 3 updates (#2122)
+[33m6457ad2[m chore(deps): bump actions/setup-node in the ci-dependencies group (#2123)
+[33m05e4f42[m docs: update nav for cloudflare pages (#2130)
+[33m7bcab60[m Update de-DE.ts (#2128)
+[33me77a051[m feat(analytics): add support for Vercel Web Analytics provider (#2119)
+[33mecb3d92[m Fix: normalize chokidar paths for hot reload on Windows (#2120)
+[33m42052eb[m chore(deps): bump the production-dependencies group across 1 directory with 9 updates (#2106)
+[33ma402828[m docs: remove out of date admonition (#2114)
+[33m0a57d03[m feat(typst): invert the math equation for typst rendered equation in darkmode (#2095)
+[33mebff661[m Add pl translation for search placeholder (#2090)
+[33me918f11[m feat: add support for matomo analytics (#2051)
+[33m45c130b[m chore(deps): bump the ci-dependencies group across 1 directory with 3 updates (#2080)
+[33mbb22312[m chore(deps): bump the production-dependencies group across 1 directory with 6 updates (#2082)
+[33m53d6e18[m fix(a11y): aria-controls and role fixes
+[33m9105984[m fix(search): prevent Enter key handling during IME composition (#2070)
+[33mefddd79[m revert(graph): roll back changes due to issues with Safari (#2067)
+[33m8d19bc3[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#2057)
+[33m2c53654[m chore(deps): bump the production-dependencies group across 1 directory with 14 updates (#2066)
+[33m059848f[m fix(rss): add cdata to escape html content for rss feed (#2046)
+[33macfaa47[m chore: add PR templates (#2045)
+[33m7253557[m fix(goatcounter): properly count SPA page hits (#2035)
+[33m82c53a1[m fix docs for using custom components compositionally (#2044)
+[33meceefd1[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#2028)
+[33m40f30be[m fix(emoji): duplicate mappings (#2042)
+[33m4678964[m fix(emoji): added missing skintone variations to emoji map (#2040)
+[33m74606a1[m fix(emoji): map multi-unicode emoji properly (#2037)
+[33m930eb1c[m fix(cli): filter files on rebuild using --serve (#2039)
+[33m52a5196[m chore: converted Emoji version 16 (#2018)
+[33mcdd0be2[m feat(giscus): expose language option for Comments component (#2012)
+[33m9de370a[m watcher: manually ignore .git changes
+[33mae0466e[m css: unapply redundant bg on section
+[33m499adf4[m fix(ios): mobile explorer overscroll behavior (#2008)
+[33mcd13ce3[m docs: clarify parens on ignorePatterns (closes #2009)
+[33mb48aa91[m fix(flex): respect DesktopOnly and MobileOnly components (#1971)
+[33m7b052e8[m docs: added note to not forget to add https:// to the plausible-host (for #1337) (#2000)
+[33m1cfc876[m fix: tz-less date parse in local tz instead of utc (closes #1615)
+[33m096ef22[m docs: fix explorernode references (closes #1985)
+[33mbc16822[m docs: showcase housekeeping
+[33m7fa9253[m[33m ([m[1;33mtag: [m[1;33mv4.5.1[m[33m)[m Node 22 (#1997)
+[33m996d8d5[m chore(deps): bump the production-dependencies group across 1 directory with 9 updates (#1996)
+[33m951d1de[m chore(deps): replace `chalk` and `rimraf` with builtin functions (#1879)
+[33m51b43a2[m feat(links): added ofm option to style unresolved or broken links differently (#1992)
+[33mc934945[m css: adjust color blend for search bg
+[33m6d49d97[m fix(analytics): streamline posthog script loading and event capturing (#1974)
+[33mc9741d0[m fix(a11y): increased content-meta text contrast (#1980)
+[33m73983cf[m feat(i18n): Bahasa Indonesia translations (#1981)
+[33m52344cd[m fix(style): Katex adding scrollbars on non-overflowing content (#1989)
+[33mfec0a62[m fix(ofm): allow wikilink alias to be empty (#1984)
+[33me98d97a[m feat(i18n): readermode translations and icon (#1961)
+[33mc33f96e[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#1953)
+[33m0b348a0[m chore(deps): bump the production-dependencies group with 7 updates (#1964)
+[33m59d4b4e[m fix(analytics): Umami tracking pageviews properly
+[33madf4420[m fix(graph): provide proper workaround for pixijs webgpu issue #1899 (#1949)
+[33mdc2c4dc[m docs: add fix for 'remote end hung up unexpectedly' error during initial sync (#1939)
+[33m6ba9c7c[m doc(favicon): add documentation of favicon plugin (#1948)
+[33m8d5b13e[m fix(fonts): Fixed page title fonts not downloadable to local (#1898)
+[33m4d07ac9[m chore(deps-dev): bump the production-dependencies group with 2 updates (#1952)
+[33m32d3fc0[m chore(ci): fix proj name
