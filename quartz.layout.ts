@@ -36,7 +36,10 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-  hideFolders: ["_hidden", "posts", "tags"],
+  filterFn: (node) => {
+    const omit = new Set(["_hidden"]); // add any other folder names here
+    return !omit.has(node.displayName.toLowerCase());
+  },
 }),
   ],
   right: [
