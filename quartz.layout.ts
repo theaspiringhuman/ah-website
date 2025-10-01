@@ -36,9 +36,18 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-  filterFn: (node) => {
-    const omit = new Set(["_hidden"]); // add any other folder names here
-    return !omit.has(node.displayName.toLowerCase());
+  filterFn: function hideHidden(node) {
+    const omit = new Set(["_hidden"]);
+
+    // Check this node
+    if (omit.has(node.displayName.toLowerCase())) return false;
+
+    // If it has children, filter them recursively
+    if (node.children) {
+      node.children = node.children.filter(hideHidden);
+    }
+
+    return true;
   },
 }),
   ],
