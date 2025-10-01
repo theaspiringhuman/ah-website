@@ -1,1 +1,0 @@
-This is to check that I am able to sync the changes I make in Obsidian to my live site. :)
