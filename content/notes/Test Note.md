@@ -1,1 +1,1 @@
-This is just a test to see if this ends up in GitHub! leads to [[Another Test]]. just a test agaaaain
+This is just a test to see if this ends up in GitHub! leads to [[Another Test]]. Success. Was able to revert back to an earlier state! Praise be.
