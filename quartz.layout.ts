@@ -35,21 +35,20 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-  filterFn: function hideHidden(node) {
-    const omit = new Set(["_hidden"]);
+    // Custom Explorer with hidden-folder filtering
+    (() => {
+      const filterFn = function hideHidden(node: any) {
+        const omit = new Set(["_hidden"])
+        if (omit.has(node.displayName.toLowerCase())) return false
+        if (node.children) {
+          node.children = node.children.filter(hideHidden)
+        }
+        return true
+      }
 
-    // Check this node
-    if (omit.has(node.displayName.toLowerCase())) return false;
-
-    // If it has children, filter them recursively
-    if (node.children) {
-      node.children = node.children.filter(hideHidden);
-    }
-
-    return true;
-  },
-}),
+      // Pass props in a way that TypeScript accepts
+      return Component.Explorer({ filterFn })
+    })(),
   ],
   right: [
     Component.Graph(),
@@ -58,9 +57,13 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
