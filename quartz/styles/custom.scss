@@ -27,12 +27,15 @@ a {
 }
 /* Sidebar links */
 .sidebar a,
-.sidebar .internal {
-  color: #000000; /* your custom color */
+.sidebar a.internal,
+.sidebar a.internal.broken,
+.sidebar li a {
+  color: #000000 !important; /* override all defaults */
   text-decoration: none;
 
   &:hover {
-    color: #e7b47f; /* hover color */
+    color: #e7b47f !important;
   }
 }
+
 
