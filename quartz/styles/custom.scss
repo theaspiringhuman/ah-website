@@ -25,3 +25,14 @@ a {
     }
   }
 }
+/* Sidebar links */
+.sidebar a,
+.sidebar .internal {
+  color: #000000; /* your custom color */
+  text-decoration: none;
+
+  &:hover {
+    color: #e7b47f; /* hover color */
+  }
+}
+
