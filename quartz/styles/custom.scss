@@ -1,14 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-/* Custom link colors */
+
+/* -------------------------------
+   Global link styling (light mode)
+-------------------------------- */
 a {
-  color: #000000; /* normal links */
+  color: #000000; /* black */
   text-decoration: none;
   transition: color 0.2s ease;
 
   &:hover {
-    color: #e7b47f; /* hover state */
+    color: #e7b47f; /* gold hover */
   }
 
   &.internal {
@@ -19,26 +22,58 @@ a {
     &.broken {
       color: #FF6F61;
       opacity: 0.5;
+
       &:hover {
         opacity: 0.8;
       }
     }
   }
 }
-/* Sidebar links */
+
+/* -------------------------------
+   Dark mode links
+-------------------------------- */
+body.dark a {
+  color: #ffffff; /* white links in dark mode */
+
+  &:hover {
+    color: #e7b47f; /* gold hover in dark mode */
+  }
+
+  &.internal {
+    background-color: var(--highlight);
+  }
+}
+
+/* -------------------------------
+   Sidebar links
+-------------------------------- */
 .sidebar a,
 .sidebar a.internal,
 .sidebar a.internal.broken,
 .sidebar li a {
-  color: #000000 !important; /* override all defaults */
+  color: #000000 !important;
   text-decoration: none;
 
   &:hover {
     color: #e7b47f !important;
   }
 }
-/* Hide note metadata (publish date & read time) */
+
+body.dark .sidebar a,
+body.dark .sidebar a.internal,
+body.dark .sidebar a.internal.broken,
+body.dark .sidebar li a {
+  color: #ffffff !important;
+
+  &:hover {
+    color: #e7b47f !important;
+  }
+}
+
+/* -------------------------------
+   Hide note metadata
+-------------------------------- */
 .content-meta {
   display: none !important;
 }
-
