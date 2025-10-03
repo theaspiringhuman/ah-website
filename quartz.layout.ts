@@ -76,7 +76,21 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: function hideHidden(node) {
+    const omit = new Set(["_hidden"]);
+
+    // Check this node
+    if (omit.has(node.displayName.toLowerCase())) return false;
+
+    // If it has children, filter them recursively
+    if (node.children) {
+      node.children = node.children.filter(hideHidden);
+    }
+
+    return true;
+  },
+}),
   ],
   right: [],
 }
