@@ -9,7 +9,7 @@ Source: #Journals [[Randolph Black]]
 ---
 
 Last night I listened to [a podcast](https://creators.spotify.com/pod/profile/untimely-reflections/episodes/112-Leo-Tolstoy---What-is-Art-e3011sk/a-abqutnk) discussing [[Leo Tolstoy]]'s essay, [*What is Art*](https://www.google.com/books/edition/What_is_Art/0SYVAAAAYAAJ?hl=en&gbpv=1), & it captivated me. Mainly the idea, which seems so obvious in hindsight, but which has long eluded me, that art is a form of *communication*. It is a way for the artist to draw others into an intimate [[connection]] with her inner world, & above all:
-### *In the same way that language is used to communicate information, so is art used to communicate **emotion**.
+### In the same way that language is used to communicate information, so is art used to communicate **emotion**.
 
 This is a profound insight to me. For so long I've been asking myself, *What is my purpose as an artist? What even **is** art?* *Why go through all of this trouble--sacrificing financial stability, plunging into the depths of my [[unconscious]] & nearly losing myself in that labyrinth--what is the justification for all of this?* 
 
@@ -21,9 +21,9 @@ Tolstoy says that art has the power to do this. When an artist can truly convey 
 
 To Tolstoy, the greatest art communicates feelings that unite people in [[Love]], compassion, & the recognition of our common humanity. 
 
-If I can accomplish this; if I can have any sort of impact that moves humanity in the direction of unity & compassion; If I can evoke in others feelings of love for their fellows, this will have been worth everything I've been going through. 
+If I can accomplish this; if I can have any sort of impact that moves humanity in the direction of unity & compassion; if I can evoke in others feelings of love for their fellows, this will have been worth everything I've been going through. 
 
-Tolstoy says that the role of the artist is not a luxury or an "extra," but something essential to the survival of humanity. He believed that in order for human beings to co-exist, we need an emotional understanding of one another. A "shared inner life." Art bring what's within out into the world to provide shared emotional experiences, & this is essential for empathy amongst human beings. Especially those from very different backgrounds. Without a constant exchange of feelings, Tolstoy believed that society would fragment.
+Tolstoy says that the role of the artist is not a luxury or an "extra," but something essential to the survival of humanity. He believed that in order for human beings to co-exist, we need an emotional understanding of one another. A "shared inner life." Art brings what's within out into the world to provide shared emotional experiences, & this is essential for empathy amongst human beings. Especially those from very different backgrounds. Without a constant exchange of feelings, Tolstoy believed that society would fragment.
 
 True "progress," according to Tolstoy isn't technological or economic, it's the growth of [[Love]] & brotherhood. Art is the engine for that progress because it continually widens the circle of people we can emotionally identify with. Without art, humanity would remain at a primitive stage, trapped in selfishness & mutual incomprehension. 
 
