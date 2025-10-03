@@ -2,74 +2,34 @@
 
 // put your custom CSS here!
 
-/* -------------------------------
-   Global link styling (light mode)
--------------------------------- */
-a {
-  color: #000000; /* black */
-  text-decoration: none;
-  transition: color 0.2s ease;
-
-  &:hover {
-    color: #e7b47f; /* gold hover */
-  }
-
-  &.internal {
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
-
-    &.broken {
-      color: #FF6F61;
-      opacity: 0.5;
-
-      &:hover {
-        opacity: 0.8;
-      }
-    }
-  }
+/* Light mode links */
+body:not(.dark) a {
+  color: #000000;
 }
 
-/* -------------------------------
-   Dark mode links
--------------------------------- */
-body.dark a {
-  color: #ffffff; /* white links in dark mode */
-
-  &:hover {
-    color: #e7b47f; /* gold hover in dark mode */
-  }
-
-  &.internal {
-    background-color: var(--highlight);
-  }
-}
-
-/* -------------------------------
-   Sidebar links
--------------------------------- */
-.sidebar a,
-.sidebar a.internal,
-.sidebar a.internal.broken,
-.sidebar li a {
+body:not(.dark) .sidebar a {
   color: #000000 !important;
-  text-decoration: none;
-
-  &:hover {
-    color: #e7b47f !important;
-  }
 }
 
-body.dark .sidebar a,
-body.dark .sidebar a.internal,
-body.dark .sidebar a.internal.broken,
-body.dark .sidebar li a {
+body:not(.dark) a:hover,
+body:not(.dark) .sidebar a:hover {
+  color: #e7b47f !important;
+}
+
+/* Dark mode links */
+body.dark a {
+  color: #ffffff;
+}
+
+body.dark .sidebar a {
   color: #ffffff !important;
-
-  &:hover {
-    color: #e7b47f !important;
-  }
 }
+
+body.dark a:hover,
+body.dark .sidebar a:hover {
+  color: #e7b47f !important;
+}
+
 
 /* -------------------------------
    Hide note metadata
