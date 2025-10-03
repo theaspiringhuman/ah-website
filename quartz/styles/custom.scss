@@ -1,3 +1,27 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Custom link colors */
+a {
+  color: #000000; /* normal links */
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #e7b47f; /* hover state */
+  }
+
+  &.internal {
+    background-color: var(--highlight);
+    padding: 0 0.1rem;
+    border-radius: 5px;
+
+    &.broken {
+      color: #FF6F61;
+      opacity: 0.5;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}
