@@ -38,10 +38,7 @@ a {
   }
 }
 /* Hide note metadata (publish date & read time) */
-.note-meta,
-.page-meta,
-article > .meta,
-header > .meta {
+.content-meta {
   display: none !important;
 }
 
