@@ -8,7 +8,7 @@ Source: #Journals [[Randolph Black]]
 
 ---
 
-Last night I listened to [a podcast](https://creators.spotify.com/pod/profile/untimely-reflections/episodes/112-Leo-Tolstoy---What-is-Art-e3011sk/a-abqutnk) discussing [[Leo Tolstoy]]'s essay, [*What is Art*](https://www.google.com/books/edition/What_is_Art/0SYVAAAAYAAJ?hl=en&gbpv=1), & it captivated me. Mainly the idea, which seems so obvious in hindsight, but which has long eluded me--that art is a form of *communication*. It is a way for the artist to draw others into an intimate [[connection]] with her inner world, & above all:
+Last night I listened to [a podcast](https://creators.spotify.com/pod/profile/untimely-reflections/episodes/112-Leo-Tolstoy---What-is-Art-e3011sk/a-abqutnk) discussing [[Leo Tolstoy]]'s essay, [*What is Art*](https://www.google.com/books/edition/What_is_Art/0SYVAAAAYAAJ?hl=en&gbpv=1), & it captivated me. Mainly the idea, which seems so obvious in hindsight, but which has long eluded me, that art is a form of *communication*. It is a way for the artist to draw others into an intimate [[connection]] with her inner world, & above all:
 ### *In the same way that language is used to communicate information, so is art used to communicate **emotion**.
 
 This is a profound insight to me. For so long I've been asking myself, *What is my purpose as an artist? What even **is** art?* *Why go through all of this trouble--sacrificing financial stability, plunging into the depths of my [[unconscious]] & nearly losing myself in that labyrinth--what is the justification for all of this?* 
