@@ -2,7 +2,7 @@ Date: 09-28-2025
 
 Category: #creativityandselfexpression 
 
-Tags: [[Creativity]]
+Tags: [[creativity]]
 
 Source: #Journals [[Randolph Black]]
 
@@ -21,7 +21,7 @@ Tolstoy says that art has the power to do this. When an artist can truly convey 
 
 To Tolstoy, the greatest art communicates feelings that unite people in [[love]], compassion, & the recognition of our common humanity. 
 
-If I can accomplish this; if I can have any sort of impact that moves humanity in the direction of unity & compassion; if I can evoke in others feelings of love for their fellows, this will have been worth [[Suffering|everything I've been going through]]. 
+If I can accomplish this; if I can have any sort of impact that moves humanity in the direction of unity & compassion; if I can evoke in others feelings of love for their fellows, this will have been worth [[suffering|everything I've been going through]]. 
 
 Tolstoy says that the role of the artist is not a luxury or an "extra," but something essential to the survival of humanity. He believed that in order for human beings to co-exist, we need an emotional understanding of one another. A "shared inner life." Art brings what's within out into the world to provide shared emotional experiences, & this is essential for empathy amongst human beings. Especially those from very different backgrounds. Without a constant exchange of feelings, Tolstoy believed that society would fragment.
 
@@ -35,7 +35,7 @@ I'd like to just jot down Tolstoy's definition of "art":
 
 ### ***Art**: The activity by which one person consciously, by means of certain external signs, hands to others the feelings (s)he has lived through.*
 
-(Art is not merely about creating [[Beauty]] or representing [[reality]]. It is primarily about sharing an inner experience, so others can feel it too.)
+(Art is not merely about creating [[beauty]] or representing [[reality]]. It is primarily about sharing an inner experience, so others can feel it too.)
 
 ---
 
@@ -48,7 +48,7 @@ This insight hit me with such profundity that it made its way into [[Dream - Int
 >Like a declaration of Love:
 >The consciousness of our dependence on each other.
 >A confession.
->An [[Unconscious]] act that reflects the true [[Meaning]] of life."
+>An [[unconscious]] act that reflects the true [[meaning]] of life."
 >- [[Andrei Tarkovsky]]
 
 ---
