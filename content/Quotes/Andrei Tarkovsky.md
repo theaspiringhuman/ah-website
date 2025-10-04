@@ -12,7 +12,7 @@
 
 “To be free, you must be so independent that your existence is an act of rebellion.”
 
-#### **“The goal for all art—unless it is merely a frivolous exercise—is to explain to the artist himself and to those around him what man lives for, what is the meaning of his existence.”
+#### “The goal for all art—unless it is merely a frivolous exercise—is to explain to the artist himself and to those around him what man lives for, what is the meaning of his existence.”
 
 “A man who has no inner life is a slave to his surroundings.”
 
@@ -26,7 +26,7 @@
 
 “An artist never works under ideal conditions. If they existed, his work wouldn’t exist, for the artist doesn’t live in a vacuum. Some sort of pressure must exist.”
 
-#### **“The artist’s mission is to make people more attentive to the beauty of the world.”
+#### “The artist’s mission is to make people more attentive to the beauty of the world.”
 
 “Art must transcend logic and achieve a kind of absolute simplicity and purity.”
 
@@ -40,4 +40,4 @@
 
 “The artist should be a servant, not a master. He should have a sense of duty toward his gift.”
 
-### **“The artist is always alone, because he is in eternal opposition to the world.”
+### “The artist is always alone, because he is in eternal opposition to the world.”
