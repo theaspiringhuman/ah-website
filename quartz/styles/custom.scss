@@ -2,35 +2,6 @@
 
 // put your custom CSS here!
 
-/* Light mode links */
-body:not(.dark) a {
-  color: #000000;
-}
-
-body:not(.dark) .sidebar a {
-  color: #000000 !important;
-}
-
-body:not(.dark) a:hover,
-body:not(.dark) .sidebar a:hover {
-  color: #e7b47f !important;
-}
-
-/* Dark mode links */
-body.dark a {
-  color: #ffffff;
-}
-
-body.dark .sidebar a {
-  color: #ffffff !important;
-}
-
-body.dark a:hover,
-body.dark .sidebar a:hover {
-  color: #e7b47f !important;
-}
-
-
 /* -------------------------------
    Hide note metadata
 -------------------------------- */
