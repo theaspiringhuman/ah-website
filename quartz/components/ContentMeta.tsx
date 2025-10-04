@@ -15,7 +15,7 @@ interface ContentMetaOptions {
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: false,
+  showReadingTime: true,
   showComma: true,
 }
 
@@ -27,30 +27,29 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const text = fileData.text
 
     if (text) {
-  const segments: (string | JSX.Element)[] = []
+      const segments: (string | JSX.Element)[] = []
 
-  // Remove this block to get rid of dates entirely
-  // if (fileData.dates) {
-  //   segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-  // }
+      if (fileData.dates) {
+        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+      }
 
-  // Display reading time if enabled
-  if (options.showReadingTime) {
-    const { minutes, words: _words } = readingTime(text)
-    const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
-      minutes: Math.ceil(minutes),
-    })
-    segments.push(<span>{displayedTime}</span>)
-  }
+      // Display reading time if enabled
+      if (options.showReadingTime) {
+        const { minutes, words: _words } = readingTime(text)
+        const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
+          minutes: Math.ceil(minutes),
+        })
+        segments.push(<span>{displayedTime}</span>)
+      }
 
-  return (
-    <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-      {segments}
-    </p>
-  )
-} else {
-  return null
-}
+      return (
+        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+          {segments}
+        </p>
+      )
+    } else {
+      return null
+    }
   }
 
   ContentMetadata.css = style
