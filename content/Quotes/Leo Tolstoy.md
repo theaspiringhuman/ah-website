@@ -10,7 +10,7 @@
 
 “If, then, I were asked for the most important advice I could give, that which I considered to be the most useful to the men of our century, I should simply say: in the name of God, stop a moment, cease your work, look around you.”  
 
-#### **“If you want to be happy, be.”
+#### “If you want to be happy, be.”
 
 “A quiet secluded life in the country, with the possibility of being useful to people to whom it is easy to do good, and who are not accustomed to have it done to them; then work which one hopes may be of some use; then rest, nature, books, music, love for one's neighbor — such is my idea of happiness.”
 
@@ -20,7 +20,7 @@
 
 “If we admit that human life can be ruled by reason, then all possibility of life is destroyed.”
 
-#### **“We are asleep until we fall in love!”
+#### “We are asleep until we fall in love!”
 
 “Seize the moments of happiness, love and be loved! That is the only reality in the world, all else is folly. It is the one thing we are interested in here.”
 
