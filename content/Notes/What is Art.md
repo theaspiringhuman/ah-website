@@ -1,7 +1,5 @@
 Date: 09-28-2025 
 
-Category: #creativityandselfexpression 
-
 Tags: [[creativity]]
 
 Source: #Journals [[Randolph Black]]
