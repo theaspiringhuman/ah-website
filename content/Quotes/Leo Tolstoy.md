@@ -1,3 +1,7 @@
+![[Pasted image 20251004111252.png]]
+
+---
+
 "Truth, like gold, is not  to be obtained by growth but by the washing away of all that is not gold." 
 
 “We can know only that we know nothing. And that is the highest degree of human wisdom.”  
