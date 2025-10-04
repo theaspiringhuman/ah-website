@@ -8,3 +8,7 @@
 .content-meta {
   display: none !important;
 }
+/* Hide metadata on folders pages */
+.folder-page .content-meta {
+  display: none !important;
+}
