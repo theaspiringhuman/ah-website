@@ -22,7 +22,7 @@ Despite the extreme discomfort of this phase, it would be futile and counter-pro
 ---
 
 >[!quote]
-"Questioning is the piety of the  mind." - Martin Heidegger
+>"Questioning is the piety of the  mind." - Martin Heidegger
 
 ---
 #### Links to:
