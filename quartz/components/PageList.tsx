@@ -77,11 +77,51 @@ export const PageList: QuartzComponent = ({ fileData, allFiles, limit, sort }: P
 }
 
 PageList.css = `
+.section-ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  width: 100%;
+}
+
+.section-li {
+  width: 100%;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+}
+
 .section h3 {
   margin: 0;
+  font-size: 1.1rem;
+  width: 100%;
+  text-align: left; /* change to 'center' if you prefer centered titles */
+}
+
+.section h3 a {
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  color: var(--darkgray);
+}
+
+.section h3 a:hover {
+  color: var(--accent);
 }
 
 .section > .tags {
-  margin: 0;
+  margin: 0.25rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 `
