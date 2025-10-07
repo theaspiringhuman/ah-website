@@ -13,6 +13,7 @@ export function byDateAndAlphabetical(): (f1, f2) => number {
     return f1Title.localeCompare(f2Title)
   }
 }
+
 export function alphabeticalFolderFirst(): SortFn {
   return (f1, f2) => {
     const f1IsFolder = isFolderPath(f1.slug ?? "")
@@ -89,6 +90,7 @@ PageList.css = `
 
 .section-li {
   width: 100%;
+  padding: 0.25rem 0;
 }
 
 .section {
@@ -101,15 +103,16 @@ PageList.css = `
 }
 
 .section h3 {
-  margin: 0;
-  font-size: 1.1rem;
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+  font-weight: 500;
   width: 100%;
-  text-align: left; /* change to 'center' if you prefer centered titles */
 }
 
 .section h3 a {
   display: block;
   width: 100%;
+  text-align: center; /* change to 'left' if you prefer */
   text-decoration: none;
   color: var(--darkgray);
 }
@@ -124,8 +127,8 @@ PageList.css = `
   flex-wrap: wrap;
   gap: 0.5rem;
 }
-`
-/* Make the entire desc block stretch full width */
+
+/* Ensure all containers stretch full width */
 .section-ul,
 .section-li,
 .section,
@@ -134,24 +137,4 @@ PageList.css = `
   max-width: 100%;
   box-sizing: border-box;
 }
-
-/* Optional padding for breathing room */
-.section-li {
-  padding: 0.25rem 0;
-}
-
-/* Force the link itself to take the full width and center text */
-.section .desc h3 a {
-  display: block;
-  width: 100%;
-  text-align: center;
-  text-decoration: none;
-  color: inherit;
-}
-
-/* Make the titles look good */
-.section .desc h3 {
-  margin: 0.5rem 0;
-  font-weight: 500;
-  font-size: 1.2rem;
-}
+`
