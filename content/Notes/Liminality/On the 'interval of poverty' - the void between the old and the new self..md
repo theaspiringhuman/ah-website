@@ -16,7 +16,7 @@ Woodman describes this collapse of old structures as a "necessary emptiness" & c
 
 During this liminal phase, money, ambition, & external validation disappear. It's like a fast for the psyche. A fast from all that once nourished it (approval, control, productivity). This phase isn't punishment though. According to Woodman, it's more of a protection for the fragile new consciousness, which could easily be overwhelmed by old patterns if abundance came before its time. The poverty becomes a sort of cocoon that slows you down, forces you to go within, & keeps the ego from running off & trying to use the new energy in old ways. 
 
-#### "Poverty can be a womb that protects the emerging soul."
+#### "Poverty (or dryness, or emptiness in terms of productivity our outer-world efficacy) can be a womb that protects the emerging soul."
 
 When you're carrying something new within you, you must protect it through [[solitude]] & discipline & trust, until it's ready to emerge. This is a lot like a mother's womb, enveloping the infant in a dark void of safe containment. Hence the "pregnant virgin" archetype. 
 
@@ -33,12 +33,7 @@ Productivity returns, but it comes from a much deeper place. From the true Self.
 Rather than striving for [[success]], you learn to live with a deep sense of [[meaning]], attracting to yourself, through your [[authenticity]], a rich & aligned life.
 
 Though this winter season has been long & dark, & dry, & empty (at least in the outer world), I will hold to [[faith]] that Spring emerges. Always. & I'll trust that this new life that is forming in me will be so worth the wait. 
-
----
-
-> [!quote]  
-> “In the interval of poverty, the ego learns humility. It cannot create the new life. It can only wait, tend, and trust the process.”
-> - [[Marion Woodman]]
+#### “In the interval of poverty, the ego learns humility. It cannot create the new life. It can only wait, tend, and trust the process.” - [[Marion Woodman]]
 
 ---
 
