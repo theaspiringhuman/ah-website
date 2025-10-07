@@ -125,3 +125,33 @@ PageList.css = `
   gap: 0.5rem;
 }
 `
+/* Make the entire desc block stretch full width */
+.section-ul,
+.section-li,
+.section,
+.desc {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Optional padding for breathing room */
+.section-li {
+  padding: 0.25rem 0;
+}
+
+/* Force the link itself to take the full width and center text */
+.section .desc h3 a {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Make the titles look good */
+.section .desc h3 {
+  margin: 0.5rem 0;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
