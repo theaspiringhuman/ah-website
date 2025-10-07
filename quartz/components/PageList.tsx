@@ -6,6 +6,13 @@ import { GlobalConfiguration } from "../cfg"
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
 // Sort folders first, then alphabetically by title
+export function byDateAndAlphabetical(): (f1, f2) => number {
+  return (f1, f2) => {
+    const f1Title = f1.frontmatter?.title?.toLowerCase() ?? ""
+    const f2Title = f2.frontmatter?.title?.toLowerCase() ?? ""
+    return f1Title.localeCompare(f2Title)
+  }
+}
 export function alphabeticalFolderFirst(): SortFn {
   return (f1, f2) => {
     const f1IsFolder = isFolderPath(f1.slug ?? "")
