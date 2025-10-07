@@ -6,7 +6,7 @@ Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://th
 
 ---
 ![[nigredo.png]]
-**Nigredo – The Blackening**
+### Nigredo – The Blackening
 
 **Keywords:** dissolution, putrefaction, darkness, [[ego-death]], [[shadow]], chaos, purification through decay
 
