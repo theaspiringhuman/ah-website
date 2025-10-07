@@ -13,7 +13,6 @@ export function byDateAndAlphabetical(): (f1, f2) => number {
     return f1Title.localeCompare(f2Title)
   }
 }
-
 export function alphabeticalFolderFirst(): SortFn {
   return (f1, f2) => {
     const f1IsFolder = isFolderPath(f1.slug ?? "")
@@ -78,63 +77,11 @@ export const PageList: QuartzComponent = ({ fileData, allFiles, limit, sort }: P
 }
 
 PageList.css = `
-.section-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-  width: 100%;
-}
-
-.section-li {
-  width: 100%;
-  padding: 0.25rem 0;
-}
-
-.section {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  width: 100%;
-  border-bottom: 1px solid var(--lightgray);
-  padding-bottom: 0.5rem;
-}
-
 .section h3 {
-  margin: 0.5rem 0;
-  font-size: 1.2rem;
-  font-weight: 500;
-  width: 100%;
-}
-
-.section h3 a {
-  display: block;
-  width: 100%;
-  text-align: center; /* change to 'left' if you prefer */
-  text-decoration: none;
-  color: var(--darkgray);
-}
-
-.section h3 a:hover {
-  color: var(--accent);
+  margin: 0;
 }
 
 .section > .tags {
-  margin: 0.25rem 0 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-/* Ensure all containers stretch full width */
-.section-ul,
-.section-li,
-.section,
-.desc {
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
+  margin: 0;
 }
 `
