@@ -26,7 +26,7 @@ In this uncomfortable suspension, you are not yet who you will become, & you can
 
 What makes all of this even more painful is that the world doesn't understand or [[value]] these liminal states. They are not outwardly productive & therefore the world sees no use for them. However, according to Marion Woodman, this "interval of poverty" is where deep & profound soul transformation takes place. 
 
-A great wave of relief came over me when I read that there is in fact and end to this excruciating phase. Eventually, something shifts, & the emptiness reveals itself to have been all along not emptiness but a womb. New life emerges from the stillness. New forms of work, [[art]], & purpose in the world. 
+A great wave of relief came over me when I read that there is in fact an end to this excruciating phase. Eventually, something shifts, & the emptiness reveals itself to have been all along not emptiness but a womb. New life emerges from the stillness. New forms of work, [[art]], & purpose in the world. 
 
 Productivity returns, but it comes from a much deeper place. From the true Self. The soul. 
 
