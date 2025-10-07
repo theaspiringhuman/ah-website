@@ -16,7 +16,7 @@ Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://th
 
 Nigredo is the **first stage of the Magnum Opus** (the Great Work of alchemy). It represents:
 
-- **Breakdown, dissolution, and decay**—the burning away of [[illusions]] and the death of the old self.
+- **Breakdown, dissolution, and decay**—the burning away of [[illusion]]s and the death of the old self.
 
 - The stage of **shadow work**, confrontation with darkness, or entering the unknown.
 
