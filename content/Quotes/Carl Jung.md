@@ -1,4 +1,4 @@
-![[carl-jung.png]]
+![[carl-jung.png|650]]
 
 ---
 
