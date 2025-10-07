@@ -1,6 +1,6 @@
 Date: 10-06-2025
 
-Tags: [[liminality]]
+Tags: [[liminality]] [[Milan]]
 
 Source: #Journals [[Randolph Black]]
 
