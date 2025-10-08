@@ -6,6 +6,9 @@ Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://th
 
 ---
 ![[watercolor-nigredo.png]]
+ <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0.3em; margin-left: 9em;">
+  <em>Nigredo</em>, 2025. Watercolor. Yours Truly.
+</p>
 ### Nigredo – The Blackening
 
 **Keywords:** dissolution, putrefaction, darkness, [[ego-death]], [[shadow]], chaos, purification through decay
@@ -30,7 +33,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-#### Imagery & Symbolism:
+### Imagery & Symbolism:
 
 - **Blackness (nigredo)**: The dark, opaque stage of decomposition.
 
@@ -45,7 +48,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-#### Correspondences:
+### Correspondences:
 
 #### **Numerology**
 
@@ -67,7 +70,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-#### Quotes That Reflect Nigredo:
+### Quotes That Reflect Nigredo:
 
 > “In alchemy the term _nigredo_ signifies the initial state, the chaos or massa confusa, and also the blackening that occurs at the beginning of the work.”  
 > - [[Carl Jung]], Psychology and Alchemy
@@ -83,7 +86,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-### 🏛️ **Historical / Fun Facts**
+###  **Historical / Fun Facts**
 
 - Medieval alchemists sometimes described Nigredo as the **“black crow”** stage—an omen of death but also a herald of hidden wisdom.
     
@@ -102,7 +105,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-### 🎬 **Examples in Film & Literature**
+### **Examples in Film & Literature**
 
 - **Frodo in Mordor** (_The Lord of the Rings_): Weighed down by despair, carrying the burden of the Ring—his Nigredo moment of darkness before transformation.
     
@@ -117,7 +120,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-### 🌿 **What Nigredo Asks of You**
+### **What Nigredo Asks of You**
 
 - Can you allow the **old self to dissolve**, even when it feels terrifying?
     
@@ -132,7 +135,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-### 🔮 Practices & Reflections
+### Practices & Reflections
 
 - **Journaling**: Write a dialogue with your shadow—what is it asking you to face?
     
