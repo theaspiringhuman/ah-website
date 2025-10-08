@@ -1,4 +1,4 @@
-![[andrei-tarkovsky.jpg]]
+![[andrei-tarkovsky.png|400]]
 
 ---
 

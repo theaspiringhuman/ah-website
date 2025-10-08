@@ -1,4 +1,4 @@
-![[leo-tolstoy.png]]
+![[leo-tolstoy.png|400]]
 
 ---
 

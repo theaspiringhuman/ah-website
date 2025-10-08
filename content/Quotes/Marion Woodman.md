@@ -1,4 +1,4 @@
-![[marion-woodman.jpg|400]]
+![[marion-woodmanl.png]]
 
 ---
 
