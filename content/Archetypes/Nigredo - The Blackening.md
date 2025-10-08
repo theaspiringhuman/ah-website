@@ -68,7 +68,6 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 - Associated with **calcination, putrefaction, and fermentation**—breaking down the old into primal material for renewal.
 
 ---
-
 ### Quotes That Reflect Nigredo:
 
 > “In alchemy the term _nigredo_ signifies the initial state, the chaos or massa confusa, and also the blackening that occurs at the beginning of the work.”  
@@ -84,69 +83,65 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 > - Buddha
 
 ---
-
 ###  **Historical / Fun Facts**
 
 - Medieval alchemists sometimes described Nigredo as the **“black crow”** stage—an omen of death but also a herald of hidden wisdom.
-    
+
 - In the _Rosarium Philosophorum_ (16th century alchemical text), Nigredo is depicted as a **king and queen lying dead**—the symbolic union of opposites dissolved into putrefaction.
-    
+
 - Jung viewed Nigredo as **parallel to depression, despair, and the dark night of the soul**—but insisted it was not a dead end. It was the painful but essential beginning of individuation.
-    
+
 - Many mystics and initiatory traditions describe a parallel stage:
-    
-    - _St. John of the Cross_: the “Dark Night of the Soul.”
-        
-    - _Sufism_: _fana_ (annihilation of the self).
-        
-    - _Mythology_: descents into the underworld (Inanna, Persephone, Orpheus).
-        
+
+- _St. John of the Cross_: the “Dark Night of the Soul.”
+
+- _Sufism_: _fana_ (annihilation of the self).
+
+- _Mythology_: descents into the underworld (Inanna, Persephone, Orpheus).
 
 ---
-
 ### **Examples in Film & Literature**
 
 - **Frodo in Mordor** (_The Lord of the Rings_): Weighed down by despair, carrying the burden of the Ring—his Nigredo moment of darkness before transformation.
-    
+
 - **Neo in The Matrix**: His death in the first film—descending into nothingness before awakening as The One.
-    
+
 - **Dante’s Inferno**: The journey begins in the “dark wood”—the lost state before enlightenment.
-    
+
 - **Anakin Skywalker’s fall** (_Star Wars_): Consumed by darkness, he undergoes the destructive Nigredo before (eventual) redemption.
-    
+
 - **Breaking Bad (Walter White)**: His descent into shadow and corruption mirrors an uncontrolled Nigredo—transformation without rebirth.
-    
+
 
 ---
 
 ### **What Nigredo Asks of You**
 
 - Can you allow the **old self to dissolve**, even when it feels terrifying?
-    
+
 - Where in your life are you clinging to forms that are already decaying?
-    
+
 - Can you see **darkness not as punishment, but as initiation**?
-    
+
 - What wisdom lies hidden in your despair or shadow?
-    
+
 - How might this stage be preparing the ground for new growth?
-    
+
 
 ---
 
 ### Practices & Reflections
 
 - **Journaling**: Write a dialogue with your shadow—what is it asking you to face?
-    
+
 - **Dreamwork**: Nigredo often appears as images of death, darkness, or decay—record them and look for symbolic messages.
-    
+
 - **Embrace endings**: Consciously mark the death of something in your life (a ritual of release, burning old papers, burying an object).
-    
+
 - **Meditation**: Sit in darkness (literally or metaphorically)—practice not resisting it, but listening to what arises.
-    
+
 - **Read myth**: Stories of descent (Inanna, Persephone, Orpheus) mirror Nigredo and can provide symbolic maps.
-    
 
 ---
 
-Nigredo is both the **grave and the womb**—a paradoxical space where the self dissolves so something new can be born. 🌑
+Nigredo is both the **grave and the womb**—a paradoxical space where the self dissolves so something new can be born. 
