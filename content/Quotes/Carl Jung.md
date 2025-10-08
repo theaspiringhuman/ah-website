@@ -5,7 +5,7 @@
 
 "Who looks outside, dreams; who looks inside, awakes."
 
-“When we take up the task of exploring the unconscious, the unconscious takes up the task of exploring us.”
+“When we take up the task of exploring the [[unconscious]], the unconscious takes up the task of exploring us.”
 
  "If the path before you is clear, it's probably someone else's"
 
