@@ -8,7 +8,7 @@ Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://th
 ![[watercolor-nigredo.png]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0.3em; margin-left: 9em;">
   <em>Nigredo</em>, 2025. Watercolor. Yours Truly.
 </p>
-### Nigredo – The Blackening
+#### Nigredo – The Blackening
 
 **Keywords:** dissolution, putrefaction, darkness, [[ego-death]], [[shadow]], chaos, purification through decay
 
