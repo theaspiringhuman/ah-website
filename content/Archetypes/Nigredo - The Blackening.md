@@ -5,7 +5,7 @@ Tags: [[suffering]] [[transformation]]
 Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://thisjungianlife.com/episode-107-nigredo-finding-light-in-our-darkness/)
 
 ---
-![[watercolor-nigredo.png]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0.3em; margin-left: 9em;">
+![[watercolor-nigredo.png]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 8em;">
   <em>Nigredo</em>, 2025. Watercolor. Yours Truly.
 </p>
 
