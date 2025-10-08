@@ -1,7 +1,6 @@
-![[belonging-toko-pa-turner.png]]
+![[belonging-toko-pa-turner.png|200]]
 
 ---
-
 #### Highlights:
 
 > "Whether it is the yearning to find our true place, our people, or a meaningful relationship, the longing to belong is the great silent motivator behind so many of our other ambitions."  

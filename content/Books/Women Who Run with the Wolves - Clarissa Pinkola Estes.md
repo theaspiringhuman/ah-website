@@ -1,4 +1,4 @@
-![[women-who-run-with-the-wolves.png]]
+![[women-who-run-with-the-wolves.png|200]]
 
 ---
 #### Highlights:

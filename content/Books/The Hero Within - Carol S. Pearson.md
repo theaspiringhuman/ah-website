@@ -1,8 +1,7 @@
 
-![[the-hero-within.png]]
+![[the-hero-within.png|200]]
 
 ---
-
 #### Highlights:
 
 "I was inspired initially to write _The Hero Within_ out of a concern that we would not be able to solve the great political, social, and philosophical problems of our time if so many of us persisted in seeing the hero as 'out there' or 'up there,' beyond ourselves."
