@@ -5,7 +5,7 @@ Tags: [[suffering]] [[transformation]]
 Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://thisjungianlife.com/episode-107-nigredo-finding-light-in-our-darkness/)
 
 ---
-![[nigredo.png]]
+![[watercolor-nigredo.png]]
 ### Nigredo – The Blackening
 
 **Keywords:** dissolution, putrefaction, darkness, [[ego-death]], [[shadow]], chaos, purification through decay
