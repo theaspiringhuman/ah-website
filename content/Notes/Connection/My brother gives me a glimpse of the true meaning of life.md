@@ -9,11 +9,13 @@ Source: #Journals [[Tree of Life]]
 
 ---
 
-What is the [[meaning]] of my life?
+& once again I find myself asking, *What is the [[meaning]] of my life*?
 
 My brother told me the other night that he's the happiest he's ever been in his entire life and it's all because he has our family nearby. 
 
 *"No matter what you accomplish," he tells me, "you aren't going to be happy unless you're around family."*
+
+This hit me as a revelation.
 
 ---
 
