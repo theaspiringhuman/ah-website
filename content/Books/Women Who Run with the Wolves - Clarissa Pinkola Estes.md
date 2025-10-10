@@ -48,3 +48,15 @@
 ---
 
 "A woman's psychic tasks are these: Learning fine discrimination, separating one thing from the other with finest discernment, learning to make fine distinctions in judgement... Observing the power of the [[unconscious]] and how it works even when the ego is not aware..." - pg. 103 ^quote12
+
+---
+
+"The Life/Death/Life nature is a cycle of animation, development, decline, and death that is always followed by re-animation. This cycle affects all physical life and all facets of psychological life. Everything--the sun, novas, and the moon, as well as the affairs of humans and those of the tiniest creatures, cells and atoms alike--have this fluttering, then faltering, then fluttering again." - pg. 137 ^quote13
+
+---
+
+"The desire to force [[love]] to live on in its most positive form only is what causes love ultimately to fall over dead, and for good." - pg. 149 ^quote14
+
+---
+
+"A culture that requires harm to one's soul in order to follow the culture's proscriptions is a very sick culture indeed. This 'culture' can be the one a woman lives in, **but more damning yet, it can be the one she carries around and complies with within her own mind**." - pg. 189 ^quote15
