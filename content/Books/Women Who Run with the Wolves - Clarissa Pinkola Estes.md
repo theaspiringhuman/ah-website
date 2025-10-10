@@ -7,7 +7,7 @@
 
 ---
 
-#### "The spiritual lands of Wild Woman have, throughout history, been plundered or burnt, dens bulldozed, and natural cycles forced into unnatural rhythms to please others." - pg. 1 ^quote2
+**"The spiritual lands of Wild Woman have, throughout history, been plundered or burnt, dens bulldozed, and natural cycles forced into unnatural rhythms to please others."** - pg. 1 ^quote2
 
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-#### "This is our meditation practice as women, calling back the dead and dismembered aspects of ourselves, calling back the dead and dismembered aspects of life itself." - pg. 32 ^quote8
+**"This is our meditation practice as women, calling back the dead and dismembered aspects of ourselves, calling back the dead and dismembered aspects of life itself."** - pg. 32 ^quote8
 
 
 ---
