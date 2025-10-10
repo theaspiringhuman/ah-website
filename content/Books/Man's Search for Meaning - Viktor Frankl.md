@@ -7,6 +7,7 @@
 
 #### "The [[truth]] (is) that [[love]] is the ultimate and the highest goal to which man can aspire... *The salvation of man is through love and in love*." - pg. 37
 ^quote1
+
 ---
 
 "I told my comrades (who lay motionless, although occasionally a sigh could be heard) that human life, under any circumstances, never ceases to have a [[meaning]], and that this infinite meaning of life includes [[suffering]], privation, and [[death]]." - pg. 83 ^quote2
