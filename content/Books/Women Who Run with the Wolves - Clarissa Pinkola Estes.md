@@ -9,6 +9,7 @@
 
 #### "The spiritual lands of Wild Woman have, throughout history, been plundered or burnt, dens bulldozed, and natural cycles forced into unnatural rhythms to please others." - pg. 1 ^quote2
 
+
 ---
 
 "I call her Wild Woman, for those very words, *wild* and *woman*, create *llamar o tocar a la puerta*, the fairy-tale knock at the door of the deep female psyche. *Llamar o tocar la puerta* means literally to play upon the instrument of the name in order to open a passageway. No matter by which culture a woman is influenced, she understands the words *wild* and *woman*, intuitively." - pg. 5 ^quote3
