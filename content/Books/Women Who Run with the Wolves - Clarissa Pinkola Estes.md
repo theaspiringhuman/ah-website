@@ -33,6 +33,7 @@
 
 #### "This is our meditation practice as women, calling back the dead and dismembered aspects of ourselves, calling back the dead and dismembered aspects of life itself." - pg. 32 ^quote8
 
+
 ---
 
 "Dreams are *portales*, entrances, preparations, and practices for the next step in consciousness, the 'next day' in the [[individuation]] process." - pg. 68 ^quote9
