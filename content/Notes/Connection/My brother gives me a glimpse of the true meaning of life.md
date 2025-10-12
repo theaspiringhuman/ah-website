@@ -5,13 +5,17 @@ Tags: [[meaning]] [[connection]]
 Source: #Journals [[Tree of Life]]
 
 ---
+
+![[andrew-asher-meaning-of-life.png]]
+
+---
 ### "Striving to find meaning in one's life is the primary motivational force in man." - [[Man's Search for Meaning - Viktor Frankl]]
 
 ---
 
-& once again I find myself asking, *What is the [[meaning]] of my life*?
+*What is the [[meaning]] of my life*?
 
-My brother told me the other night that he's the happiest he's ever been in his entire life and it's all because he has our family nearby. 
+[[Andrew]] told me the other night that he's the happiest he's ever been in his entire life and it's all because he has our family nearby. 
 
 *"No matter what you accomplish," he tells me, "you aren't going to be happy unless you're around family."*
 
