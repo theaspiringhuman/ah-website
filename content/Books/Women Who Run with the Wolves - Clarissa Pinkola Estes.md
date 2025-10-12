@@ -65,3 +65,30 @@
 
 ---
 
+
+"When a woman has a collapsing mother construct within her psyche and/or her culture, she is wobbly about her [[worthiness|worth]]. She may feel that choices between fulfilling outer demands and the demands of soul are life-and-death issues. She may feel like a tormented outsider who belongs nowhere--which is relatively normal for the exile--but what is not normal is to sit down and cry about it and do nothing. One is supposed to get to one's feet and go off in search of what one belongs to." - pg. 190 ^quote16
+
+---
+
+#### "The hallmark of the wild nature is that it goes on. It perseveres. This is not something we do. It is something we are, naturally and innately. When we cannot thrive, we go on till we can thrive again...The most important thing is to hold on, hold out, for your creative life, for your [[solitude]], for your time to be and do, for your very life; hold on, for the promise from the wild nature is this: after winter, *spring always comes*." ^quote17
+
+---
+
+"When seeking guidance, don't ever listen to the tiny-hearted. Be kind to them, heap them with blessing, cajole them, but do not follow their advice." - pg. 212 ^quote18
+
+---
+
+"There are always more opportunities to get it right, to fashion our lives int he ways we deserve to have them. Don't waste your time hating failure. Failure is a greater teacher than [[success]]. Listen, learn, go on." - pg. 237 ^quote19
+
+---
+
+"The central psychic fact remains that our connection to [[meaning]], passion, soulfulness, and the deep nature is something we have to keep watch over. There are many things that try to force, sweep, seduce away those handmade shoes, seeming simple things like saying, 'Later, I'll do that dance, planting, hugging finding, planning, learning, peace-making, cleansing... later. Traps, all." - pg. 242 ^quote20
+
+---
+
+"Instinct is a difficult thing to define, for its configurations are invisible, and though we sense they have been part of human nature since the beginning of time, no one knows quite where they might be housed neurologically, or precisely how they act upon us. Psychologically, [[Carl Jung|Jung]] speculated that the instincts derived from the psychoid [[unconscious]], that layer of psyche where biology and spirit might touch. I am of a considered same mind, and would go further to venture that the creative instinct in particular is as much the lyrical language of the Self as is the symbology of dreams.
+Etymologically, the word *instinct* derives from the Latin *instinguere*, meaning 'impulse,' also *instinctus*, meaning 'instigation,' to incite or impel via an innate prompting. The idea of instinct can be valued positively as an inner something that when blended with forethought and consciousness guides humans to integral behavior. A woman is born with all instinct intact." - pg. 249 ^quote21
+
+---
+
+"At the bottom of the well in the psyches of too many women lies the visionary creator, the astute [[truth]]-teller, the far-seer, the one who can speak well of herself without denigration, who can face herself without cringing, who works to perfect her craft. The positive impulses in [[shadow]] for women in our culture most often revolve around permission for the creation of a handmade life." - pg. 254 ^quote22
