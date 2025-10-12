@@ -62,3 +62,6 @@
 ---
 
 "A culture that requires harm to one's soul in order to follow the culture's proscriptions is a very sick culture indeed. This 'culture' can be the one a woman lives in, **but more damning yet, it can be the one she carries around and complies with within her own mind**." - pg. 189 ^quote15
+
+---
+
