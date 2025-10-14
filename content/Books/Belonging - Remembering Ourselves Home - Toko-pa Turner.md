@@ -53,7 +53,7 @@
 
 ---
 
-> "The habit of unworthiness is a kind of splitting-off causing us to show up only partially for life; worthiness is felt in direct proportion to our ability to live an integrated life. Rather than outcasting the parts of ourselves which were once rejected, we work to reclaim those parts of ourselves that are afraid of being seen, hurt, or left behind. We allow and include them, moment by moment, strengthening our capacity for inclusion, for belonging. It is the practice of bringing the fullness of our presence to a moment, whether it's filled with rage or an upwelling of sadness, to say, 'This too belongs.'"  
+> "The habit of unworthiness is a kind of splitting-off causing us to show up only partially for life; [[worthiness]] is felt in direct proportion to our ability to live an integrated life. Rather than outcasting the parts of ourselves which were once rejected, we work to reclaim those parts of ourselves that are afraid of being seen, hurt, or left behind. We allow and include them, moment by moment, strengthening our capacity for inclusion, for belonging. It is the practice of bringing the fullness of our presence to a moment, whether it's filled with rage or an upwelling of [[sadness]], to say, 'This too belongs.'"  
 > **pg 41**
 
 ---
@@ -63,7 +63,7 @@
 
 ---
 
-> "But what if worthiness depends on our belonging together? Worth is really another way of saying 'plenty.' It is the resting state of abundance. This is our natural state when we live in solidarity with others and in harmony with our environment. When we each contribute our unique gifts and abilities to the whole, we always have more than we need. Conversely, when things go wrong, we shoulder it together, lessening the load for us all."  
+> "But what if [[worthiness]] depends on our belonging together? Worth is really another way of saying 'plenty.' It is the resting state of abundance. This is our natural state when we live in solidarity with others and in harmony with our environment. When we each contribute our unique gifts and abilities to the whole, we always have more than we need. Conversely, when things go wrong, we shoulder it together, lessening the load for us all."  
 > **pg 42**
 
 ---
@@ -155,7 +155,7 @@
 
 ---
 
-> "Nobody goes willingly into initiation. By its very nature, initiation is a humbling of the will. It comes as a tsunami would, wild with nature, shattering us on all levels. And though every part of us may mount resistance to being changed, we are not meant to emerge intact. We are not meant to re-cover what has been revealed. Rather, we are meant to be _dis_illusioned, _dis_solved, _dis_appointed before any thought of rebuilding can begin."
+> "Nobody goes willingly into initiation. By its very nature, initiation is a humbling of the will. It comes as a tsunami would, wild with nature, shattering us on all levels. And though every part of us may mount resistance to being changed, we are not meant to emerge intact. We are not meant to re-cover what has been revealed. Rather, we are meant to be dis-illusioned, dis-solved, dis-appointed before any thought of rebuilding can begin."
 
 **pg 72**
 
@@ -167,7 +167,7 @@
 
 ---
 
-> "In order to make an honest encounter with the unknown, something of great value must be given up, lest we cling to an old version of ourselves. And in making that sacrifice, there is a transfer of power. In naming and releasing it, we own that which used to own us. The energy locked up in our conformity is liberated for our benefit and conscious use. Sometimes the sacrifice is of our own willfulness. In exile, we are invariably made vulnerable for a time so that we can perceive a more mythic calling. The challenge is to surrender our own plans for getting ahead so that the greater good can come through. If we can take a step outside of time, renouncing our ego's urgency for progress, we have a chance at being danced, being sung into the greater song of things. This free fall is the turning point in the story when the heroine sees what she's been missing. Sacrifice is a show of trust in the unknown. It is the pruning that redirects your energy toward the life of becoming. Like quitting a job only to have an opportunity appear the same afternoon, or breaking up a bad relationship only to meet your true love, there is magic in sacrifice. Life is calling you toward it, and your severance of the tethers that bind you to outgrown forms is the answering of that call. Your willingness to step into the emptiness from which all life springs is a show of devotion to your own belonging."
+> "In order to make an [[honesty|honest]] encounter with the unknown, something of great [[value]] must be given up, lest we cling to an old version of ourselves. And in making that sacrifice, there is a transfer of power. In naming and releasing it, we own that which used to own us. The energy locked up in our conformity is liberated for our benefit and conscious use. Sometimes the sacrifice is of our own willfulness. In exile, we are invariably made vulnerable for a time so that we can perceive a more mythic calling. The challenge is to surrender our own plans for getting ahead so that the greater good can come through. If we can take a step outside of time, renouncing our ego's urgency for progress, we have a chance at being danced, being sung into the greater song of things. This free fall is the turning point in the story when the heroine sees what she's been missing. Sacrifice is a show of trust in the unknown. It is the pruning that redirects your energy toward the life of becoming. Like quitting a job only to have an opportunity appear the same afternoon, or breaking up a bad relationship only to meet your true love, there is magic in sacrifice. Life is calling you toward it, and your severance of the tethers that bind you to outgrown forms is the answering of that call. Your willingness to step into the emptiness from which all life springs is a show of devotion to your own belonging."
 
 **pg 75**
 
@@ -179,7 +179,7 @@
 
 ---
 
-> "Those aspects of yourself that you discarded, set aside, ignored, and discouraged are the very things to which you must cling. The collective depends on the aggrandizing of your rejected qualities. The sooner you begin adopting your own difference, the sooner love can rush in to support you in raising your voice above the monotonous hum of the mainstream."
+> "Those aspects of yourself that you discarded, set aside, ignored, and discouraged are the very things to which you must cling. The collective depends on the aggrandizing of your rejected qualities. The sooner you begin adopting your own difference, the sooner [[love]] can rush in to support you in raising your voice above the monotonous hum of the mainstream."
 
 **pg 78**
 
@@ -197,7 +197,7 @@
 
 ---
 
-> "It is the strangler fig's tendency to send out its roots which, without any guiding influence, would choke the host for its own growth's sake. Materialism, like the strangling vine, is not evil--but left unmitigated by a higher purpose, is dedicated only to its own invasive spread. It requires our intervention, a participatory weaving with the soul's longing for beauty and meaning, so that it can become exalted in its service to the whole."
+> "It is the strangler fig's tendency to send out its roots which, without any guiding influence, would choke the host for its own [[growth|growth's]] sake. Materialism, like the strangling vine, is not evil--but left unmitigated by a higher purpose, is dedicated only to its own invasive spread. It requires our intervention, a participatory weaving with the soul's longing for [[beauty]] and [[meaning]], so that it can become exalted in its service to the whole."
 
 **pg 85**
 
@@ -233,7 +233,7 @@
 
 ---
 
-> "Many take the path well-worn, but they are only given a half-lived life. To those willing to brace the unknown path, the dark thicket, a remembering of love, magic, and purpose returns. There is a wild woman under our skin who wants nothing more than to dance until her feet are sore, sing her beautiful grief into the rafters, and offer the bottomless cup of her creativity as a way of life. And if you are able to sing from the very wound that you've worked so hard to hide, not only will it give meaning to your own story, but it becomes a corroborative voice for others with a similar wounding."
+> "Many take the path well-worn, but they are only given a half-lived life. To those willing to brace the unknown path, the dark thicket, a remembering of love, magic, and purpose returns. There is a wild woman under our skin who wants nothing more than to dance until her feet are sore, sing her beautiful grief into the rafters, and offer the bottomless cup of her creativity as a way of life. And if you are able to sing from the very wound that you've worked so hard to hide, not only will it give [[meaning]] to your own story, but it becomes a corroborative voice for others with a similar wounding."
 
 **pg 94**
 
@@ -245,13 +245,13 @@
 
 ---
 
-> "And as your instincts get stronger and clearer, your creativity begins teeming again, like a river undammed."
+> "And as your instincts get stronger and clearer, your [[creativity]] begins teeming again, like a river undammed."
 
 **pg 96**
 
 ---
 
-> "(As children) Beguiled by wonder, creativity isn't yet thought of as something we do so much as an unimpeded continual flowing through us. Creativity is our instinct to find and express new perspectives. And these idea-animals don't come from the mind, nor do they come from a highly trained skill set: they come forth from the unconscious. Whether through dreams or 'gap time' in our schedules, creativity is something that natures through us when we give it the room it needs. 'It takes a lot of time to be a genius,' wrote Gertrude Stein, 'you have to sit around so much doing nothing, really doing nothing.'"
+> "(As children) Beguiled by [[wonder]], [[creativity]] isn't yet thought of as something we do so much as an unimpeded continual flowing through us. Creativity is our instinct to find and express new perspectives. And these idea-animals don't come from the mind, nor do they come from a highly trained skill set: they come forth from the unconscious. Whether through dreams or 'gap time' in our schedules, creativity is something that natures through us when we give it the room it needs. 'It takes a lot of time to be a genius,' wrote Gertrude Stein, 'you have to sit around so much doing nothing, really doing nothing.'"
 
 **pg 97**
 
@@ -263,25 +263,25 @@
 
 ---
 
-> "True beauty always contains a delicious dash of chaos. It has a wild or unpredictable quality that takes you by surprise. Perfectionism tries to stamp out that quality in pursuit of an impeccability that strips a thing of its spontaneity. If we are seduced by it, it can chose all the life from our offering, turning it homogenous and agreeable."
+> "True [[beauty]] always contains a delicious dash of chaos. It has a wild or unpredictable quality that takes you by surprise. Perfectionism tries to stamp out that quality in pursuit of an impeccability that strips a thing of its spontaneity. If we are seduced by it, it can chose all the life from our offering, turning it homogenous and agreeable."
 
 **pg 98**
 
 ---
 
-> "If creativity is doing its job well, it should bleed for us and, in bleeding, allow us to touch the ache of our own wounds. Similarly, our own creativity should draw upon the wisdom of our wounds if it wants to reach others in a meaningful way. So long as we are unwilling to brave towards our personal edge, we won't be drawing creativity from our origins but simply imitating those who have gone before us."
+> "If [[creativity]] is doing its job well, it should bleed for us and, in bleeding, allow us to touch the ache of our own wounds. Similarly, our own creativity should draw upon the wisdom of our wounds if it wants to reach others in a meaningful way. So long as we are unwilling to brave towards our personal edge, we won't be drawing creativity from our origins but simply imitating those who have gone before us."
 
 **pg 99**
 
 ---
 
-> "We can't find the truth only listening to our own voice's echo. We can find ourselves only in someone's mirror."
+> "We can't find the [[truth]] only listening to our own voice's echo. We can find ourselves only in someone's mirror."
 
 **pg 100**
 
 ---
 
-> "Initially, there is a dark fog you must pass through. I like to think of that fog as a curtain which obscures the outside world and turns us towards ourselves. Like the bowl that has yet to be filled, there is an emptiness that precedes creativity that is alive with potential. With ordinary eyes, it's easy to mistake this emptiness for stagnancy. We may think, 'I have nothing of substance to offer! I have no original ideas!' But down at the invisible base of things, there is a holy dance taking place. Though we may want to run from the tension, the polarities are in constant motion, readying themselves into harmony. Far from dormant, this dance is the _active receptivity_ that calls things into form. We are such a vessel. These times of 'nothingness' are actually busy with living into a new capacity."
+> "Initially, there is a dark fog you must pass through. I like to think of that fog as a curtain which obscures the outside world and turns us towards ourselves. Like the bowl that has yet to be filled, there is an emptiness that precedes [[creativity]] that is alive with potential. With ordinary eyes, it's easy to mistake this emptiness for stagnancy. We may think, 'I have nothing of substance to offer! I have no original ideas!' But down at the invisible base of things, there is a holy dance taking place. Though we may want to run from the tension, the polarities are in constant motion, readying themselves into harmony. Far from dormant, this dance is the _active receptivity_ that calls things into form. We are such a vessel. These times of 'nothingness' are actually busy with living into a new capacity."
 
 **pg 100**
 
@@ -290,3 +290,31 @@
 > "Originality comes when you stay close to that emptiness, making it a welcoming place, adorning it with your divine longing, learning the shape of it, and filling it with your questions. Every great artist I know is obsessed with a question, and their artworks are less attempts to answer that question than they are exaltations of asking. As Jean Cocteau says, 'The poet doesn't invent. He listens.'"
 
 **pg 100**
+
+---
+
+>"We need more wayshowers, who have penetrated the fog of their own uncertainty to find something truthful. Something human and tragic and beautifully lost, something small but utterly true." - Toko-pa Turner, *Belonging* ^quote54
+
+
+**pg 101**
+
+---
+
+>"Inasmuch as we are searching for our purpose and occupation in the world, the more salient pursuit is in the *who* we are becoming. It is the vibratory signature behind our enterprise that has the most impact... As long as we are attending to the well-being of the Self, purpose then becomes a thing as simple as flowering in all its stages: from dormancy to emergence; the slow, almost imperceptible unfurling; and eventually to the trumpeting color of your [[truth]]." - Toko-pa Turner, *Belonging* ^quote55
+
+
+**pg 101-102**
+
+---
+
+>"Just as fire can transform food from its raw form into something digestible, our darknesses are radical transformers. Instead of airbrushing our personalities, we should practice at exaggerating our blemishes, leaning into our stagnancy, wounding, and discomforts. If we really want to evolve, all we have to do is be more expressly where we are." - Toko-pa Turner, *Belonging* ^quote56
+
+
+**pg 108**
+
+---
+
+>"Impatience is that irritable guest who shows up before we've established a sense of belonging, when we're shy and awkward and prone to [[self-doubt]]. It can stay a good, long while. Impatience is our urge to bypass this awkward phase, when things aren't yet comfortable or settled, and rush to redemption. Paradoxically, it is essential to really inhabit this awkwardness if we want to find our particular way of belonging." - Toko-pa Turner, *Belonging* ^quote57
+
+
+**pg 116**

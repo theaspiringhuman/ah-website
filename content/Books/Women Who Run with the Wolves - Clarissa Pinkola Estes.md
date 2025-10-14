@@ -92,3 +92,9 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 ---
 
 "At the bottom of the well in the psyches of too many women lies the visionary creator, the astute [[truth]]-teller, the far-seer, the one who can speak well of herself without denigration, who can face herself without cringing, who works to perfect her craft. The positive impulses in [[shadow]] for women in our culture most often revolve around permission for the creation of a handmade life." - pg. 254 ^quote22
+
+---
+
+"When the collective is hostile to a woman's natural life, rather than accept the derogatory or disrespectful labels that are placed upon her, she can and must, like the ugly duckling, hold on, hold out, and search for that which she belongs to--and preferably out-live, out-thrive, and out-create those who vilified her." - pg. 261 ^quote23
+
+---
