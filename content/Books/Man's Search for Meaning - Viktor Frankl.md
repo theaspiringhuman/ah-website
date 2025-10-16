@@ -34,7 +34,7 @@
 
 ---
 
-"The more one forgets himself--by giving himself to a cause to serve or another person to love--the more human he is and the more he actualizes himself." - pg. 110-111 ^quote8
+"The more one forgets himself--by giving himself to a cause to serve or another person to [[love]]--the more human he is and the more he actualizes himself." - pg. 110-111 ^quote8
 
 ---
 
