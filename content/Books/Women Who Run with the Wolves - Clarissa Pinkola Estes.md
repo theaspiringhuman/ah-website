@@ -98,3 +98,23 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 "When the collective is hostile to a woman's natural life, rather than accept the derogatory or disrespectful labels that are placed upon her, she can and must, like the ugly duckling, hold on, hold out, and search for that which she belongs to--and preferably out-live, out-thrive, and out-create those who vilified her." - pg. 261 ^quote23
 
 ---
+
+"If you are striving to do something you [[value]], it is so important to surround yourself with people who unequivocally support your work." - pg. 273 ^quote24
+
+---
+
+"The real miracle of [[individuation]] and reclamation of Wild Woman is that we all begin the process before we are ready, before we are strong enough, before we know enough... We respond before we know how to speak the language, before we know all the answers, and before we know exactly to whom we are speaking." - pg. 274-275 ^quote25
+
+---
+
+"The psyches and souls of women have their own cycles and seasons of doing and [[solitude]], running and staying, being involved and being removed, questing and resting, creating and incubating, being of the world and returning to the soul-place." - pg. 276 ^quote26
+
+---
+
+"If the culture prohibits an integral and sane life for women for whatever reason, she will dream [[injured-animal dreams]]. Though the psyche makes every effort to cleanse and strengthen itself regularly, every lash mark 'out there' is recorded on the [[unconscious]] 'in here,' so that a dreamer carries the effects of losing her personal ties with Wild Woman, and also the world's loss of relationship with this deep nature." - pg. 298 ^quote27
+
+---
+
+### "Nothing makes the light, the treasure, the [[wonder]] stand out so well as the darkness." - pg. 300 ^quote28
+
+---
