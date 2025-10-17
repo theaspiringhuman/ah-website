@@ -118,3 +118,11 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 ### "Nothing makes the light, the treasure, the [[wonder]] stand out so well as the darkness." - pg. 300 ^quote28
 
 ---
+
+"Especially if you are an artist, surround yourself with persons who are understanding about your need for home, for chances are you will need, more often than most, to mine the psychic terrain of home in order to learn the cycles of creation." - pg. 311 ^quote29
+
+---
+
+"In order to converse with the wild feminine, a woman must temporarily leave the world and inhabit a state of aloneness in the oldest sense of the word. Long ago, the word alone was treated as two words, all one. To be all one meant to be wholly one, to be in oneness, either essentially or temporarily. That is precisely the goal of solitude, to be all one. It is the cure for the frazzled state so common to modern women... [[Solitude]] is not an absence of energy or action, as some believe, but is rather a boon of wild provisions transmitted to us from the soul." - pg. 316 ^quote30
+
+---
