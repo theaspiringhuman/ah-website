@@ -25,6 +25,4 @@ This hit me as a revelation.
 
 Links to:
 [[My Garden]]
-[[Connection at the Core]]
 [[Everyone is suffering, when your heart breaks you cry, love is all that matters]]
-[[A prayer to release Susie + Empty hike on a gloomy day + Why am I still in Oklahoma]]
