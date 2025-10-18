@@ -30,7 +30,7 @@ And so to me [[success]] would be living this out. Just... [[authenticity|being]
 > "Was it Boscovich who found out that bodies never come into contact? Well, souls never touch their objects. An innavigable sea washes with silent waves between us and the things we aim at and converse with." - [[Ralph Waldo Emerson]], *Experience*, pg 227
 
 --- 
-### **Links to:
+#### Links to:
 
 [[My Garden]]
 [[Connection is All]]
