@@ -18,7 +18,7 @@ During this liminal phase, money, ambition, & external validation disappear. It'
 
 #### "Poverty (or dryness, or emptiness in terms of productivity our outer-world efficacy) can be a womb that protects the emerging soul."
 
-When you're carrying something new within you, you must protect it through [[solitude]] & discipline & trust, until it's ready to emerge. This is a lot like a mother's womb, enveloping the infant in a dark void of safe containment. Hence the "pregnant virgin" archetype. 
+When you're carrying something new within you, you must protect it through [[solitude]] & discipline & trust, until it's ready to emerge. This is a lot like a mother's womb, enveloping the infant in a dark void of safe containment. Hence the "pregnant virgin" [[archetypes|archetype]]. 
 
 This phase of the soul's gestation is extremely uncomfortable to the ego, who is used to identifying with [[work]] & productivity. In a way, as the false self dies to its addiction to external worth, the ego dies with it. 
 

@@ -33,7 +33,7 @@
 
 ---
 
-> "But without the help of dreams and fairy tales to navigate these symbolic departures, the outcast may get stuck in a lifetime identification with the **unredeemed archetype**."  
+> "But without the help of dreams and fairy tales to navigate these symbolic departures, the outcast may get stuck in a lifetime identification with the **unredeemed [[archetypes|archetype]]**."  
 > **pg 30**
 
 ---

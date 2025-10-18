@@ -24,7 +24,7 @@
 
 ---
 
-"Stories are medicine... They have such power; they do not require that we do, be, act anything--we need only listen. The remedies for repair or reclamation of any lost psychic drive are contained in stories. Stories engender the excitement, [[sadness]], questions, longings, and understandings that spontaneously bring the [[archetype]], in this case Wild Woman, back to the surface." - pg. 15 ^quote6
+"Stories are medicine... They have such power; they do not require that we do, be, act anything--we need only listen. The remedies for repair or reclamation of any lost psychic drive are contained in stories. Stories engender the excitement, [[sadness]], questions, longings, and understandings that spontaneously bring the [[archetypes]], in this case Wild Woman, back to the surface." - pg. 15 ^quote6
 
 ---
 
