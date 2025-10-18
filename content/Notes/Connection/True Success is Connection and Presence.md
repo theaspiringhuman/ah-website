@@ -24,6 +24,11 @@ If we could only just *be*.
 
 And so to me [[success]] would be living this out. Just... [[authenticity|being]]. And in my being, inviting others to lay down their feathers & find rest for their souls in true [[connection]]. 
 
+---
+
+> [!quote]
+> "Was it Boscovich who found out that bodies never come into contact? Well, souls never touch their objects. An innavigable sea washes with silent waves between us and the things we aim at and converse with." - [[Ralph Waldo Emerson]], *Experience*, pg 227
+
 --- 
 ### **Links to:
 
