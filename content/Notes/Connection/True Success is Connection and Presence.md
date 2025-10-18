@@ -33,7 +33,4 @@ And so to me [[success]] would be living this out. Just... [[authenticity|being]
 #### Links to:
 
 [[My Garden]]
-[[Connection is All]]
-[[Connection at the Core]]
 [[Lighthouses of Connection]]
-[[Honesty is the way]]
