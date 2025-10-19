@@ -5,7 +5,6 @@ Tags: [[meaning]] [[connection]]
 Source: #Journals [[Tree of Life]]
 
 ---
-
 ![[andrew-asher-meaning-of-life.png]]
 
 ---

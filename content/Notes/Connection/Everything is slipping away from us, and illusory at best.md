@@ -19,7 +19,7 @@ Source: #DailyCapture
 
 People who have near death experiences come back saying that the afterlife is more real than this life, and that the clarity of it makes this life seem like a dream. 
 
-Is that why we are so forgetful and vague?
+*Is that why we are so forgetful and vague?*
 
 ---
 
