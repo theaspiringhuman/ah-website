@@ -13,7 +13,7 @@ Source: #DailyCapture
 
 ---
 
-![[meet-me-in-montauk.png]]
+![[Life-is-but-a-dream.png]]
 
 ---
 
