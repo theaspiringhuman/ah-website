@@ -22,7 +22,7 @@
 
 ---
 
-"Why do you stay in prison when the door is so wide open?"
+#### "Why do you stay in prison when the door is so wide open?"
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-"What you seek is seeking you."
+#### "What you seek is seeking you."
 
 ---
 
@@ -67,5 +67,13 @@
 ---
 
 "Life's water flows from darkness. Search the darkness don't run from it. Night travelers are full of light and you are too. Don't leave this companionship." - [Search the Darkness](https://rememorizenumb.wordpress.com/2021/05/28/search-the-darkness-by-rumi/) by [[Rumi]] 
+
+---
+
+#### “Silence is the language of God, all else is poor translation.”
+
+---
+
+“Try not to resist the changes that come your way. Instead, let life live through you.”
 
 ---
