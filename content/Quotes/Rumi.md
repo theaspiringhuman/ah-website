@@ -63,3 +63,9 @@
 ---
 
 "The universe is not outside of you. Look inside yourself; everything that you want, you already are."
+
+---
+
+"Life's water flows from darkness. Search the darkness don't run from it. Night travelers are full of light and you are too. Don't leave this companionship." - [Search the Darkness](https://rememorizenumb.wordpress.com/2021/05/28/search-the-darkness-by-rumi/) by [[Rumi]] 
+
+---
