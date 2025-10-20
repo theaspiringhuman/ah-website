@@ -23,7 +23,7 @@
 
 ---
 
-> "If you can stand fully in your own unbelonging and become friendly with the terrors of loneliness and exclusion, you can no longer be governed by your avoidance of them. In other words, you are on your way home."  
+#### "If you can stand fully in your own unbelonging and become friendly with the terrors of loneliness and exclusion, you can no longer be governed by your avoidance of them. In other words, you are on your way home."  
 > **pg 25**
 
 ---
@@ -53,13 +53,13 @@
 
 ---
 
-> "The habit of unworthiness is a kind of splitting-off causing us to show up only partially for life; [[worthiness]] is felt in direct proportion to our ability to live an integrated life. Rather than outcasting the parts of ourselves which were once rejected, we work to reclaim those parts of ourselves that are afraid of being seen, hurt, or left behind. We allow and include them, moment by moment, strengthening our capacity for inclusion, for belonging. It is the practice of bringing the fullness of our presence to a moment, whether it's filled with rage or an upwelling of [[sadness]], to say, 'This too belongs.'"  
+> "The habit of unworthiness is a kind of splitting-off causing us to show up only partially for life; [[worthiness]] is felt in direct proportion to our ability to live an integrated life. Rather than outcasting the parts of ourselves which were once rejected, we work to reclaim those parts of ourselves that are *afraid of being seen*, hurt, or left behind. We allow and include them, moment by moment, strengthening our capacity for inclusion, for belonging. It is the practice of bringing the fullness of our presence to a moment, whether it's filled with rage or an upwelling of [[sadness]], to say, 'This too belongs.'"  
 > **pg 41**
 
 ---
 
-> "So long as we keep aspects of ourselves hidden from view because we believe only an edited or presentational version of who we are will be accepted by others, we are depriving ourselves of belonging. But also--and here's the piece that takes some real practice to see--depriving others of belonging with us."  
-> **pg 42**
+#### "So long as we keep aspects of ourselves hidden from view because we believe only an edited or presentational version of who we are will be accepted by others, we are depriving ourselves of belonging. But also--and here's the piece that takes some real practice to see--depriving others of belonging with us."  
+**pg 42**
 
 ---
 
@@ -88,8 +88,8 @@
 
 ---
 
-> "... Only when one is willing to make a few mistakes can something beautiful be discovered."  
-> **pg 50**
+#### "... Only when one is willing to make a few mistakes can something beautiful be discovered."  
+ **pg 50**
 
 ---
 
@@ -209,7 +209,7 @@
 
 ---
 
-> "Unconsciously, we're terrified to turn away from the world; we think we're putting our 'heads in the sand' or that we'll lose everything if we don't keep pace. But the truth is that there is a different rhythm trying to temper us from within. If we shift our responsiveness from the outer to the inner world, allowing for a periodic ebbing of our external effectiveness, we come to see that it's in service to a more harmonious way with our own bodies and with our greater earthbody."
+#### "Unconsciously, we're terrified to turn away from the world; we think we're putting our 'heads in the sand' or that we'll lose everything if we don't keep pace. But the truth is that there is a different rhythm trying to temper us from within. If we shift our responsiveness from the outer to the inner world, allowing for a periodic ebbing of our external effectiveness, we come to see that it's in service to a more harmonious way with our own bodies and with our greater earthbody."
 
 **pg 87**
 
@@ -275,7 +275,7 @@
 
 ---
 
-> "We can't find the [[truth]] only listening to our own voice's echo. We can find ourselves only in someone's mirror."
+#### "We can't find the [[truth]] only listening to our own voice's echo. We can find ourselves only in someone's mirror."
 
 **pg 100**
 
@@ -295,13 +295,11 @@
 
 >"We need more wayshowers, who have penetrated the fog of their own uncertainty to find something truthful. Something human and tragic and beautifully lost, something small but utterly true." - Toko-pa Turner, *Belonging* ^quote54
 
-
 **pg 101**
 
 ---
 
 >"Inasmuch as we are searching for our purpose and occupation in the world, the more salient pursuit is in the *who* we are becoming. It is the vibratory signature behind our enterprise that has the most impact... As long as we are attending to the well-being of the Self, purpose then becomes a thing as simple as flowering in all its stages: from dormancy to emergence; the slow, almost imperceptible unfurling; and eventually to the trumpeting color of your [[truth]]." - Toko-pa Turner, *Belonging* ^quote55
-
 
 **pg 101-102**
 
@@ -309,12 +307,18 @@
 
 >"Just as fire can transform food from its raw form into something digestible, our darknesses are radical transformers. Instead of airbrushing our personalities, we should practice at exaggerating our blemishes, leaning into our stagnancy, wounding, and discomforts. If we really want to evolve, all we have to do is be more expressly where we are." - Toko-pa Turner, *Belonging* ^quote56
 
-
 **pg 108**
 
 ---
 
 >"Impatience is that irritable guest who shows up before we've established a sense of belonging, when we're shy and awkward and prone to [[self-doubt]]. It can stay a good, long while. Impatience is our urge to bypass this awkward phase, when things aren't yet comfortable or settled, and rush to redemption. Paradoxically, it is essential to really inhabit this awkwardness if we want to find our particular way of belonging." - Toko-pa Turner, *Belonging* ^quote57
 
-
 **pg 116**
+
+---
+
+>"To be baffled and obstructed is what engages creativity. This is the practice of poets, dreamers, and artists alike: to show up at the frontiers of uncertainty where we are met by ten thousand things. We practice there, on the verge, amateur and unprepared, at being friendly--or at least willing--towards the discomforts of our confusions. As [[Rumi]] says, '**Sell your cleverness and buy bewilderment.**'" - Toko-pa Turner, *Belonging* ^quote58
+
+**pg116**
+
+---
