@@ -1,7 +1,5 @@
 Date: 10-22-2025 
 
-Category: [[Anxiety]]
-
 Source: [[Man's Search for Meaning - Viktor Frankl]]
 
 ---
