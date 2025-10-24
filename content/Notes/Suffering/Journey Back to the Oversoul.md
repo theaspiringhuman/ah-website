@@ -18,7 +18,7 @@ I won't find you in this place.
 
 But how do I find my way back in the dark?
 
-"Empty and dark I'll raise my lantern..." [[Kahlil Gibran]]
+"Empty and dark I'll raise my lantern..." ^[[Kahlil Gibran]]
 
 And you will light my way back.
 
