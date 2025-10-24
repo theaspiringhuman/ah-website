@@ -51,5 +51,11 @@ This insight hit me with such profundity that it made its way into [[Dream - Int
 
 ---
 
+>[!quote]
+>![[Women Who Run with the Wolves - Clarissa Pinkola Estes#^quote31]]
+>[[Women Who Run with the Wolves - Clarissa Pinkola Estes]]
+
+---
+
 #### Links to:
 [[Lighthouses of Connection]]

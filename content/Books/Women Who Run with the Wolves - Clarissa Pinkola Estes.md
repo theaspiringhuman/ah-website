@@ -126,3 +126,7 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 "In order to converse with the wild feminine, a woman must temporarily leave the world and inhabit a state of aloneness in the oldest sense of the word. Long ago, the word alone was treated as two words, all one. To be all one meant to be wholly one, to be in oneness, either essentially or temporarily. That is precisely the goal of solitude, to be all one. It is the cure for the frazzled state so common to modern women... [[Solitude]] is not an absence of energy or action, as some believe, but is rather a boon of wild provisions transmitted to us from the soul." - pg. 316 ^quote30
 
 ---
+
+"Some say the [[creativity|creative]] life is in ideas, some say it is in doing. It seems in most instances to be in a simple being. It is not virtuosity, although that is very fine in itself. It is the [[love]] of something, having so much love for something--whether a person, a word, an image, an idea, the land, or humanity--that all that can be done with the overflow is to create. It is not a matter of wanting to, not a singular act of will; one solely must." - pg. 322 ^quote31
+
+---
