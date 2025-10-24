@@ -1,6 +1,6 @@
 02-09-2023
 
-Tags: [[Suffering]] [[Meaning]] 
+Tags: [[suffering]] [[meaning]] 
 
 ---
 
