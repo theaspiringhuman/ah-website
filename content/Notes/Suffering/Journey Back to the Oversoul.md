@@ -12,11 +12,11 @@ Have I drifted too far away this time?
 
 Wandered too deep into the dark wilderness
 
-Of vanity and falseness?
+of vanity and falseness?
 
 I won't find you in this place.
 
-But how do I find my way back in the dark?
+*But how do I find my way back in the dark?*
 
 "Empty and dark I'll raise my lantern..." ^[[Kahlil Gibran]]
 
