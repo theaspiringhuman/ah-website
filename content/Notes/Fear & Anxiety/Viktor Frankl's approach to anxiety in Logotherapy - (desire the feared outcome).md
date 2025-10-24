@@ -19,7 +19,4 @@ And another, remarkable example here:
 "A similar case, dealing, however with speaking...was related to me by a colleague in the Laryngological Department of the Vienna Policlinic Hospital. It was the most severe case of stuttering he had come across in his many years of practice. Never in his life, as far as the stutterer could remember, had he been free from his speech trouble, even for a moment, except once. This happened when he was twelve years old and had hooked a ride on a streetcar. When caught by the conductor, he thought that the only way to escape would be to elicit his sympathy, and so he tried to demonstrate that he was just a poor stuttering boy. At that moment, when he tried to stutter, he was unable to do it. Without meaning to, he had practiced paradoxical intention, though not for therapeutic purposes." - [[Man's Search for Meaning - Viktor Frankl]], pg. 126
 
 ---
-
-Links to:
-[[Anxiety - This Jungian Life]]
-[[Anxiety is about control]]
+#### Links to:
