@@ -317,8 +317,14 @@
 
 ---
 
->"To be baffled and obstructed is what engages creativity. This is the practice of poets, dreamers, and artists alike: to show up at the frontiers of uncertainty where we are met by ten thousand things. We practice there, on the verge, amateur and unprepared, at being friendly--or at least willing--towards the discomforts of our confusions. As [[Rumi]] says, '**Sell your cleverness and buy bewilderment.**'" - Toko-pa Turner, *Belonging* ^quote58
+>"To be baffled and obstructed is what engages creativity. This is the practice of poets, dreamers, and artists alike: to show up at the frontiers of uncertainty where we are met by ten thousand things. We practice there, on the verge, amateur and unprepared, at being friendly--or at least willing--towards the discomforts of our confusions. As [[Rumi]] says, '**Sell your cleverness and buy bewilderment!**'" - Toko-pa Turner, *Belonging* ^quote58
 
 **pg116**
+
+---
+
+"In times of suspension, we have to ask ourselves if we are sticking firmly to our vision--and if we are then we must trust that it is quietly coalescing itself. Far from 'doing nothing,' this practice of non-action takes real perseverance, a quiet modesty which invites the grace of The Creative to come to our aid." - Toko-pa Turner, *Belonging* ^quote59
+
+**pg 118**
 
 ---
