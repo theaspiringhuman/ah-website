@@ -70,7 +70,7 @@
 
 ---
 
-#### “Silence is the language of God, all else is poor translation.”
+#### “Silence is the language of [[God]], all else is poor translation.”
 
 ---
 
