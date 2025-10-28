@@ -130,3 +130,5 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 "Some say the [[creativity|creative]] life is in ideas, some say it is in doing. It seems in most instances to be in a simple being. It is not virtuosity, although that is very fine in itself. It is the [[love]] of something, having so much love for something--whether a person, a word, an image, an idea, the land, or humanity--that all that can be done with the overflow is to create. It is not a matter of wanting to, not a singular act of will; one solely must." - pg. 322 ^quote31
 
 ---
+
+"In archetypal lore there is the idea that if one prepares a special psychic place, then the being, the creative force, the soul source, will hear of it, sense its way to it, and inhabit that place. Whether this force is summoned by the biblical 'go forward and prepare a place for the soul' or, as in the film *Field of Dreams*, in which a farmer hears a voice urging him to build a baseball diamond for the spirits of players past, 'If you build it, they will come,' preparing a fitting place induces the great creative force to advance." - pg. 323 ^quote32
