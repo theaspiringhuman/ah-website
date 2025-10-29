@@ -85,3 +85,11 @@
 "People tend to see only the stubble fields of transitoriness but overlook and forget the full granaries of the past into which they have brought the harvest of their lives: the deeds done, the [[love|loves]] loved, and last but not least, the [[suffering|sufferings]] they have gone through with [[courage]] and dignity. From this one may see that there is no reason to pity old people. Instead, young people should envy them. It is true that the old have no opportunities, no possibilities in the future. But they have more than that. Instead of possibilities in the future, they have realities in the past--the potentialities they have actualized, the [[meaning|meanings]] they have  fulfilled, the values they have realized--and nothing and nobody can ever remove these assets from the past." - pg. 151 ^quote20
 
 ---
+
+"It is we ourselves who must answer the questions that life asks of us, and to these questions we can respond only by being responsible for our existence." - pg. 156 ^quote21
+
+---
+
+"A positive attitude enables a person to endure suffering and disappointment as well as enhance enjoyment and satisfaction. A negative attitude intensifies pain and deepens disappointments; it undermines and diminishes pleasure, happiness, and satisfaction; it may even lead to depression or physical illness." - pg. 160 ^quote22
+
+---
