@@ -8,20 +8,20 @@ Tags: [[archetypes]] [[panic]] [[fear]]
 
 #### Keywords: 
 
-Wildness
-Instinct
-Fertility
-Lust
-Nature
-Play
-Music
-Madness
-Ecstasy
-Mischief
-Unruliness
-Primal Masculinity
-Sacred Disorder
-Boundary Crosser
+- Wildness
+- Instinct
+- Fertility
+- Lust
+- Nature
+- Play
+- Music
+- Madness
+- Ecstasy
+- Mischief
+- Unruliness
+- Primal Masculinity
+- Sacred Disorder
+- Boundary Crosser
 
 ---
 
@@ -30,20 +30,20 @@ Boundary Crosser
 **Zodiac:** Capricorn
 
 ---
-### Related Archetypes:
+#### Related Archetypes:
 
-The Trickster
-The Satyr
-The Wild Man
-Dionysus (ecstasy, chaos)
-[[The Puer Aeternus - The Eternal Boy]]
-The Green Man (cycle of nature and fertility)
-The Devil (as a distorted or repressed version in Christianity)
-Hermes (boundary-crosser, liminal)
-The Magician (when linked with music, charm, and illusion)
+- The Trickster
+- The Satyr
+- The Wild Man
+- Dionysus (ecstasy, chaos)
+- [[The Puer Aeternus - The Eternal Boy]]
+- The Green Man (cycle of nature and fertility)
+- The Devil (as a distorted or repressed version in Christianity)
+- Hermes (boundary-crosser, liminal)
+- The Magician (when linked with music, charm, and illusion)
 
 ---
-### Psychology:
+#### Psychology:
 
 Quotes from [Puer Aeternus by Marie-Louise von Franz](httpswww.dropbox.comsclfi9ydd30g51pdo1sefx70ufPopta.pdfrlkey=htd7lw68qkpqefdvrblkmko74&e=1&dl=0)
 
