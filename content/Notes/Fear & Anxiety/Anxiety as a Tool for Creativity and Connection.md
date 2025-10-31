@@ -1,8 +1,6 @@
 
 Date: 12-15-2024
 
-Category: #creativityandselfexpression #navigatingchallenges 
-
 ---
 ### I'm learning to embrace anxiety as a tool for creativity and connection. 
 
