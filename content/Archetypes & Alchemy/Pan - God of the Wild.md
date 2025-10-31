@@ -1,7 +1,7 @@
 Tags: [[archetypes]] [[panic]] [[fear]]
 
 ---
-![[pan-drawing.png|500]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 14em;">
+![[pan-drawing.png|500]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 10em;">
   <em>Sketch of Pan</em>, 2024. Graphite on paper. Yours Truly.
 </p>
 
@@ -53,20 +53,21 @@ Quotes from [Puer Aeternus by Marie-Louise von Franz](https://archive.org/detail
 > **"He tries to overcome the body by denying it, but it comes back in nightmares and obsessions."**  
 
 ---
-
-### Examples:
-
-![[Pasted image 20250531125929.png]]
-
-Pan's Labyrinth
-
-![[Pasted image 20250531130028.png]]
-
-Mr. Tumnus in The Chronicles of Narnia
-
-![[Pasted image 20250531130154.png]]
-
-Christopher McCandles, true story, Into the Wild
+![[Pasted image 20250531123653.png|500]]
 
 ---
-![[Pasted image 20250531123653.png]]
+#### Examples:
+
+![[Pasted image 20250531125929.png|500]]
+
+*The Faun, Pan's Labyrinth*
+
+![[Pasted image 20250531130028.png|500]]
+
+*Mr. Tumnus in The Chronicles of Narnia*
+
+![[Pasted image 20250531130154.png|500]]
+
+*Christopher McCandles, true story, Into the Wild*
+
+---

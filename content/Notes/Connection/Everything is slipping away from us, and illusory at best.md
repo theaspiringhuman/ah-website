@@ -9,7 +9,7 @@ Source: #DailyCapture
 
 ---
 
-[Jon Brion, "Row"](https://youtu.be/aWEnr_Ei7Wg?si=9hPNOoIYZHOYzomy)
+🎵 [Jon Brion, "Row"](https://youtu.be/aWEnr_Ei7Wg?si=9hPNOoIYZHOYzomy)
 
 ---
 
