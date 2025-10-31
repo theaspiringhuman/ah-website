@@ -1,4 +1,4 @@
-Tags: [[Archetypes]]
+Tags: [[archetypes]]
 
 ![[Pasted image 20250531105951.png|400]]
 

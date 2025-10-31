@@ -1,10 +1,8 @@
 Date: 11-30-2024
 
-Category: #navigatingchallenges #personalgrowthandselfdiscovery 
-
 Tags: [[anxiety]] [[empowerment]] [[integration]] [[shadow]]
 
-Source: "[Go After the Dragon](https://www.youtube.com/watch?v=khhPt_0Y-mM)" - Akira the Don
+Source: 🎵 "[Go After the Dragon](https://www.youtube.com/watch?v=khhPt_0Y-mM)" - Akira the Don
 
 ---
 

@@ -1,4 +1,4 @@
-Tags: [[Archetypes]]
+Tags: [[archetypes]]
 
 ![[Pasted image 20250531115103.png]]
 
@@ -36,9 +36,9 @@ Tags: [[Archetypes]]
 
 [The Psychology of The Man-Child (Puer Aeternus)](https://eternalisedofficial.com/2022/10/09/puer-aeternus-psychology/)
 
-"The eternal youth archetype is the first one we experience in life, and remains vital throughout our whole life. It is closely related to the mother archetype."
+"The eternal youth [[archetypes|archetype]] is the first one we experience in life, and remains vital throughout our whole life. It is closely related to the mother archetype."
 
-and this book by Marie-Louise von Franz:
+and this book by [[Marie-Louise von Franz]]:
 [The Problem of the Puer Aeternus](https://www.goodreads.com/book/show/1404609.The_Problem_of_the_Puer_Aeternus)
 
 > **"He cannot endure the idea of being trapped by life — by the feminine, by time, by the body."**
