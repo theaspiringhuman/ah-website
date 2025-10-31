@@ -4,6 +4,7 @@ Tags: [[archetypes]] [[panic]] [[fear]]
 ![[pan-drawing.png|500]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 14em;">
   <em>Pan</em>, 2024. Graphite on paper. Yours Truly.
 </p>
+
 ---
 
 #### Keywords: 
