@@ -237,3 +237,14 @@
 - pg. 103
 
 ---
+
+"When an [[archetypes|archetype]] is balanced with the others, it tends to be expressed in its higher, more integrated and positive form." 
+
+-  pg. 108
+---
+
+"The developmental gift that comes from [[you might as well go after the dragon|confronting one's own most frightening dragons]]--whether one slays them or merely stands up to them and begins a dialogue--is *[[courage]]* and a corresponding [[freedom]] from bondage to one's [[fear|fears]]."
+
+- pg. 112
+
+---
