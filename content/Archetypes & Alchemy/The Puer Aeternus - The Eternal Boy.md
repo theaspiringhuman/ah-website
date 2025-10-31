@@ -1,7 +1,7 @@
 Tags: [[archetypes]]
 
-![[Pasted image 20250531115103.png|400]]
 
+![[peter-pan.png|400]]
 
 🎵 [Lost Boy](https://www.youtube.com/watch?v=58TBZnvyGwQ&list=RD58TBZnvyGwQ&start_radio=1) ([[Arlene|Arlene's]] favorite)
 

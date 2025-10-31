@@ -1,6 +1,6 @@
 Tags: [[archetypes]]
 
-![[Pasted image 20250531105951.png|400]]
+![[the-fool.png|400]]
 
 ---
 #### Keywords: 
