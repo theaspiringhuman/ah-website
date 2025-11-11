@@ -1,9 +1,5 @@
 
-
-
----
 #### Highlights:
-
 
 >"If you weren't enough before you published, you won't be enough after." - Anne Lamott^quote1
 
@@ -48,4 +44,3 @@
 ---
 
 >"So go ahead and make big scrawls and mistakes. Use up lots of paper. Perfectionism is a mean, frozen form of idealism, while messes are the artist's true friend. What people somehow (inadvertently, I'm sure) forgot to mention when we were children was that we need to make messes in order to find out who we are and why we are here - and, by extension, what we're supposed to be writing." - Anne Lamott^quote8
-
