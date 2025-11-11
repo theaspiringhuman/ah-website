@@ -6,8 +6,9 @@ Tags: [[individuation]] [[self-trust]] [[identity]]
 
 ---
 
- ![[The Hero Within - Carol S. Pearson#^quotea]]
- 
+#### "When people have not developed much sense of a separate, autonomous self, they basically are run by what they think to be the opinions of others." 
+
+- pg. 70 of [[The Hero Within - Carol S. Pearson]]
  ---
  
 *Ego transcendence requires an ego to transcend.*
