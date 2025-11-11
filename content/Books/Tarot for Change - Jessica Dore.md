@@ -3,7 +3,7 @@
 ---
 #### Highlights:
 
-"The externalization of internal experience onto a physical object like a card creates some distance that gives us room to breathe, shifts how we relate to ourselves, and offers a new vantage point to look from. The cards allow us to safely see and understand the less palatable aspects our ourselves." 
+"The externalization of internal experience onto a physical object like a card creates some distance that gives us room to breathe, shifts how we relate to ourselves, and offers a new vantage point to look from. The cards allow us to safely see and understand the less palatable aspects our ourselves." ^quote1
 - pg 4
 
 ---
