@@ -1,4 +1,4 @@
-
+![[bird-by-bird.png|200]]
 #### Highlights:
 
 >"If you weren't enough before you published, you won't be enough after." - Anne Lamott^quote1
