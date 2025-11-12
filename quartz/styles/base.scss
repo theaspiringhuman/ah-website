@@ -631,3 +631,20 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+/* --------------------------------------------------
+   Wider list area for folder (index) pages
+--------------------------------------------------- */
+.folder-page .content {
+  max-width: 950px;     /* wider than default 700–800px */
+  width: 90%;
+  margin: 0 auto;
+}
+
+/* Optional: make list titles more readable */
+.folder-page .content ul li a {
+  display: inline-block;
+  white-space: normal;
+  line-height: 1.6;
+  font-size: 1.05rem;
+}
+
