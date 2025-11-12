@@ -12,3 +12,23 @@
 .folder-page .content-meta {
   display: none !important;
 }
+/* Desktop: give the left sidebar more room and shrink text a touch */
+@media (min-width: 1024px) {
+  .page {
+    /* left | center | right */
+    grid-template-columns: 320px minmax(0, 1fr) 360px !important;
+  }
+  .left.sidebar { width: 320px !important; }
+
+  .explorer a,
+  .explorer .folder-title {
+    font-size: 0.95rem !important;
+    line-height: 1.25 !important;
+  }
+  .explorer .folder-outer .content {
+    padding-left: 0.6rem !important;
+  }
+  .explorer .title-button h2 {
+    white-space: nowrap !important;
+  }
+}
