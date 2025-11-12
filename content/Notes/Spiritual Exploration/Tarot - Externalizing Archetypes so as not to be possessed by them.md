@@ -2,7 +2,7 @@
 Date: 12-11-2024
 
 ---
-### **Externalizing Archetypes so as not to be possessed by them
+#### Externalizing Archetypes so as not to be possessed by them
 
 #### **Quote:** "The externalization of internal experience onto a physical object like a card creates some distance that gives us room to breathe, shifts how we relate to ourselves, and offers a new vantage point to look from. The cards allow us to safely see and understand the less palatable aspects our ourselves."
 - pg 4 of [[Tarot for Change - Jessica Dore]]
@@ -44,8 +44,3 @@ To become conscious of our patterns so that we can be more whole, more conscious
 - you become conscious of potentially harmful patterns
 - you gain more autonomy in your life [[Autonomy versus Autopilot]]
 - you become more creative, as these archetypal images dance around in your mind and generate all sorts of ideas for art
-
-
----
-
-

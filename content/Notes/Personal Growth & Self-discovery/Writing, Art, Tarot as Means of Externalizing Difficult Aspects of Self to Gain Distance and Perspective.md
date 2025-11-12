@@ -16,7 +16,7 @@ Source: [[Bird by Bird - Anne Lamott]]
 
 #### Thoughts:
 
-I was reading this last night and I immediately thought of what I've been learning as I study [[Carl Jung|Jung]] about how externalizing our complexes, fears, and shadows frees us from identifying with them and thus being consumed, or as Anne Lamott puts it "swallowed up" by them. 
+I was reading this last night and I immediately thought of what I've been learning as I study [[Carl Jung|Jung]] about how externalizing our complexes, [[fear|fears]], and [[shadow|shadows]] frees us from identifying with them and thus being consumed, or as Anne Lamott puts it "swallowed up" by them. 
 
 Jung suggests personifying and engaging with [[archetypes]] through the use of imagery and active imagination.
 
@@ -26,11 +26,8 @@ In [[Tarot for Change - Jessica Dore]] talks about how the Tarot helps us to do 
 ### ![[Tarot for Change - Jessica Dore#^quote1]]
 Anne Lamott has a different take - she suggests that writing, any kind of writing as long as it is brutally honest and gets at the heart of our deepest darkest fears and shame, will suffice as a means of distancing ourselves enough from the shadows so as not to be possessed and consumed by them. 
 
-
 ---
-
-Links to:
+#### Links to:
 
 [[Panic, and The Indirect Consequences of Repressed Instinct]]
 [[Tarot - Externalizing Archetypes so as not to be possessed by them]]
-[[Unlocking the Power of your Shadow]]
