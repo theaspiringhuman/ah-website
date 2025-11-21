@@ -59,3 +59,27 @@
 >"One image that helps me begin to know the people in my fiction is something a friend once told me. She said that every single one of us at birth is given an emotional acre all our own. You get one, your awful Uncle Phil gets one, Tricia Nixon gets one, everyone gets one. And as long as you don't hurt anyone, you really get to do with your acre as you please. You can plant fruit trees or flowers or alphabetized rows of vegetables, or nothing at all. If you want your acre to look like a giant garage sale, or an auto-wrecking yard, that's what you get to do with it. There's a fence around your acre, though, with a gate, and if people keep coming onto your land and sliming it or trying to get you to do what they think is right, you get to ask them to leave. And they have to go, [[boundaries|because that's your acre]]." - Anne Lamott ^quote10
 
 **page 44**
+
+---
+
+>"...Look within your own heart, at the different facets of your personality: You may find a con man, an orphan, a nurse, a king, a hooker, a preacher, a loser, a child, a crone. Go into each of these people and try to capture how each one feels, thinks, talks, survives." - Anne Lamott ^quote11
+
+**page 46**
+
+---
+
+>"Now, a person's faults are largely what make him or her likable." - Anne Lamott ^quote12
+
+**page 50**
+
+---
+
+>"If you are a writer, or want to be a writer, this is how you spend your days--listening, observing, storing things away, making your [[solitude|isolation]] pay off. You take home all you've taken in, all that you've overhead, and you turn it into gold." - Anne Lamott ^quote13
+
+**page 66**
+
+---
+
+>"My friend Carpenter talks about the [[unconscious]] as the cellar where the little boy sits who creates the characters, and he hands them up to you through the cellar doo. He might as well be cutting out paper dolls. He is peaceful: he's just playing. You can't will yourself into being [[receptivity|receptive]] to what the little boy has to offer, and you can't buy a key that will let you into the cellar. You have to relax, wool-gather, and get rid of the critics, and sit there in some sort of self-hypnosis, and then you have to *practice*. I mean, you can't just sit there at your desk drooling. You have to move your hand across the paper or keyboard. You may do it badly for a while, but you keep on doing it. Try to remember that to some extent, you're just the typist. A good typist listens." - Anne Lamott ^quote14
+
+**page 72**
