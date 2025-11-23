@@ -2,7 +2,7 @@
 
 ---
 
-I discovered This Jungian Life in 2023, when I was brooding over my existential struggle with [[indecision]]. I came across [an episode](https://thisjungianlife.libsyn.com/difficulty-making-decisions) they had done about the psychology behind the tendency to be indecisive and I was cracked open to a whole new depth of my own [[shadow]] material. It was wonderful (not!). Anyway, since then I've been listening to these guys regularly and gleaning all sorts of insights from their many years of experience as Jungian analysts. Lisa, Deb, and Joseph are just delightful people and when I listen to this podcast I feel like I have a circle of friends who understand me deeply. *Wouldn't that be nice!* 
+I discovered This Jungian Life in 2023, when I was brooding over my existential struggle with [[indecision]]. I came across [an episode](https://thisjungianlife.libsyn.com/difficulty-making-decisions) they had done about the psychology behind the tendency to be indecisive and I was cracked open to a whole new depth of my own [[shadow]] material. It was wonderful (not!). Anyway, since then I've been listening to these guys regularly and gleaning all sorts of insights from their many years of experience as Jungian analysts. Lisa, Deb, and Joseph are just delightful people and when I listen to this podcast I feel like I have a circle of friends who understand my inner world. *Wouldn't that be nice!* 
 
 ---
 
