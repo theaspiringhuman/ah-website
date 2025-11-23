@@ -97,5 +97,6 @@
 **page 97-98**
 
 *This makes me think of what [[Virginia Woolf]] said:*   
+#### "If you do not tell the truth about yourself you cannot tell it about other people" 
 
-![[Virginia Woolf#^quote4]]
+---
