@@ -83,3 +83,19 @@
 >"My friend Carpenter talks about the [[unconscious]] as the cellar where the little boy sits who creates the characters, and he hands them up to you through the cellar doo. He might as well be cutting out paper dolls. He is peaceful: he's just playing. You can't will yourself into being [[receptivity|receptive]] to what the little boy has to offer, and you can't buy a key that will let you into the cellar. You have to relax, wool-gather, and get rid of the critics, and sit there in some sort of self-hypnosis, and then you have to *practice*. I mean, you can't just sit there at your desk drooling. You have to move your hand across the paper or keyboard. You may do it badly for a while, but you keep on doing it. Try to remember that to some extent, you're just the typist. A good typist listens." - Anne Lamott ^quote14
 
 **page 72**
+
+---
+
+>"Writing is about learning to pay attention and to communicate what is going on." - Anne Lamott ^quote15
+
+**page 97**
+
+---
+
+>"The writer is a person who is standing apart, like the cheese in 'The Farmer in the Dell' standing there alone but deciding to take a few notes. You're outside, but you can see things up close through your binoculars. Your job is to present clearly your viewpoint, your line of vision. Your job is to see people as they really are, and to do this, you have to know who you are in the most compassionate possible sense. Then you can recognize others." - Anne Lamott ^quote16
+
+**page 97-98**
+
+*This makes me think of what [[Virginia Woolf]] said:*   
+
+![[Virginia Woolf#^quote4]]
