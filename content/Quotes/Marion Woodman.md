@@ -5,7 +5,7 @@
 “When the soul is ready to be born anew, the old world collapses. The money dries up, the work disappears, the relationships end. It looks like failure, but it is protection. The poverty is protecting the fragile new life until it can stand on its own.”  
 
 “We have to be willing to live for a while without what we thought we needed. The poverty that follows is not punishment; it is the soul’s way of protecting its own birth.”
-#### “In the interval of poverty, the ego learns humility. It cannot create the new life. It can only wait, tend, and trust the process.”
+#### “In  [[On the 'interval of poverty' - the void between the old and the new self.|the interval of poverty]], the ego learns humility. It cannot create the new life. It can only wait, tend, and trust the process.”
 
 “The soul cannot be born in a mind that must always be right, or in a life that must always be secure. The birth of the soul requires surrender, and surrender often looks like poverty.”
 

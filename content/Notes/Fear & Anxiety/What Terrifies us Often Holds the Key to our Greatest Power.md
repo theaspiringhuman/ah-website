@@ -1,6 +1,6 @@
 Date: 11-21-2024 
 
-Source: [[MEDUSA’S MANY FACES - The Evolution of a Myth - This Jungian Life]] 
+Source: [[Medusa's Many Faces - The Evolution of a Myth - This Jungian Life]] 
 
 Tags: [[transformation]] [[empowerment]]
 

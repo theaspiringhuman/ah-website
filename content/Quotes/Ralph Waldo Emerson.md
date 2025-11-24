@@ -12,7 +12,6 @@
 
 > "But man postpones or remembers; he does not live in the present, but with reverted eye laments the past, or, heedless of the riches that surround him, stands on tiptoe to foresee the future. He cannot be happy and strong until he too lives with nature in the present, above time." - Ralph Waldo Emerson, *Self-Reliance* ^quote5
 
-
 > **We but half express ourselves, and are ashamed of that divine idea which each of us represents.** It may be safely trusted as proportionate and of good issues, so it be faithfully imparted, but [[God]] will not have his work made manifest by cowards. A man is relieved and gay when he has put his heart into his work and done his best; but what he has said or done otherwise, shall give him no peace. It is a deliverance which does not deliver. In the attempt his genius deserts him; no muse befriends; no invention, no [[hope]]. - Ralph Waldo Emerson ^quote6
 
 > "... For practical success, there must not be too much design. A man will not be observed doing that which he can do best. There is a certain magic about his properest action which stupifies your powers of observation, so that though it is done before you, you wist not of it." - Ralph Waldo Emerson ^quote8
@@ -34,7 +33,7 @@
 
 Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being.
 
-Absolve you to yourself and you shall have the suffrage of the world.
+[[self-acceptance|Absolve you to yourself and you shall have the suffrage of the world.]]
 
 Society everywhere is in conspiracy against the manhood of every one of its members. Society is a joint-stock company, in which the members agree, for the better securing of his bread to each shareholder, to surrender the liberty and culture of the eater. The virtue in most request is conformity. Self-reliance is its aversion. It loves not realities and creators, but names and customs.
 

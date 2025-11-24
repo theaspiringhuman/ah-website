@@ -12,3 +12,30 @@
 .folder-page .content-meta {
   display: none !important;
 }
+/* Make the folder listing area wider */
+.center .page-listing,
+.center .page-listing > div,
+.center .page-listing .section-ul {
+  max-width: 1100px !important;   /* adjust to taste */
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+/* Ensure each row lets the title span full available width */
+.center .page-listing .section {
+  display: block !important;       /* neutralize any grid/flex with narrow columns */
+}
+
+/* Let the title container expand fully */
+.center .page-listing .section .desc {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Readable, non-cramped titles */
+.center .page-listing .section .desc h3 a {
+  display: block;
+  white-space: normal;
+  line-height: 1.55;
+  font-size: 1.05rem;
+}
