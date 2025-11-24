@@ -77,3 +77,8 @@
   margin-bottom: 0.65rem !important;   /* adjust spacing amount here */
   padding-left: 0.1rem;                /* optional: subtle indent for clarity */
 }
+/* Light divider between items */
+.explorer .folder-outer .content > li {
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+  padding-bottom: 0.25rem;
+}
