@@ -39,3 +39,32 @@
   line-height: 1.55;
   font-size: 1.05rem;
 }
+/* ---------------------------------------------
+   Sidebar spacing improvements
+---------------------------------------------- */
+
+/* Increase spacing between each file link */
+.explorer .explorer-ul li {
+  margin-bottom: 0.4rem;        /* space between each item */
+}
+
+/* Add extra spacing between folders and their children */
+.explorer .folder-container {
+  margin-top: 0.7rem;           /* space above folder label */
+  margin-bottom: 0.3rem;        /* space below folder label */
+}
+
+/* Add spacing inside folder-outer (children list) */
+.explorer .folder-outer .content li {
+  margin-bottom: 0.35rem;       /* more room between nested items */
+}
+
+/* Slightly space out the Explorer heading ("Explorer") */
+.explorer .title-button h2 {
+  margin-bottom: 0.8rem;
+}
+
+/* Tighten or loosen indentation if you want a calmer layout */
+.explorer .folder-outer .content {
+  padding-left: 0.75rem !important;
+}
