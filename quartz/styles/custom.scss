@@ -82,3 +82,31 @@
   border-bottom: 1px solid rgba(0,0,0,0.06);
   padding-bottom: 0.25rem;
 }
+/* -----------------------------
+   Fix sidebar text clipping on mobile
+------------------------------ */
+@media (max-width: 800px) {
+  /* Make the sidebar span the full width nicely */
+  .left.sidebar {
+    width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+  }
+
+  /* Ensure the explorer area can use full width */
+  .explorer {
+    width: 100% !important;
+  }
+
+  /* Let list items and links wrap instead of clipping */
+  .explorer .explorer-ul,
+  .explorer .explorer-ul li,
+  .explorer .explorer-ul a {
+    max-width: 100% !important;
+    width: 100%;
+    box-sizing: border-box;
+    white-space: normal;   /* allow multi-line titles */
+    overflow: visible;     /* don't hide the right edge */
+  }
+}
