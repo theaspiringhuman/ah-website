@@ -6,7 +6,7 @@ Source: #DailyCapture
 
 ---
 
-It's axiomatic that our psychological and spiritual development is heavily influenced by conditioned beliefs that are difficult to distinguish from our own inner *knowing*. There's a time in everyone's life when she hears the call to walk away from the constructs that limit and bind her, and to journey towards the unfolding of her true being. There's resistance to the call because the journey is unquestionably dangerous, and the [[unconscious]] knows that. 
+Our psychological and spiritual development is heavily influenced by conditioned beliefs that are difficult to distinguish from our own inner *knowing*. There's a time in everyone's life when she hears the call to walk away from the constructs that limit and bind her, and to journey towards the unfolding of her true being. There's resistance to the call because the journey is unquestionably dangerous, and the [[unconscious]] knows that. 
 
 To answer the call, one must forsake all she once took for granted and throw herself into the choppy waters of [[doubt]] and uncertainty. The beginning of the journey is a time of tumult and severe [[anxiety]]. It is a liminal space. Between what we have known and what remains to be known. The sense of a solid [[identity]] is stripped away and one feels as vulnerable and undifferentiated as an unborn child.
 
