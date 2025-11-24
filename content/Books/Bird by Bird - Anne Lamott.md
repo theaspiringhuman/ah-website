@@ -100,3 +100,9 @@
 #### "If you do not tell the truth about yourself you cannot tell it about other people" 
 
 ---
+
+>"I honestly think in order to be a writer, you have to learn to be reverent. If not, why are you writing? Why are you here? Let's think of reverence as awe, as presence in and openness to the world. The alternative is that we stultify, we shut down. Think of those times when you've read prose or poetry that is presented in such a way that you have a fleeting sense of being starteld by [[beauty]] or insight, by a glimpse into someone's soul. All of a sudden everything seems to fit together or at least have some [[meaning]] for a moment. This is our goal as writers, I think; to help others have this sense of--please forgive me--[[wonder]], of seeing things anew, things that can catch us off guard, that break in on our small, bordered worlds.." - Anne Lamott ^quote17
+
+**page 99-100**
+
+---
