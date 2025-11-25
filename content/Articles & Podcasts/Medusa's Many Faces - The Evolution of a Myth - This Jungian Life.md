@@ -6,7 +6,11 @@ Tags: [[shadow]] [[unconscious]] [[mythology]] [[archetypes]]
 
 ---
 
-The Medusa episode of _This Jungian Life_ podcast explores the evolution of Medusa’s myth and its psychological and cultural significance. Here are the key insights:
+![[medusa-painting-megan-logan.png|500]]
+
+---
+
+The Medusa episode of [[This Jungian Life]] podcast explores the evolution of Medusa’s myth and its psychological and cultural significance. Here are the key insights:
 
 1. **Mythological Background**: Medusa’s earliest depiction in Hesiod's _Theogony_ portrays her as a mortal with a deadly gaze. Ovid later redefined her monstrous image as Athena's punishment for desecration in her temple, a story that highlights themes of injustice and transformation​
 
