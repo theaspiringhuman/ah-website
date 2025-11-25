@@ -6,6 +6,9 @@ Source: [[Bird by Bird - Anne Lamott]]
 
 ---
 
+![[tarot-writing.png|700]]
+
+---
 #### "The great writers keep writing about the cold dark place within, the water under a frozen lake or the secluded, camouflaged hole. The light they shine on this hole, this pit, helps us cut away or step around the brush and brambles; then we can dance around the rim of the abyss, holler at it, measure it, throw rocks in it, and still not fall in. It can no longer swallow us up. And we can get on with things...
 
 #### When people shine a little light on their monster, we find out how similar most of our monsters are. The secrecy, the obfuscation, the fact that these monsters can only be hinted at, gives us the sense that they must be very bad indeed. But when people let their monsters out for a little onstage interview, it turns out that we've all done or thought the same things, that this is our lot, our condition...
