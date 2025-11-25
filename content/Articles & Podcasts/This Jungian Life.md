@@ -11,4 +11,4 @@ I discovered This Jungian Life in 2023, when I was brooding over my existential 
 
 ---
 
-"When you can personify [[unconscious]] contents, you no longer identify with them and you can begin to have a dialogue and a relationship with them." - Paraphrased from something Lisa said on this episode of [This Jungian Life](app://obsidian.md/This%20Jungian%20Life) ^[[[Tarot - Externalizing Archetypes so as not to be possessed by them]]]
+"When you can personify [[unconscious]] contents, you no longer identify with them and you can begin to have a dialogue and a relationship with them." - Paraphrased from something Lisa said on this episode of [This Jungian Life](app://obsidian.md/This%20Jungian%20Life) ^[[[Writing, Art, Tarot as Means of Externalizing Difficult Aspects of Self to Gain Distance and Perspective]]]
