@@ -7,6 +7,9 @@ Tags: [[shadow]] [[unconscious]] [[mythology]] [[archetypes]]
 ---
 
 ![[medusa-painting-megan-logan.png|500]]
+<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 16em;">
+  <em>Medusa</em>, 2024. Acrylic. Yours Truly.
+</p>
 
 ---
 
