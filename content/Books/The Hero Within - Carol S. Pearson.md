@@ -24,13 +24,13 @@
 "People who are discouraged from slaying dragons internalize the urge and slay themselves by declaring war on their fat, their selfishness, their sensitivity, or some other attribute they think does not please. Or they suppress their feelings in order to become [[success|successful]] performance machines. Or they become chameleons, killing off their uniqueness to serve an image they think buys success or just will keep them safe."
 
 - pg 3-4
--
+
 ---
 
 "Systems theory tells us that when any element of a system changes, the whole system has to reconfigure. Therefore, simply by experiencing your own metamorphosis, you can contribute to the transformations of all the social systems of which you are a part: family, school, workplace, community, and society as a whole."
 
 - pg 5
--
+
 ---
 "By taking us down into the deep recesses of our souls, the hero's journey allows us to adapt to a changing world without becoming chameleons. Instead, we go inward to find an [[authenticity|authentic]] response to the challenges that face us. In so doing, we become more authentic."
 
