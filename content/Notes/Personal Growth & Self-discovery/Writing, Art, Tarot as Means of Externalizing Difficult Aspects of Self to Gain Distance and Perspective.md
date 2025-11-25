@@ -7,9 +7,6 @@ Source: [[Bird by Bird - Anne Lamott]]
 ---
 
 ![[tarot-writing.png|700]]
-<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 24em;">
-  <em>A morning of ritual.</em>, 2025. 
-</p>
 
 ---
 #### "The great writers keep writing about the cold dark place within, the water under a frozen lake or the secluded, camouflaged hole. The light they shine on this hole, this pit, helps us cut away or step around the brush and brambles; then we can dance around the rim of the abyss, holler at it, measure it, throw rocks in it, and still not fall in. It can no longer swallow us up. And we can get on with things...
