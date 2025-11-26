@@ -1,8 +1,6 @@
-Date: 09-30-2025 
+Tags: [[suffering]] [[transformation]] [[archetypes]]
 
-Tags: [[suffering]] [[transformation]] 
-
-Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://thisjungianlife.com/episode-107-nigredo-finding-light-in-our-darkness/)
+Links to: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://thisjungianlife.com/episode-107-nigredo-finding-light-in-our-darkness/)
 
 ---
 ![[watercolor-nigredo.png]] <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 8em;">
@@ -20,9 +18,9 @@ Source: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://th
 
 Nigredo is the **first stage of the Magnum Opus** (the Great Work of alchemy). It represents:
 
-- **Breakdown, dissolution, and decay**—the burning away of [[illusion]]s and the death of the old self.
+- **Breakdown, dissolution, and decay**—the burning away of [[illusion|illusions]] and the death of the old self.
 
-- The stage of **shadow work**, confrontation with darkness, or entering the unknown.
+- The stage of **[[shadow]] work**, confrontation with darkness, or entering the unknown.
 
 - A necessary **disintegration** that precedes transformation.
 
@@ -30,7 +28,7 @@ Nigredo is the **first stage of the Magnum Opus** (the Great Work of alchemy). I
 
 - The **fertile void**: destruction as a precursor to rebirth.
 
-In Jungian psychology, Nigredo represents **ego death and confrontation with the [[unconscious]]**—the painful but essential start of individuation.
+In Jungian psychology, Nigredo represents **[[ego-death]] and confrontation with the [[unconscious]]**—the painful but essential start of [[individuation]].
 
 ---
 
@@ -40,7 +38,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 - **Rotting corpse or skeleton** (in medieval alchemical art): Symbolizing the putrefaction of matter (and ego).
 
-- **The raven or crow**: Bird of shadow and death, but also transformation and prophecy.
+- **The raven or crow**: Bird of [[shadow]] and [[death]], but also [[transformation]] and prophecy.
 
 - **Dark earth or ashes**: What remains after fire has stripped away the false and the superficial.
 
@@ -117,7 +115,7 @@ In Jungian psychology, Nigredo represents **ego death and confrontation with the
 
 ---
 
-### **What Nigredo Asks of You**
+### What Nigredo Asks of You
 
 - Can you allow the **old self to dissolve**, even when it feels terrifying?
 
