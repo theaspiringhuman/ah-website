@@ -328,3 +328,37 @@
 **pg 118**
 
 ---
+
+>"Naturally, the antidote to [[shame]] is to risk showing up as fully as we're able. The discipline needed for shame is to practice revealing yourself. It is bringing into the open the full brightness of your spirit, despite your [[fear]] of [[failure]]. It is to brave your secret gifts into the open. It is revealing your fears to trusted others, allowing them to be assuaged. It is reaching out when you'd rather [[hidden|hide]]. It's asking for help when you feel abandoned." - Toko-pa Turner, *Belonging* ^quote60
+
+**pg 120**
+
+---
+
+>"[[shame]] can't survive the open light of day. Imagine the size of your [[fear]], revulsion, and shame embraced and you will have successfully estimated the power of your [[wholeness]]." - Toko-pa Turner, *Belonging* ^quote61
+
+**pg 121**
+
+---
+
+>"[[Grief]] is the honor we pay to that which is dear to us. And it is only through the [[connection]] to what we cherish that we can know how to move forward. In this way, [[grief]] is motion." - Toko-pa Turner, *Belonging* ^quote62
+
+**pg 121**
+
+---
+
+>"[[Grief]] plays an essential role in our coming undone from previous attachments. It is the necessary current we need to carry us into our next becoming. Without it, we may remain stuck in that area of our life, which can limit the whole spectrum of our feeling alive." - Toko-pa Turner, *Belonging* ^quote63
+
+**pg 122**
+
+---
+
+>"[[Grief]] is the expression of [[healing]] in motion." - Toko-pa Turner, *Belonging* ^quote64
+
+**pg 122**
+
+---
+
+>"But the [[truth]] is that simply seeing a pattern is often enough to make it [[change]]. Once something is brought to [[consciousness]], it can no longer operate covertly. It may not disappear altogether at first, but you'll catch it sooner next time." - Toko-pa Turner, *Belonging* ^quote65
+
+**pg 126**

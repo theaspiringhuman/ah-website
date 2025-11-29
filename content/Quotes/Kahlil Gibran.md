@@ -33,6 +33,8 @@
 > "If these be vague words, then seek not to clear them. Vague and nebulous is the beginning of all things, but not their end, and I fain would have you remember me as a beginning. Life, and all that lives, is conceived in the mist and not in the crystal. And who knows but a crystal is mist in decay?" - Kahlil Gibran ^quote13
 #### "If this is my day of harvest, in what fields have I sown the seed, and in what unremembered seasons? [[Journey Back to the Oversoul|Empty and dark shall I raise my lantern]], And the guardian of the night shall fill it with oil and he shall light it also" - Kahlil Gibran ^quote14
 
+"In the depths of your [[hope|hopes]] & [[desire|desires]] lies your silent knowledge of the beyond; & like seeds dreaming beneath the snow your heart dreams of Spring. Trust the dreams, for in them is hidden the gate to eternity." - Kahlil Gibran ^quote15
+
 "[[Love]] gives naught but itself and takes naught but from itself.    
 [[Love]] possesses not nor would it be possessed; For love is sufficient unto love. And think not you can direct the course of love, for love, if it finds you worthy, directs your course. Love has no other desire but to fulfill itself."
   
