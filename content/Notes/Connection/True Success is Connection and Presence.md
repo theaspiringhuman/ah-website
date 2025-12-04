@@ -6,7 +6,7 @@ Source: #Journals [[Randolph Black]]
 
  ---
  
-Success to me is a life well-lived and well-loved. [[Success]] for me in particular would look like having expressed myself [[authenticity|authentically]] in the world and my work having resonated deeply with others. To feel successful I wouldn't need a large "audience"--in fact I think that fame might overshadow the bigger picture of what I intend to accomplish. And that is to reach into the hearts of people & soothe their pain, kindle their bliss, awaken their [[wonder]]. 
+Success to me is a life well-lived and well-loved. [[success|Success]] for me in particular would look like having expressed myself [[authenticity|authentically]] in the world and my work having resonated deeply with others. What I intend to accomplish is to reach into the hearts of people & soothe their pain, kindle their bliss, awaken their [[wonder]]. 
 
 Some scientist discovered that humans--& any physical objects--[never *really* touch](https://futurism.com/why-you-can-never-actually-touch-anything). There are microscopic fields between us so that actual physical contact is not possible, & this seems to me to be a metaphor (as all of nature is metaphor) for the spiritual or metaphysical boundaries we experience. 
 
