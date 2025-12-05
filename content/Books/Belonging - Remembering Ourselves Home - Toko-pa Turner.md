@@ -362,3 +362,11 @@
 >"But the [[truth]] is that simply seeing a pattern is often enough to make it [[change]]. Once something is brought to [[consciousness]], it can no longer operate covertly. It may not disappear altogether at first, but you'll catch it sooner next time." - Toko-pa Turner, *Belonging* ^quote65
 
 **pg 126**
+
+---
+
+"But you can give thanks for the [[panic|terrors]] which shake you from [[unconscious|sleep]] with ferocity because their dawning in your [[consciousness|awareness]] is already the promise, the beginning of their retreat." - Toko-pa Turner, *Belonging* ^quote66
+
+**pg 127**
+
+---
