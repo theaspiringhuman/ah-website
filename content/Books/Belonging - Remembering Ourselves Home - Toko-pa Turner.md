@@ -370,3 +370,9 @@
 **pg 127**
 
 ---
+
+>"Ironically, it is this [[fear]] itself that so often keeps us outside of belonging. We live our lives in avoidance of those places and risks which might lead to our rejection, pre-emptively exluding ourselves , then suffering the same [[loneliness]] as if the rejection had come from the outside." - Toko-pa Turner, *Belonging* ^quote67
+
+**pg 133**
+
+---

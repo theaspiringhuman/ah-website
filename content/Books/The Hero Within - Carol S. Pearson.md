@@ -248,3 +248,21 @@
 - pg. 112
 
 ---
+
+"...A quality product or service mirrors our souls and, in this way, reflects back to us our genuine [[worthiness|worth]]. Therefore, you can find no better way to route to high self-esteem than a commitment to excellence in everything you do."
+
+- pg. 116
+
+---
+
+"Basic to every fertility religion is the knowledge that death and sacrifice are prerequisites to [[rebirth]]. This is a basic law of the natural and spiritual worlds."
+
+- pg 126
+
+---
+
+"If you have been socialized by your parents, by the church/synagogue, or by your schooling to sacrifice the essence of your individuality to be 'good,' there is no way you can give freely. Before learning to give appropriately, it is necessary to say no to gratuitous, role-defined sacrifice."
+
+- pg 130
+
+---
