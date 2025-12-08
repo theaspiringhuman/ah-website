@@ -376,3 +376,19 @@
 **pg 133**
 
 ---
+
+>"My loving, kind and radiant self, through criticism and neglect, had grown to believe she needed to prove herself [[worthiness|worthy]] of being live." - Toko-pa Turner, *Belonging* ^quote68
+
+**pg 136**
+
+---
+
+>"As Paul Levy so beautifully puts it, 'we have the precious opportunity to liberate the ancestral, rhizomic strands of [[trauma]] which extend far back in time and equally far into the future, but which also converge and are spread throughout the present in the form of the [[society]] and culture in which we live. We can be the ones to break the link in the chain and dissolve these insidious, mycelium-like threads, which are literally the warp and weft upon which the tapestry of the past, present, and future history of our species is woven." - Toko-pa Turner, *Belonging* ^quote69
+
+**pg 137**
+
+---
+
+>"[[Rumi]] says that to cry out in weakness is what invites [[healing]] to pour in towards it. He writes, 'All medicine wants is [[suffering|pain]] to cure.'" - Toko-pa Turner, *Belonging* ^quote70
+
+**pg 137**
