@@ -113,43 +113,51 @@
     text-overflow: clip !important;
   }
 }
-/* -----------------------------
-   Backlinks styling (center column)
------------------------------- */
+/* ---------------------------------------------
+   Backlinks readability (desktop + mobile)
+---------------------------------------------- */
 
-/* Create space between title and backlinks section */
-.center .backlinks {
-  margin-top: 2.5rem; /* pushes backlinks down from topic title */
+/* Give the whole backlinks block some breathing room */
+.backlinks {
+  margin-top: 2rem !important;
+  padding-top: 0.75rem;
 }
 
-/* Style the "Backlinks" heading */
-.center .backlinks h2 {
-  margin-bottom: 1.2rem;
-  font-size: 1.1rem;
-  letter-spacing: 0.08em;
-  opacity: 0.7;
+/* Space + dividers between each backlink item */
+.backlinks ul {
+  margin-top: 0.75rem !important;
+  padding-left: 0 !important;   /* remove default ul indent */
+  list-style: none !important;
 }
 
-/* Space out individual backlink items */
-.center .backlinks ul li {
-  padding: 0.6rem 0;
-  margin: 0;
+.backlinks li {
+  margin: 0 !important;
+  padding: 0.65rem 0 !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
 }
 
-/* Add subtle divider lines between backlinks */
-.center .backlinks ul li:not(:last-child) {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+/* Dark mode divider */
+[saved-theme="dark"] .backlinks li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
 }
 
-/* Improve readability of backlink links */
-.center .backlinks ul li a {
+/* Make each backlink title feel like a tappable row */
+.backlinks a {
   display: block;
-  line-height: 1.5;
-  text-decoration: none;
+  line-height: 1.45;
+  padding-right: 0.25rem;
 }
 
-/* Gentle hover cue */
-.center .backlinks ul li a:hover {
-  opacity: 0.75;
-}
+/* ---------------------------------------------
+   Mobile: ensure nothing collapses/tightens
+---------------------------------------------- */
+@media (max-width: 800px) {
+  .backlinks {
+    margin-top: 2.25rem !important; /* push it farther below the note */
+    padding-top: 1rem !important;
+  }
 
+  .backlinks li {
+    padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
+  }
+}
