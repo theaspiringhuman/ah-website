@@ -7,6 +7,9 @@ Source: [Pan: The Archetypal Source of Panic Disorder](https://thisjungianlife.c
 ---
 
 ![[pan-as-instinct.png|500]]
+<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 6em;">
+  <em>Pan's Boons</em>, 2025. Digital Composite. Yours Truly.
+</p>
 
 ---
 ### [[Pan - God of the Wild|PAN]]: the archetypal source of [[panic]] disorder
