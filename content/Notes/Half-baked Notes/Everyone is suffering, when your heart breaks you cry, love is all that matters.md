@@ -1,7 +1,5 @@
 Date: 01-17-2024 
 
-Category: #navigatingchallenges 
-
 Tags: [[self-acceptance]] [[loss]] 
 
 Source: #Journals [[Blue Stars]]
