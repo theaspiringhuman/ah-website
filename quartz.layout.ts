@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {}
+    links: {},
   }),
 }
 
@@ -22,6 +22,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     // Component.TagList(), // removed to hide tags
   ],
+
+  // ✅ Backlinks AFTER the note body (center column)
+  afterBody: [Component.Backlinks()],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -50,20 +54,12 @@ export const defaultContentPageLayout: PageLayout = {
       return Component.Explorer({ filterFn })
     })(),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.Graph(), Component.DesktopOnly(Component.TableOfContents())],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -77,20 +73,20 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-  filterFn: function hideHidden(node) {
-    const omit = new Set(["_hidden"]);
+      filterFn: function hideHidden(node) {
+        const omit = new Set(["_hidden"])
 
-    // Check this node
-    if (omit.has(node.displayName.toLowerCase())) return false;
+        // Check this node
+        if (omit.has(node.displayName.toLowerCase())) return false
 
-    // If it has children, filter them recursively
-    if (node.children) {
-      node.children = node.children.filter(hideHidden);
-    }
+        // If it has children, filter them recursively
+        if (node.children) {
+          node.children = node.children.filter(hideHidden)
+        }
 
-    return true;
-  },
-}),
+        return true
+      },
+    }),
   ],
   right: [],
 }
