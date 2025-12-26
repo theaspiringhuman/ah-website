@@ -20,6 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.Backlinks(),
     // Component.TagList(), // removed to hide tags
   ],
   left: [
