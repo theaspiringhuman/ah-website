@@ -38,7 +38,7 @@ When Panic happens, the war is somewhere and we have to courageously find the RE
 - [[sexuality|Sexuality]]
 - Hunger
 
-Where is my war with [[Creativity]]? Where is my war against [[Sexuality]]? Etc.
+Where is my war with [[creativity]]? Where is my war against [[sexuality]]? Etc.
 
 When the ego is at war with any or all of those realms, the instinctive world is capable of emitting a kind of shrieking quality to stun the ego and send it into a sort of decompensation so that the forest might try to reestablish the naturalness of the personality. It is an attack against the egos arrogant supremacy."
 
