@@ -30,7 +30,7 @@ In [[Tarot for Change - Jessica Dore]] talks about how the Tarot helps us to do 
 Anne Lamott has a different take - she suggests that writing, any kind of writing as long as it is brutally honest and gets at the heart of our deepest darkest fears and shame, will suffice as a means of distancing ourselves enough from the shadows so as not to be possessed and consumed by them. 
 
 ---
-#### Links to:
+#### Links to
 
 [[Panic, and The Indirect Consequences of Repressed Instinct]]
 
