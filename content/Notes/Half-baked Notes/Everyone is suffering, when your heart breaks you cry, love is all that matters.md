@@ -45,6 +45,7 @@ I would like to make [[art]] and travel the world. I would like to find some pla
 ---
 
 Links to
+
 [[It is so beautifully tragic to be human.]]
 
 [[Suffering as a Gift and a Teacher]]
