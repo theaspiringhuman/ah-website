@@ -35,7 +35,7 @@ When Panic happens, the war is somewhere and we have to courageously find the RE
 - [[creativity|Creativity]]
 - Reflection
 - Activity
-- [[Sexuality]]
+- [[sexuality|Sexuality]]
 - Hunger
 
 Where is my war with [[Creativity]]? Where is my war against [[Sexuality]]? Etc.
