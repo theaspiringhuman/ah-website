@@ -392,3 +392,9 @@
 >"[[Rumi]] says that to cry out in weakness is what invites [[healing]] to pour in towards it. He writes, 'All medicine wants is [[suffering|pain]] to cure.'" - Toko-pa Turner, *Belonging* ^quote70
 
 **pg 137**
+
+---
+
+> "True [[healing]] is an unglamorous process of living into the long lengths of [[pain]]. Forging forward in the darkness. Holding the tension between [[hope|hoping]] to get well and the [[acceptance]] of what is happening. Tendering a devotion to the impossible task of recovery, while being willing to live with the permanence of a wound; befriending it with an earnest tenacity to meet it where it lives without pushing our agenda upon it. But here's the paradox: you must accept what is happening while also keeping the heart pulsing towards your becoming, however slow and whispering it may be." - Toko-pa Turner, *Belonging* ^quote71
+
+**pg. 138**
