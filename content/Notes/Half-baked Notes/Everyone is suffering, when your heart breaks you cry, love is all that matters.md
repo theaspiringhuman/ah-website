@@ -15,7 +15,7 @@ Everyone is [[suffering]] in some way. I get lost in my own [[pain]] and I forge
 There's this cartoon called Midnight Gospel...
 In one episode, Duncan Trussell and his mom (who died shortly after the recording) are having a conversation about the [[impermanence]] of life. She explains to him how it all comes and goes in a sort of indifferent expression of ebbing and flowing. 
 
-"Yes, but what about heartbreak-" Duncan asks, "what do you do about that?"
+"Yes, but what about [[heartbreak]]-" Duncan asks, "what do you do about that?"
 "You cry," she says, "[[You Cry]]."
 
 And of course this made *me* cry. 
