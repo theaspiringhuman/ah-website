@@ -10,7 +10,7 @@ Okay. I’ve been kind of obsessing. Not—well, yeah, kind of obsessing—over 
 
 I mean, I think I’ve always kind of wondered, with our economy and the fact that some of the most seemingly trivial and useless jobs in this economy are the ones that pay the most. I mean, sports players, celebrities of all kinds, actors, musicians—any kind of entertainment. Anyone in the entertainment industry, on the front end or the back end. These are the people that make the most money. People in the tech industry, yes—these things are very useful. Entertainment has its own sort of place in [[society]], and the arts are a whole different thing.
 
-But I think it has even been reduced to a sort of shallow, hollow, flattened-out version of what its true purpose for humanity is.
+But I think it (the arts) has even been reduced to a sort of shallow, hollow, flattened-out version of what its true purpose for humanity is.
 
 Specifically, when I think of the tech industry and sports and entertainment in general, all these industries are not contributing any real [[value]] to humanity. They’re not. And the innovations, the advancements, the technologies—though they make this economy, and the particular way this economy functions, more efficient, quicker, more profitable—they’re not actually truly useful to any kind of [[meaning|meaningful]] ends, in my opinion.
 
@@ -34,7 +34,7 @@ It’s more powerful than just having a [[hope]] or a dream alone.
 
 Envisioning this terrifying, apocalyptic future for my nephew, my nieces and nephews, people that I [[love]], and even myself—knowing it’s probably going to happen in my lifetime—has been a really strong motivator. It’s helped put things in perspective and made me seriously contemplate my purpose here, at this time on earth.
 
-Who do I want to be in such a time as this?
+*Who do I want to be in such a time as this?*
 
 Ironically, I had a discussion with ChatGPT. I was asking whether [[AI]] has any sort of opinion or overall understanding of humanity. What do you think of us? With all the information you’ve gathered? I mean, [[AI]] is basically just a mirror of us. It’s learning from our conversations, our content, everything we put out into the world.
 
@@ -70,7 +70,7 @@ So I’m trying to be mindful. To stay in touch with being human. With [[nature]
 
 Technology can be useful. And I do have [[faith]] in humanity—to an extent. Sometimes I [[wonder]]. But I have [[faith]] in [[love]]. As something fundamental. Almost like a universal law.
 
-I was thinking today—what if [[love]] is the only thing that’s real? What if everything emanates from it? What if we’ve drifted so far from the center of [[reality]] that we’ve lost touch with that truth?
+I was thinking today—what if [[love]] is the only thing that’s real? What if everything emanates from it? What if we’ve drifted so far from the center of [[reality]] that we’ve lost touch with that [[truth]]?
 
 What if [[love]] isn’t just a feeling, or something sappy, but the fabric that holds everything together? Not just humanity—everything. You see it in the animal kingdom. You see it in people. I know evolutionary biologists argue it’s all about reproduction, but I disagree when I observe certain behaviors.
 
@@ -85,4 +85,5 @@ That’s what I’ve been thinking lately.
 #### Links to: 
 
 [[Will AI, by means of comparison, give us an opportunity to finally understand consciousness]]
+
 [[AI as a means of comparison for humanity's self-reflection]]
