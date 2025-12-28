@@ -74,9 +74,9 @@ We’re all going down with the ship. I don’t want a makeshift lifeboat while 
 
 So what is that? A vision? I'm an artist... Am I here to provide imagery for an alternative to the apocalypse? I don’t know.
 
-When I talk myself out of the off-grid fantasy, I think maybe there’s a middle ground. Maybe I can harness technology in a productive, beneficial way without getting lost in it. That requires tremendous self-control—using technology as a tool rather than being used by it, rather than becoming a data mine.
+When I talk myself out of the off-grid fantasy, I think maybe there’s a middle ground. Maybe I can harness technology in a productive, beneficial way without getting lost in it. That requires tremendous self-control—using technology as a tool rather than being used by it, rather than being data mined. We're constantly having data extracted from us as we use these tools, so I think it's so important to be mindful of how we're using them.
 
-It makes me think of people like Bill Gates, who didn’t let his kids have devices. Or Elon Musk, who reportedly limits his screen time. You [[wonder]] what they know.
+I think of people like Bill Gates, who didn’t let his kids have devices. Interesting, as he's one of the creators of devices. Or Elon Musk, who reportedly limits his screen time. You [[wonder]] what do they know? A lot that we don't.
 
 So I’m trying to be mindful. To stay in touch with being human. With [[nature]], [[love]], [[connection]]. Without completely dipping out of [[society]].
 
