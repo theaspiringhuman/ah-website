@@ -72,7 +72,7 @@ Sometimes I think, maybe I’ll just go off the grid. Live in a little hut. Get 
 
 We’re all going down with the ship. I don’t want a makeshift lifeboat while everyone else sinks. I want to contribute something meaningful—something that helps.
 
-So what is that? A vision? Am I an artist? Am I here to provide imagery for an alternative to the apocalypse? I don’t know.
+So what is that? A vision? I'm an artist... Am I here to provide imagery for an alternative to the apocalypse? I don’t know.
 
 When I talk myself out of the off-grid fantasy, I think maybe there’s a middle ground. Maybe I can harness technology in a productive, beneficial way without getting lost in it. That requires tremendous self-control—using technology as a tool rather than being used by it, rather than becoming a data mine.
 
