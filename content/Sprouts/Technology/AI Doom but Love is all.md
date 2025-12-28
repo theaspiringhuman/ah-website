@@ -1,7 +1,19 @@
 **Date:** 06-10-2025
 
 #audiothoughts 
-<video src="file:///F:/Personal/Video%20Journals/Audio%20Thoughts/2025/06-10-2025-AI-Doom-but-Love-is-all.wav" width="600" controls></video>
+
+<details class="audio-essay">
+  <summary>🎧 Listen here</summary>
+
+  <iframe
+    src="https://open.spotify.com/embed/episode/2Jgt8ISlhl3Uylfx6p6A8f?theme=0"
+    width="100%"
+    height="80"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+</details>
 
 ---
 Alright, so I’m just going to start recording audio. This is just some of my thoughts lately. I’ve been kind of—damn it, hold on. Alright. I have to listen to myself.
