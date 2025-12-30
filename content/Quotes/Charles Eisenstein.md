@@ -24,7 +24,8 @@
 “When we must pay the true price for the depletion of [[nature|nature’s]] gifts, materials will become more precious to us, and economic logic will reinforce, and not contradict, our heart’s desire to treat the world with reverence and, when we receive nature’s gifts, to use them well.” ― Charles Eisenstein, [Sacred Economics: Money, Gift, and Society in the Age of Transition](https://sacred-economics.com/wp-content/uploads/2012/01/sacred-economics-book-text.pdf)
 
 ---
-#### “How beautiful can life be? We hardly dare imagine it.” ― Charles Eisenstein, [The More Beautiful World Our Hearts Know Is Possible](https://www.crisrieder.org/thejourney/storage/2020/05/The-More-Beautiful-World-Our-Hearts-Know-I-Charles-Eisenstein.pdf)
+#### “How beautiful can life be? We hardly dare imagine it.”
+― Charles Eisenstein, [The More Beautiful World Our Hearts Know Is Possible](https://www.crisrieder.org/thejourney/storage/2020/05/The-More-Beautiful-World-Our-Hearts-Know-I-Charles-Eisenstein.pdf)
 
 ---
 
