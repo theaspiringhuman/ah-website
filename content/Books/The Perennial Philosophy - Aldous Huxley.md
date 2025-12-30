@@ -76,6 +76,4 @@ pg. ?
 
 ---
 
-"" - Aldous Huxley, *The Perennial Philosophy* ^quote11
-
-pg. ?
+"" 
