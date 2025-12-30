@@ -202,3 +202,7 @@ And now let me venture into speculative territory. Perhaps the great diseases of
 Now the question arises: Initiation into what? What is the specific nature and purpose of this initiation? The popular name for the pandemic offers a clue: coronavirus. A corona is a crown. “Novel coronavirus pandemic” means “a new coronation for all.”
 
 Already we can feel the power of who we might become. A true sovereign does not run in fear from life or from death. A true sovereign does not dominate and conquer (that is a shadow archetype, the Tyrant). The true sovereign serves the people, serves life, and respects the sovereignty of all people. The coronation marks the emergence of the unconscious into consciousness, the crystallization of chaos into order, the transcendence of compulsion into choice. We become the rulers of that which had ruled us. The New World Order that the conspiracy theorists fear is a shadow of the glorious possibility available to sovereign beings. No longer the vassals of fear, we can bring order to the kingdom and build an intentional society on the love already shining through the cracks of the world of separation.
+
+---
+
+<p style="font-size: 0.7em; color: var(--text-muted);">Reposted from Charles Eisenstein (licensed under CC BY 4.0): The Coronation, originally published at CharlesEisenstein.org</p>
