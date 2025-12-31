@@ -76,4 +76,18 @@ pg. ?
 
 ---
 
-"" 
+ "It is because we don't know Who we are, because we are unaware that the Kingdom of Heaven is within us, that we behave in the generally silly, the often insane, the sometimes criminal ways that are so characteristically human. We are saved, we are [[freedom|liberated]] and enlightened, by perceiving the hitherto unperceived good that is already within us, by returning to our eternal [[You|Ground]] and remaining where, without knowing it, we have always been." - Aldous Huxley, *The Perennial Philosophy* ^quote12
+
+pg. 14
+
+---
+
+ "Our perceptions and our understanding are directed, in large measure, by our will. We are aware of, and we think about, the things which, for one reason or another, we want to see and understand. Where there's a will there is always an intellectual way. The capacities of the human mind are almost indefinitely great. **Whatever we will to do, whether it be to come to the unitive knowledge of the Godhead, or to manufacture self-propelled flame-throwers--that we are able to do, *provided always that the [[desire|willing]] be sufficiently intense and sustained*.**" - Aldous Huxley, *The Perennial Philosophy* ^quote14
+
+pg. 17
+
+---
+
+ "...**Much of the world's most original and fruitful thinking is done by people of poor physique and of a thoroughly unpractical turn of mind**. Because this is so, and because the [[value]] of pure thought, whether analytical or integral, has everywhere been more or less clearly recognized, provision was and still is made by every civilized [[society]] for giving thinkers a measure of protection from the ordinary strains and stresses of social life. The hermitage, the monastery, the college, the academy and the research laboratory; the begging bowl, the endowment, patronage and the grant of taxpayer's money--such are the principal devices that have been used by actives to conserve that rare bird, the religious, philosophical, artistic or scientific contemplative. In many primitive societies conditions are hard, and there is no surplus wealth. The born contemplative has to face the struggle for existence and social predominance without protection. The result, in most cases, is either that he dies young, or is too desperately busy merely keeping alive to be able to devote his attention to anything else. **When this happens, the prevailing [[philosophy]] will be that of the hardy, extroverted man of action.**" - Aldous Huxley, *The Perennial Philosophy* ^quote15
+
+pg. 18
