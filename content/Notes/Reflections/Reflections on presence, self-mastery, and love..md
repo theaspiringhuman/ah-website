@@ -3,18 +3,8 @@
 #videojournal 
 
 <div class="yt-cover" data-video="FbrO6tqB70U">
-  <img
-    src="https://i.ytimg.com/vi/FbrO6tqB70U/maxresdefault.jpg"
-    alt="Video thumbnail"
-  />
-  <button class="yt-play">▶</button>
-</div>
-<div class="yt-vertical">
-  <iframe
-    src="https://www.youtube.com/embed/FbrO6tqB70U?rel=0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+  <img src="https://i.ytimg.com/vi/FbrO6tqB70U/maxresdefault.jpg" alt="Video thumbnail">
+  <button class="yt-play" type="button" aria-label="Play video">▶</button>
 </div>
 
 ---
