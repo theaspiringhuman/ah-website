@@ -35,6 +35,12 @@ Rather than striving for [[success]], you learn to live with a deep sense of [[m
 Though this winter season has been long & dark, & dry, & empty (at least in the outer world), I will hold to [[faith]] that Spring emerges. Always. & I'll trust that this new life that is forming in me will be so worth the wait. 
 #### “In the interval of poverty, the ego learns humility. It cannot create the new life. It can only wait, tend, and trust the process.” - [[Marion Woodman]]
 
+
+> [!quote]
+> ![[Women Who Run with the Wolves - Clarissa Pinkola Estes#^quote1]]
+
+
+
 ---
 
 #### Links to:
