@@ -1,4 +1,10 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FbrO6tqB70U?si=7vaSg7hYYBZTHy72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="yt-vertical">
+  <iframe
+    src="https://www.youtube.com/embed/FbrO6tqB70U?rel=0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

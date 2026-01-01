@@ -161,3 +161,23 @@
     padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
   }
 }
+/* Vertical YouTube embed that fills a 9:16 frame by cropping */
+.yt-vertical {
+  width: 100%;
+  max-width: 420px;
+  margin: 2.5rem auto;
+  aspect-ratio: 9 / 16;
+  overflow: hidden;
+  border-radius: 18px;
+  position: relative;
+}
+
+.yt-vertical iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 177.78%;   /* 16:9 -> fill a 9:16 mask */
+  height: 100%;
+  transform: translate(-50%, -50%);
+  border: 0;
+}
