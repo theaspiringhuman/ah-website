@@ -91,3 +91,11 @@ pg. 17
  "...**Much of the world's most original and fruitful thinking is done by people of poor physique and of a thoroughly unpractical turn of mind**. Because this is so, and because the [[value]] of pure thought, whether analytical or integral, has everywhere been more or less clearly recognized, provision was and still is made by every civilized [[society]] for giving thinkers a measure of protection from the ordinary strains and stresses of social life. The hermitage, the monastery, the college, the academy and the research laboratory; the begging bowl, the endowment, patronage and the grant of taxpayer's money--such are the principal devices that have been used by actives to conserve that rare bird, the religious, philosophical, artistic or scientific contemplative. In many primitive societies conditions are hard, and there is no surplus wealth. The born contemplative has to face the struggle for existence and social predominance without protection. The result, in most cases, is either that he dies young, or is too desperately busy merely keeping alive to be able to devote his attention to anything else. **When this happens, the prevailing [[philosophy]] will be that of the hardy, extroverted man of action.**" - Aldous Huxley, *The Perennial Philosophy* ^quote15
 
 pg. 18
+
+---
+
+ "The last end of man, the ultimate reason for human existence, is unitive knowledge of [[You|the divine Ground]]--the knowledge that can come only to those who are prepared to '[[ego-death|die to self]]' and so make room, as it were, for [[God]]." - Aldous Huxley, *The Perennial Philosophy* ^quote16
+
+pg. 21
+
+---
