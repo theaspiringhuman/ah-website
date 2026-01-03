@@ -2,7 +2,11 @@
 
 ---
 
+Date: 05-01-2023
+
 Tags: [[anxiety]] [[growth]]
+
+Source: #Journals [[Tree of Life]]
 
 ---
 #### Links to
