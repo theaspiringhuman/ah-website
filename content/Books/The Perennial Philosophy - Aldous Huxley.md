@@ -99,3 +99,28 @@ pg. 18
 pg. 21
 
 ---
+
+ "Things are a great deal better when the transcendent, omnipotent personal [[God]] is regarded as also a loving Father. The sincere worship of such a God changes character as well as conduct, and does something to modify consciousness. But the complete transformation of consciousness, which is 'enlightenment,' 'deliverance,' 'salvation,' comes only when [[God]] is thought of as the Perennial Philosophy affirms Him to be--immanent as well as transcendent, supra-personal as well as persona--and when religious practices are adapted to this conception." - Aldous Huxley, *The Perennial Philosophy* ^quote17
+
+pg. 23
+
+---
+
+ "We can understand something of what lies beyond our experience by considering analogous cases lying within our experience. Thus, the relations subsisting between the world and [[God]] and the Godhead seem to be analogous, in some measure at least, to those that hold between the body (with its environment) and the psyche, and between the psyche and the spirit." - Aldous Huxley, *The Perennial Philosophy* ^quote18
+
+pg. 24 
+
+*In other words: The world is to [[God]] what the body is to the psyche.*
+*God is to the Godhead what the psyche is to the spirit.*
+
+---
+
+ "The ground in which the multifarious and time-bound psyche is rooted is a simple, timeless awareness. By making ourselves pure in heart and poor in spirit we can discover and be identified with this awareness. In the spirit we not only have, but are, the unitive knowledge of the divine Ground." - Aldous Huxley, *The Perennial Philosophy* ^quote19
+
+pg. 29
+
+---
+
+ "For, as all exponents of the Perennial Philosophy have constantly insisted, man's obsessive consciousness of, and insistence on being a separate self is the final and most formidable obstacle to the unitive knowledge of [[God]]. To be a self is, for them, the original sin, and to [[ego-death|die to self]], in feeling, will and intellect, is the final and all-inclusive virtue." - Aldous Huxley, *The Perennial Philosophy* ^quote20
+
+pg. 36
