@@ -140,6 +140,18 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 
 ---
 
+"But the [[creativity|creative]] life dies because we are not tending to the health of the river... 
+
+How might a woman's creative life become polluted? This sludging of creative life invades all five phases of creation: inspiration, concentration, organization, implementation, and sustenance. Women who have lost one or more of these report that they 'can't think' of anything new, useful, or empathetic for themselves. They are easily 'distracted' by love affairs, too much [[work]], too much play, by tiredness, or by [[fear]] of [[failure]].
+
+Sometimes they cannot coalesce the mechanics of organization and their project lays scattered about in a hundred places and pieces. Sometimes problems issue from a woman's naïveté about her own extroversion: She thinks that by making a few motions in the outer world, she has really done something. This is like making the arms but not the legs or the head of a thing and calling it done. She feels necessarily incomplete.
+
+Sometimes a woman trips over her own introversion and wants to simply wish things into being; she may think that just thinking the idea is good enough, and there need be no outer manifestation. Except she feels bereft and unfinished anyway. These are all manifestations of pollution in the river. What is being manufactured is not life but something that inhibits life.
+
+Other times she is under attack by those around her, or by the voices yammering in her head: 'Your work is not right enough, not good enough, not this enough, not that enough. It is too grandiose, too infinitesimal, too insignificant, takes too long, is too easy, too hard.' This is pouring cadmium into the river." - pg. 331
+
+---
+
 "The challenge of loving unappealing aspects of ourselves is as much of an endeavor as any heroine has ever undertaken." - pg. 467
 
 ---
