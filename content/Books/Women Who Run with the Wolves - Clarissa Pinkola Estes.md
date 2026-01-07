@@ -152,6 +152,22 @@ Other times she is under attack by those around her, or by the voices yammering 
 
 ---
 
+"Negative psychological complexes rear up and question your [[value|worth]], your intention, your sincerity, and your talent. They also send exhortations that assert unequivocally that you must labor to 'earn a living' doing things that exhaust you, leave you no time to create, destroying your will to imagine...
+
+One of the greatest problems of the creative complex is the accusation that whatever you're doing won't work because you're not thinking logically, you're not being logical, what you have done so far isn't logical and is therefore doomed to [[failure]]. First of all, the primary stages of creating are not logical--nor should they be. If the complex succeeds in stopping you with this, it has you." - pg. 332-333
+
+---
+
+"A woman must be careful to not allow over-responsibility (or over-respectability) to steal her necessary [[creativity|creative]] rests, riffs, and raptures. She simply must put her foot down and say no to half of what she believes she 'should' be doing. [[Art]] is not meant to be created in stolen moments only.
+
+The scattering of plans and projects, as if by a wind, occurs when a woman attempts to organize a creative idea and it just somehow keeps being blown away, becoming more and more confused and distorted. She is not tracking it in any concrete way because, again, she doesn't have time to write it all down and organize it, or she is called by so many other things, that she loses her place and cannot pick it up again.
+
+It may also be that a woman's [[creativity|creative]] process is misunderstood or disrespected by those around her. It is up to her to inform them that when she has 'that look' in her eyes, it does not mean she is a vacant lot waiting to be filled. It means she is balancing a big cardhouse of ideas on a single fingertip, and she is carefully connecting all the cards using tiny crystalline bones and a little spit, and if she can just get it all to the table without it falling down or flying apart, she can bring an image from the unseen world into being. To speak to her in that moment is to create a Harpy wind that blows the entire structure to tatters. To speak to her in that moment is to break her heart.
+
+And yet, a woman may do this to herself by talking away her ideas until all the arousal is gone from them, or by not putting her foot down about people creeping off with her creative tools and materials, or by the simple oversight of not buying the right equipment to execute the creative work properly, or by stopping and starting so many times, by allowing everyone and their cat to interrupt her at will, that the project falls into a shambles." - pg. 333[^2]
+
+---
+
 "The challenge of loving unappealing aspects of ourselves is as much of an endeavor as any heroine has ever undertaken." - pg. 467
 
 ---
