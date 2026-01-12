@@ -5,11 +5,12 @@
 
 <div class="yt-square">
   <iframe
-    src="youtube.com/watch?v=wP8TidJg97I&feature=youtu.be"
+    src="https://www.youtube.com/embed/wP8TidJg97I?rel=0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
+
 
 ---
 
