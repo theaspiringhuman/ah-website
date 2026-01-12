@@ -174,8 +174,8 @@
 
 .yt-square iframe {
   position: absolute !important;
-  top: 0 !important;
-  left: 0 !important;
+  top: 50% !important;
+  left: 50% !important;
   width: 100% !important;
   height: 100% !important;
   transform: translate(-50%, -50%) scale(1.18); /* tweak 1.10–1.30 */
