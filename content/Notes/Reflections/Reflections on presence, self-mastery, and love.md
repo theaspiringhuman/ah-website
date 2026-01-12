@@ -2,15 +2,12 @@
 
 #videojournal 
 
-
-<div class="yt-square">
-  <iframe
-    src="https://www.youtube.com/embed/wP8TidJg97I?rel=0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+<div class="yt-cover-square" data-video="wP8TidJg97I">
+  <img src="https://i.ytimg.com/vi/wP8TidJg97I/maxresdefault.jpg" alt="Video thumbnail">
+  <button class="yt-play" type="button" aria-label="Play video">
+    ▶
+  </button>
 </div>
-
 
 ---
 
