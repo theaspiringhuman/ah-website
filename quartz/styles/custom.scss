@@ -161,23 +161,23 @@
     padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
   }
 }
-/* Vertical YouTube embed that fills a 9:16 frame by cropping */
-.yt-vertical {
+/* Square YouTube embed that fills a 16:16 frame by cropping */
+.yt-square {
+  position: relative;
   width: 100%;
-  max-width: 420px;
-  margin: 2.5rem auto;
-  aspect-ratio: 9 / 16;
+  max-width: 520px;   /* adjust to taste */
+  margin: 3rem auto;
+  aspect-ratio: 1 / 1;   /* 👈 square */
   overflow: hidden;
   border-radius: 18px;
-  position: relative;
+  background: black;
 }
 
-.yt-vertical iframe {
+.yt-square iframe {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 177.78%;   /* 16:9 -> fill a 9:16 mask */
+  inset: 0;
+  width: 100%;
   height: 100%;
-  transform: translate(-50%, -50%);
-  border: 0;
+  object-fit: cover;
 }
+

@@ -3,9 +3,9 @@
 #videojournal 
 
 
-<div class="yt-vertical">
+<div class="yt-square">
   <iframe
-    src="https://www.youtube.com/embed/FbrO6tqB70U?rel=0"
+    src="youtube.com/watch?v=wP8TidJg97I&feature=youtu.be"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
