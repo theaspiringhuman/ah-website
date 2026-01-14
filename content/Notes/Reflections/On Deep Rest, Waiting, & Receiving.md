@@ -11,9 +11,7 @@
   </iframe>
 </div>
 
-
 ---
-
 #### On Deep Rest, Dormancy, and the Birth of a New Self
 
 I haven’t done one of these in a long time. Mostly because I haven’t felt like it. I’ve been putting it off.
