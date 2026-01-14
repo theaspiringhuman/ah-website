@@ -36,15 +36,15 @@ And I keep asking myself: _Is this normal?_
 
 From what I understand, it is. Apparently, this kind of collapse of old desires is part of the process—something like a death that comes before new life. Old ambitions die before new ones can emerge. And so I find myself in a deep, still waiting place.
 
-This reminds me of a passage from _Women Who Run With the Wolves_, which I had already saved in my notes:
+This reminds me of a passage from [[Women Who Run with the Wolves - Clarissa Pinkola Estes|Women Who Run with the Wolves]], which I had already saved in my notes:
+#### A woman at this stage of the psychic process—waiting to birth something—may enter a psychic state in which all that was once held valuable is no longer so. The topside world and its ideals pale. For a time, she may feel restless and unsatisfied, because fulfillment is still being born in the inner reality.
 
-> A woman at this stage of the psychic process—waiting to birth something—may enter a psychic state in which all that was once held valuable is no longer so. The topside world and its ideals pale. For a time, she may feel restless and unsatisfied, because fulfillment is still being born in the inner reality.
+The passage goes on to describe how new cravings arise—often for odd or earthy things: 
+#### cooking, gardening, pulling things out of the ground or placing them into it. A new self is on the way. Our inner lives, as we’ve known them, are about to change.
 
-The passage goes on to describe how new cravings arise—often for odd or earthy things: cooking, gardening, pulling things out of the ground or placing them into it. A new self is on the way. Our inner lives, as we’ve known them, are about to change.
+#### This doesn’t mean throwing away what supports us. But it does mean that for a time, nothing external—a mate, a job, money—can satisfy what we hunger for. What we’re waiting on belongs to another world entirely.
 
-This doesn’t mean throwing away what supports us. But it does mean that for a time, nothing external—a mate, a job, money—can satisfy what we hunger for. What we’re waiting on belongs to another world entirely.
-
-And it can only be brought forth by waiting.
+#### And it can only be brought forth by waiting.
 
 ---
 
