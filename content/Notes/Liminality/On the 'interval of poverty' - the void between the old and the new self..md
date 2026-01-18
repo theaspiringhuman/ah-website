@@ -8,7 +8,7 @@ Source: #Journals [[Randolph Black]]
 
 I have felt for a long time that I'm in a season of incubation. Like something is wanting to be birthed through me, only I'm not entirely sure of what it's going to shape up to be. 
 
-It's been incredibly difficult to be poor. & on top of that, to have absolutely **NO** desire to re-enter the workforce. Each day I feel more & more estranged from [[society]], & on some days, I feel deeply worried that I may never return. That I'll just float away into my own little world & perhaps lose touch with [[reality]] altogether. 
+It's been incredibly difficult to be in this identity-less void of a place, & to have absolutely **NO** desire to re-enter the workforce. Each day I feel more & more estranged from [[society]], & on some days, I feel deeply worried that I may never return. That I'll just float away into my own little world & perhaps lose touch with [[reality]] altogether. 
 
 It's comforting to find evidence that others have experienced what I'm going through now. In fact, [[Marion Woodman]] wrote an entire book about this "incubation" phase of [[individuation]] called, *[The Pregnant Virgin](https://archive.org/details/pregnantvirginpr00wood)*. In it, she speaks directly to this "interval of poverty" as a time of gestation for the new Self. She says the poverty (whether literal or metaphorical or both) is like protection for the soul's growth. It's a time when the old [[identity]] & familiar structures (ambition, achievement, stability) have fallen away, but the new life has not yet materialized.
 
