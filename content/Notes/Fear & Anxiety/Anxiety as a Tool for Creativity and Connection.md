@@ -61,4 +61,4 @@ Pan’s association with both pleasure and [[fear]] gives us a more nuanced view
 ---
 #### Links to:
 
-[[Pan, God of The Wild - Panic, and The Indirect Consequences of Repressed Instinct]]
+[[Panic, and The Indirect Consequences of Repressed Instinct]]

@@ -168,6 +168,12 @@ And yet, a woman may do this to herself by talking away her ideas until all the 
 
 ---
 
+"Animus can be best understood as a force that assists women in acting on their own behalf in the outer world. Animus helps a woman put forth her specific and feminine inner thoughts and feelings in concrete ways--emotionally, [[sexuality|sexually]], financially, [[creativity|creatively]], and otherwise--rather than in a construct that patterns itself after a culturally imposed standard of masculine development in any given culture.
+The male figures in women's dreams seem to indicate that animus in not the soul of a woman, but 'of, from, and for' the soul of a woman. In its balanced and nonperverted form, animus is an essential 'bridging man'. This figure often has wondrous capabilities that cause him to rise to the work as bringer and bridger. He is like a merchant of the soul. He imports and exports knowledge and products. He chooses the best of what is offered, arranges the best prices, supervises the integrity of the exchanges, follows up, follows through.
+Another way to understand this is to think of Wild Woman, the soul-Self, as the artist and the animus as the arm of the artist. Wild Woman is the driver, the animus hustles up the vehicle. She makes the song, he scores it. She imagines, he offers advice. Without him the play is created in one's imagination, but never written down and never performed. Without him the stage may be filled to bursting, but the curtains never part and the marquee remains dark... Without the (animus), a woman's inner life cannot be manifested with intent into the outer world." - pg. 336-337
+
+---
+
 "The challenge of loving unappealing aspects of ourselves is as much of an endeavor as any heroine has ever undertaken." - pg. 467
 
 ---
@@ -175,3 +181,4 @@ And yet, a woman may do this to herself by talking away her ideas until all the 
 "A woman at this stage of the psychic process (waiting to birth something) may enter another *enantiodromia*, the psychic state in which all that was once held valuable is now not so valuable anymore, and further, may be replaced by new and extreme cravings for odd and unusual sights, experiences, endeavors...(A woman) may have to plant something, pull things out of the ground, or put them into the ground...A new self is on the way. Our inner lives, as we have known them, are about to [[change]]. While this does not mean we should throw away the decent and especially the supportive aspects of our lives in some kind of demented housecleaning, it does mean that in the descent the topside world and ideals pale, and for a time we shall be restless and unsatisfied, for the satisfaction, the fulfillment, is in the process of being born in the inner [[reality]]. What it is we are hungering for can never be fulfilled by a mate, a job, [[money]], a new this or that. What we hunger for is of the other world, the world that sustains our lives as women. **And this child-Self we are awaiting is brought forth by just this means--by [[patience|waiting]]**. As time passes in our lives and our work in the underworld, the child develops and will be born. In most cases, a woman's nightdreams will presage the birth; women literally [[Dream - The tiny baby with the crushed head|dream]] of a new baby, a new home, a new life." - pg. 467-468
 
 ---
+

@@ -3,7 +3,11 @@ Date: 12-08-2011
 Tags: [[presence]] [[wonder]] [[nature]]
 
 ---
-#### **Journal Entry**:
+
+![[all-okay.png|400]]
+
+---
+#### Journal Entry:
 
 I had a dream that I was in the backseat of a car in a country highway, looking out of the back window into the sky beyond and above me.
 
@@ -12,7 +16,7 @@ I saw a small flock of birds illuminated by the sunlight.
 All at once I knew that there was no reason ever to be frustrated or angry about anything because life is immeasurably beautiful and everything will always be okay.
 
 ---
-### **Quotes:  
+#### Quotes:  
   
 >[!quote]
 "The thing is to become a master and in your old age to acquire the courage to do what children did when they knew nothing." - Ernest Hemingway

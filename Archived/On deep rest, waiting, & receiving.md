@@ -78,7 +78,7 @@ And yes—part of me panics.
 
 _Are we becoming lazy? Are we giving up on life?_
 
-But paradoxically, it feels like I’m opening to life rather than forcing it. I’m allowing life to happen to me instead of trying to make it happen.
+But paradoxically, it feels like I’m opening to life rather than forcing it. [[I must listen to my life telling me who I am.|Like I'm allowing life rather than trying to go out and make life happen. ]]
 
 That’s terrifying for someone who used to be an overachiever. But it’s also strangely peaceful.
 

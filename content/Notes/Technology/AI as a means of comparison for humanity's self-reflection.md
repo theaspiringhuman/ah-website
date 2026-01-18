@@ -1,8 +1,14 @@
-
 Date: 11-23-2024 
 
 Source: [The Undiscovered Self](https://fleurmach.com/wp-content/uploads/2016/07/jung-the-undiscovered-self-1957.pdf) by [[Carl Jung]]
 
+---
+
+We've never been able to define [[consciousness]].
+Maybe it's not something that can be defined in rational terms or understood cognitively. 
+Maybe [[AI]] will give us a unique opportunity to understand consciousness by means of comparison to an intelligence which is superior to ours in every way and yet lacks consciousness. 
+I think of what [[Carl Jung]] said about how human beings have never properly understood themselves because they've never had an equal species with which to compare themselves. 
+Well, here we are. 
 
 ---
 
