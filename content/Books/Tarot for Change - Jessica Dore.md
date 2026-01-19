@@ -151,5 +151,5 @@ Having released the goal of avoiding discomfort as much as humanly possible and 
 
 ---
 
-"So if you're afraid about making some [[change]], maybe you've touched on something precious. Dennis Tirch, psychologist and a friend who specializes in compassion-focused approaches to [[healing]], once said that if you wait for every part of you to be on board with some big change, you'll be waiting a long time. Indeed, that temptation to wait for fear to subside is a trap. The fear is the cost of admission."
+"So if you're afraid about making some [[change]], maybe you've touched on something precious. Dennis Tirch, psychologist and a friend who specializes in [[compassion]]-focused approaches to [[healing]], once said that if you wait for every part of you to be on board with some big change, you'll be waiting a long time. Indeed, that temptation to wait for fear to subside is a trap. The fear is the cost of admission."
 - pg. 315

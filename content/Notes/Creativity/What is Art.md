@@ -17,9 +17,9 @@ For as long as I can remember, & especially since I began to notice the increasi
 
 Tolstoy says that art has the power to do this. When an artist can truly convey an emotion that she herself has lived through, in such a way that the person receiving the artwork is able to experience the emotion for themselves, this is when barriers are dissolved, & human beings are brought closer together. 
 
-To Tolstoy, the greatest art communicates feelings that unite people in [[love]], compassion, & the recognition of our common humanity. 
+To Tolstoy, the greatest art communicates feelings that unite people in [[love]], [[compassion]], & the recognition of our common humanity. 
 
-If I can accomplish this; if I can have any sort of impact that moves humanity in the direction of unity & compassion; if I can evoke in others feelings of love for their fellows, this will have been worth [[Nigredo - The Blackening|everything I've been going through]]. 
+If I can accomplish this; if I can have any sort of impact that moves humanity in the direction of unity & [[compassion]]; if I can evoke in others feelings of love for their fellows, this will have been worth [[Nigredo - The Blackening|everything I've been going through]]. 
 
 Tolstoy says that the role of the artist is not a luxury or an "extra," but something essential to the survival of humanity. He believed that in order for human beings to co-exist, we need an emotional understanding of one another. A "shared inner life." Art brings what's within out into the world to provide shared emotional experiences, & this is essential for empathy amongst human beings. Especially those from very different backgrounds. Without a constant exchange of feelings, Tolstoy believed that society would fragment.
 

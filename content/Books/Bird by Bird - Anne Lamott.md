@@ -92,7 +92,7 @@
 
 ---
 
->"The writer is a person who is standing apart, like the cheese in 'The Farmer in the Dell' standing there alone but deciding to take a few notes. You're outside, but you can see things up close through your binoculars. Your job is to present clearly your viewpoint, your line of vision. Your job is to see people as they really are, and to do this, you have to know who you are in the most compassionate possible sense. Then you can recognize others." - Anne Lamott ^quote16
+>"The writer is a person who is standing apart, like the cheese in 'The Farmer in the Dell' standing there alone but deciding to take a few notes. You're outside, but you can see things up close through your binoculars. Your job is to present clearly your viewpoint, your line of vision. Your job is to see people as they really are, and to do this, you have to know who you are in the most [[compassion|compassionate]] possible sense. Then you can recognize others." - Anne Lamott ^quote16
 
 **page 97-98**
 
