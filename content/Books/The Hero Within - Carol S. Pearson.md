@@ -15,7 +15,7 @@
 
 ---
 
-"Although (heroes) may feel very [[loneliness|alone]] during the quest, at its end their reward is a sense of community: with themselves, with other people, and with the earth. Every time we confront [[death]]-in-life, we confront a dragon. Every time we choose life over nonlife and move deeper into the ongoing discovery of who we are, we bring new life to ourselves and to our culture."
+"Although (heroes) may feel very [[loneliness|alone]] during the quest, at its end their reward is a sense of [[community]]: with themselves, with other people, and with the earth. Every time we confront [[death]]-in-life, we confront a dragon. Every time we choose life over nonlife and move deeper into the ongoing discovery of who we are, we bring new life to ourselves and to our culture."
 
 - pg 3
 
@@ -27,7 +27,7 @@
 
 ---
 
-"Systems theory tells us that when any element of a system changes, the whole system has to reconfigure. Therefore, simply by experiencing your own metamorphosis, you can contribute to the transformations of all the social systems of which you are a part: family, school, workplace, community, and society as a whole."
+"Systems theory tells us that when any element of a system changes, the whole system has to reconfigure. Therefore, simply by experiencing your own metamorphosis, you can contribute to the transformations of all the social systems of which you are a part: family, school, workplace, [[community]], and society as a whole."
 
 - pg 5
 

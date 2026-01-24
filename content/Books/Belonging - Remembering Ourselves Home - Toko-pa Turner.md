@@ -78,7 +78,7 @@
 
 ---
 
-> "Often when your pole star begins to rise, people in your family or community will dismiss, underestimate, even criticize you at that pivotal juncture. One of the great silent contracts of false belonging is that you remain a follower. As soon as you try to step into a leadership role, you meet with resistance. The group feels threatened by the emerging sexuality, the charisma, intelligence, or creativity that shakes up the order of things. On some level your rising star may be interpreted as another's demotion of loss of relevance."  
+> "Often when your pole star begins to rise, people in your family or [[community]] will dismiss, underestimate, even criticize you at that pivotal juncture. One of the great silent contracts of false belonging is that you remain a follower. As soon as you try to step into a leadership role, you meet with resistance. The group feels threatened by the emerging sexuality, the charisma, intelligence, or creativity that shakes up the order of things. On some level your rising star may be interpreted as another's demotion of loss of relevance."  
 > **pg 47**
 
 ---
@@ -131,7 +131,7 @@
 
 ---
 
-> "...there is an important story needing to come through each of us. We are longing to be seen, to be necessary, to belong to our community. But the only way a community can heal itself is to draw out the story coming through every individual. Only when we recognize the events of our lives, and of those who went before us, as leading us in a meaningful direction can we pick up the threads of our story in present time and weave it forward with common purpose."
+> "...there is an important story needing to come through each of us. We are longing to be seen, to be necessary, to belong to our [[community]]. But the only way a community can heal itself is to draw out the story coming through every individual. Only when we recognize the events of our lives, and of those who went before us, as leading us in a meaningful direction can we pick up the threads of our story in present time and weave it forward with common purpose."
 
 **pg 64**
 
