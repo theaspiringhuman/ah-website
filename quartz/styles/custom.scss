@@ -161,6 +161,16 @@
     padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
   }
 }
+/* Ensure the page can scroll on mobile */
+html, body {
+  height: auto;
+  overflow: auto;
+}
+
+/* Quartz content wrappers sometimes become scroll containers; keep them scrollable */
+.page, .content, main {
+  overflow: visible;
+}
 /* Square YouTube embed that fills a 16:16 frame by cropping */
 .yt-square {
   position: relative;
