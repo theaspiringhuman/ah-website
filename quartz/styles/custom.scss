@@ -171,6 +171,11 @@ html, body {
 .page, .content, main {
   overflow: visible;
 }
+/* Backlinks should not trap scroll on mobile */
+.backlinks, .backlink, .backlinks-container {
+  overflow: visible;
+  max-height: none;
+}
 /* Square YouTube embed that fills a 16:16 frame by cropping */
 .yt-square {
   position: relative;
