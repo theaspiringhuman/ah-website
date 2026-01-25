@@ -84,11 +84,11 @@ That’s terrifying for someone who used to be an overachiever. But it’s also 
 
 ---
 
-#### Receiving Help and Rewriting the Story of [[boundaries]]
+#### [[receiving]] Help and Rewriting the Story of [[boundaries]]
 
 Another huge shift has been learning to receive.
 
-My [[Mom]]—and my family in general—have been extraordinarily generous. Because my car was in the shop and I couldn’t work for a couple of weeks, she’s helped however she can: groceries, gas money, offering to pay for our trip to [[California]], even offering to compensate me for time I’d lose working.
+My Mom—and my family in general—have been extraordinarily generous. Because my car was in the shop and I couldn’t work for a couple of weeks, she’s helped however she can: groceries, gas money, offering to pay for our trip to [[California]], even offering to compensate me for time I’d lose working.
 
 This is a real sacrifice for her. She doesn’t have much. And it’s been humbling beyond words.
 
@@ -98,7 +98,7 @@ It was my family. Unquestionably.
 
 Every time I visit, they send me home with bags of essentials—food, paper towels, sponges. Small things, offered with so much care. It makes me grieve the years I spent distancing myself from them in the name of healing.
 
-Learning to receive has unlocked something in me. Receiving is not weakness—it’s a gift to the giver, too. My mom _wants_ to help. It empowers her. And I don’t want to rob her of that by refusing.
+Learning to receive has unlocked something in me. [[receiving]] is not weakness—it’s a gift to the giver, too. My mom _wants_ to help. It empowers her. And I don’t want to rob her of that by refusing.
 
 And the truth is: I actually need the help.
 

@@ -1,4 +1,4 @@
-**Date:** 03-12-2024
+**Date:** 03-12-2025
 
 #videojournal 
 
@@ -11,6 +11,7 @@
   </iframe>
 </div>
 
+*This was me rambling on in March of 2025 about how I have so few in my life with whom I can share my inner world and feel truly seen. For the past few years I've been undergoing a radical inner [[transformation]] and it's been frustrating not to be able to share that with anyone in my life. This website is an attempt to broadcast my little signal out into the world and hopefully find others who can relate to some of what I've experienced. It would still be many months after this recording that I would finally take action on this here digital garden. Such is my apprehension when it comes to sharing and being seen.* 
 
 ---
 
@@ -104,7 +105,7 @@ Because… so what if I am?
 
 I think it’s healthy to be seen.
 
-I think I wish that I existed in a [[community]] of people that could see me and come along for the journey of my transformation.
+I think I wish that I existed in a [[community]] of people that could see me and come along for the journey of my [[transformation]].
 
 But I don’t. And that’s just not the case.
 
@@ -120,7 +121,7 @@ I think it’s very rare to have a [[community]] that’s willing to really evol
 
 I wish I had that. But I don’t.
 
-So I think the next best thing—the real advantage of living in this time—is that the internet provides a means of connecting with people who resonate with you where you’re at.
+So I think the next best thing—the real advantage of living in this time—is that the internet provides a means of [[connection|connecting]] with people who resonate with you where you’re at.
 
 They can be a million miles away, and you can still connect.
 
@@ -130,7 +131,7 @@ I think that’s truly amazing.
 
 ## Evolution in a Networked World
 
-If you think about history, how many people were just stuck in their communities. If they wanted to evolve, well, good luck trying to evolve on your own, away from safety and connection.
+If you think about history, how many people were just stuck in their communities. If they wanted to evolve, well, good luck trying to evolve on your own, away from safety and [[connection]].
 
 People probably didn’t do it. Rarely, I’m sure.
 
@@ -176,7 +177,7 @@ So that’s what I plan to do.
 
 ## The Void and the Haven
 
-I think my biggest obstacle is my own self-doubt. But I’m really growing in that way.
+I think my biggest obstacle is my own [[self-doubt]]. But I’m really growing in that way.
 
 And there’s no pressure.
 
@@ -203,12 +204,12 @@ I don’t know why that makes me emotional.
 
 ## Why This Exists
 
-So building a website just for me, with my writings and art and possibly little videos, is a way to witness myself. To see myself.
+So building a website just for me, with my writings and [[art]] and possibly little videos, is a way to witness myself. To see myself.
 
 To empower myself by sharing my voice, even if it’s just to the void for a while. Or forever.
 
 Who knows?
 
-I think it’s going to be a real growing experience, regardless of the outcome.
+I think it’s going to be a real [[growth|growing]] experience, regardless of the outcome.
 
 I think the process is going to be fun.

@@ -266,3 +266,25 @@
 - pg 130
 
 ---
+
+"Commitment to living this life means giving up rigid ideas about what the world should be and loving what it is."
+
+- pg 138
+
+---
+
+"Our capacity to give away speaks to the universe of our willingness to [[receiving|receive]]."
+
+- pg 145
+
+---
+
+"Tithing works because it triggers the sense of prosperity. If I have enough to give away a percentage of my income, I feel psychologically abundant and hence become open to [[receiving]] the [[abundance]] of the universe."
+
+- pg 146
+
+---
+
+"You can have the [[happiness]] you've always wanted--that is, if you allow yourself to be [[transformation|transformed]] in the process."
+
+- pg 151

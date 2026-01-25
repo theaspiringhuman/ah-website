@@ -15,7 +15,7 @@ I have known that the ultimate goal of my efforts & sacrifices has been to find 
 
 For as long as I can remember, & especially since I began to notice the increasing bitter division between human beings, I have desired unity & understanding. I have longed to transcend the arbitrary barriers that separate us from one another, & to somehow create a bridge between us. This hasn't been some sort of Pollyanna, do-gooder agenda, or even an aspiration arisen from my ego, but rather a deep & even painful longing of my soul. 
 
-Tolstoy says that art has the power to do this. When an artist can truly convey an emotion that she herself has lived through, in such a way that the person receiving the artwork is able to experience the emotion for themselves, this is when barriers are dissolved, & human beings are brought closer together. 
+Tolstoy says that art has the power to do this. When an artist can truly convey an emotion that she herself has lived through, in such a way that the person [[receiving]] the artwork is able to experience the emotion for themselves, this is when barriers are dissolved, & human beings are brought closer together. 
 
 To Tolstoy, the greatest art communicates feelings that unite people in [[love]], [[compassion]], & the recognition of our common humanity. 
 
