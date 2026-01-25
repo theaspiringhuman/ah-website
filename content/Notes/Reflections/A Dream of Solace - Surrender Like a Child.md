@@ -16,11 +16,6 @@ I saw a small flock of birds illuminated by the sunlight.
 All at once I knew that there was no reason ever to be frustrated or angry about anything because life is immeasurably beautiful and everything will always be okay.
 
 ---
-#### Quotes:  
-  
-![[The Perennial Philosophy - Aldous Huxley#^quote3]]
-
----
 
 >[!quote]
 >"When you realize how perfect everything is, you will tilt your head back and laugh at the sky." - Buddha
