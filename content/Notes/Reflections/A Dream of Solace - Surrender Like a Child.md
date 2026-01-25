@@ -4,7 +4,7 @@ Tags: [[presence]] [[wonder]] [[nature]]
 
 ---
 
-![[content/_hidden/site images/misc images/all-okay.png]]
+![[all-okay.png]]
 
 ---
 #### Journal Entry:
