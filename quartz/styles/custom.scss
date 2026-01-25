@@ -164,14 +164,13 @@
 /* Square YouTube embed that fills a 16:16 frame by cropping */
 .yt-square {
   position: relative;
-  width: min(90vw, 360px);
+  width: min(90vw, 520px);
   margin: 3rem auto;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 3 / 2;
   overflow: hidden;
   border-radius: 18px;
   background: #000;
 }
-
 .yt-square iframe {
   position: absolute;
   inset: 0;
