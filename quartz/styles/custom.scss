@@ -38,6 +38,7 @@
 /* ---------------------------------------------
    Sidebar spacing improvements
 ---------------------------------------------- */
+
 .explorer .explorer-ul li {
   margin-bottom: 0.4rem;
 }
@@ -69,35 +70,49 @@
 }
 
 /* ---------------------------------------------------
-   Mobile: fix sidebar text clipping safely
-   (DO NOT override .left.sidebar width/overflow on mobile
-   because Quartz uses an off-canvas sidebar overlay)
+   Fix sidebar text clipping on mobile
 ---------------------------------------------------- */
 @media (max-width: 800px) {
-  /* Let Quartz manage sidebar overlay behavior */
+
   .left.sidebar {
-    width: auto !important;
+    width: 100% !important;
     padding-left: 1rem;
     padding-right: 1rem;
     box-sizing: border-box;
-    overflow: auto !important;
+    overflow: visible !important;
   }
 
-  /* Wrap long explorer link text without changing layout behavior */
-  .explorer .explorer-ul,
+  .explorer {
+    width: 100% !important;
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+    overflow: visible !important;
+  }
+
+  .explorer-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: visible !important;
+    box-sizing: border-box;
+  }
+
+  .explorer .explorer-ul {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-right: 0;
+    margin-right: 0;
+    box-sizing: border-box;
+  }
+
   .explorer .explorer-ul li,
   .explorer .explorer-ul a {
-    max-width: 100% !important;
-  }
-
-  .explorer .explorer-ul a {
     display: block;
+    max-width: 100% !important;
     white-space: normal !important;
-    overflow-wrap: anywhere !important;
-    word-break: break-word !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
   }
 }
-
 /* ---------------------------------------------
    Backlinks readability (desktop + mobile)
 ---------------------------------------------- */
@@ -111,7 +126,7 @@
 /* Space + dividers between each backlink item */
 .backlinks ul {
   margin-top: 0.75rem !important;
-  padding-left: 0 !important;
+  padding-left: 0 !important;   /* remove default ul indent */
   list-style: none !important;
 }
 
@@ -133,41 +148,27 @@
   padding-right: 0.25rem;
 }
 
-/* Mobile: bigger tap-friendly spacing */
+/* ---------------------------------------------
+   Mobile: ensure nothing collapses/tightens
+---------------------------------------------- */
 @media (max-width: 800px) {
   .backlinks {
-    margin-top: 2.25rem !important;
+    margin-top: 2.25rem !important; /* push it farther below the note */
     padding-top: 1rem !important;
   }
 
   .backlinks li {
-    padding: 0.85rem 0 !important;
+    padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
   }
 }
-
-/* ---------------------------------------------
-   Mobile scroll reliability helpers
----------------------------------------------- */
-
-/* Ensure vertical scrolling is allowed everywhere */
-html, body, main, .page, .content {
-  touch-action: pan-y;
-}
-
-/* If some invisible overlay/backdrop exists, don't let it steal touches.
-   (These classnames may or may not match Quartz, but they are harmless if absent.) */
+/* If an overlay/backdrop exists, it may be transparent but still captures touches */
 .backdrop,
 .overlay,
 .modal-backdrop,
 .drawer-backdrop {
-  pointer-events: none;
+  pointer-events: none !important;
 }
-
-/* ---------------------------------------------
-   YouTube embed
----------------------------------------------- */
-
-/* NOTE: This is currently 3:2 (not square). If you truly want square, use 1 / 1. */
+/* Square YouTube embed that fills a 16:16 frame by cropping */
 .yt-square {
   position: relative;
   width: min(90vw, 520px);
@@ -178,7 +179,6 @@ html, body, main, .page, .content {
   background: #000;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
-
 .yt-square iframe {
   position: absolute;
   inset: 0;
@@ -186,3 +186,5 @@ html, body, main, .page, .content {
   height: 100%;
   border: 0;
 }
+
+
