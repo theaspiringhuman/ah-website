@@ -38,7 +38,6 @@
 /* ---------------------------------------------
    Sidebar spacing improvements
 ---------------------------------------------- */
-
 .explorer .explorer-ul li {
   margin-bottom: 0.4rem;
 }
@@ -70,49 +69,35 @@
 }
 
 /* ---------------------------------------------------
-   Fix sidebar text clipping on mobile
+   Mobile: fix sidebar text clipping safely
+   (DO NOT override .left.sidebar width/overflow on mobile
+   because Quartz uses an off-canvas sidebar overlay)
 ---------------------------------------------------- */
 @media (max-width: 800px) {
-
+  /* Let Quartz manage sidebar overlay behavior */
   .left.sidebar {
-    width: 100% !important;
+    width: auto !important;
     padding-left: 1rem;
     padding-right: 1rem;
     box-sizing: border-box;
-    overflow: visible !important;
+    overflow: auto !important;
   }
 
-  .explorer {
-    width: 100% !important;
-    flex: 1 1 auto !important;
-    min-width: 0 !important;
-    overflow: visible !important;
-  }
-
-  .explorer-content {
-    width: 100% !important;
-    max-width: 100% !important;
-    overflow-x: visible !important;
-    box-sizing: border-box;
-  }
-
-  .explorer .explorer-ul {
-    width: 100% !important;
-    max-width: 100% !important;
-    padding-right: 0;
-    margin-right: 0;
-    box-sizing: border-box;
-  }
-
+  /* Wrap long explorer link text without changing layout behavior */
+  .explorer .explorer-ul,
   .explorer .explorer-ul li,
   .explorer .explorer-ul a {
-    display: block;
     max-width: 100% !important;
+  }
+
+  .explorer .explorer-ul a {
+    display: block;
     white-space: normal !important;
-    overflow: visible !important;
-    text-overflow: clip !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
   }
 }
+
 /* ---------------------------------------------
    Backlinks readability (desktop + mobile)
 ---------------------------------------------- */
@@ -126,7 +111,7 @@
 /* Space + dividers between each backlink item */
 .backlinks ul {
   margin-top: 0.75rem !important;
-  padding-left: 0 !important;   /* remove default ul indent */
+  padding-left: 0 !important;
   list-style: none !important;
 }
 
@@ -148,31 +133,41 @@
   padding-right: 0.25rem;
 }
 
-/* ---------------------------------------------
-   Mobile: ensure nothing collapses/tightens
----------------------------------------------- */
+/* Mobile: bigger tap-friendly spacing */
 @media (max-width: 800px) {
   .backlinks {
-    margin-top: 2.25rem !important; /* push it farther below the note */
+    margin-top: 2.25rem !important;
     padding-top: 1rem !important;
   }
 
   .backlinks li {
-    padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
+    padding: 0.85rem 0 !important;
   }
 }
-/* If an overlay/backdrop exists, it may be transparent but still captures touches */
+
+/* ---------------------------------------------
+   Mobile scroll reliability helpers
+---------------------------------------------- */
+
+/* Ensure vertical scrolling is allowed everywhere */
+html, body, main, .page, .content {
+  touch-action: pan-y;
+}
+
+/* If some invisible overlay/backdrop exists, don't let it steal touches.
+   (These classnames may or may not match Quartz, but they are harmless if absent.) */
 .backdrop,
 .overlay,
 .modal-backdrop,
 .drawer-backdrop {
-  pointer-events: none !important;
+  pointer-events: none;
 }
-/* Ensure vertical scrolling is allowed on the main page */
-html, body, main, .page, .content {
-  touch-action: pan-y !important;
-}
-/* Square YouTube embed that fills a 16:16 frame by cropping */
+
+/* ---------------------------------------------
+   YouTube embed
+---------------------------------------------- */
+
+/* NOTE: This is currently 3:2 (not square). If you truly want square, use 1 / 1. */
 .yt-square {
   position: relative;
   width: min(90vw, 520px);
@@ -183,6 +178,7 @@ html, body, main, .page, .content {
   background: #000;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
+
 .yt-square iframe {
   position: absolute;
   inset: 0;
@@ -190,5 +186,3 @@ html, body, main, .page, .content {
   height: 100%;
   border: 0;
 }
-
-
