@@ -161,20 +161,16 @@
     padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
   }
 }
-/* Ensure the page can scroll on mobile */
-html, body {
-  height: auto;
-  overflow: auto;
+/* If an overlay/backdrop exists, it may be transparent but still captures touches */
+.backdrop,
+.overlay,
+.modal-backdrop,
+.drawer-backdrop {
+  pointer-events: none !important;
 }
-
-/* Quartz content wrappers sometimes become scroll containers; keep them scrollable */
-.page, .content, main {
-  overflow: visible;
-}
-/* Backlinks should not trap scroll on mobile */
-.backlinks, .backlink, .backlinks-container {
-  overflow: visible;
-  max-height: none;
+/* Ensure vertical scrolling is allowed on the main page */
+html, body, main, .page, .content {
+  touch-action: pan-y !important;
 }
 /* Square YouTube embed that fills a 16:16 frame by cropping */
 .yt-square {
