@@ -20,9 +20,10 @@ All at once I knew that there was no reason ever to be frustrated or angry about
   
 ![[The Perennial Philosophy - Aldous Huxley#^quote3]]
 
+---
 
 >[!quote]
-"When you realize how perfect everything is, you will tilt your head back and laugh at the sky." - Buddha
+>"When you realize how perfect everything is, you will tilt your head back and laugh at the sky." - Buddha
 
 
 --- 
