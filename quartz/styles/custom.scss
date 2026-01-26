@@ -186,5 +186,23 @@
   height: 100%;
   border: 0;
 }
+/* Restore normal scrolling behavior */
+html, body {
+  height: auto !important;
+  overflow-y: auto !important;
+}
+
+/* Make sure the main content region accepts scroll gestures */
+#quartz-body,
+.center {
+  overflow: visible !important;
+  touch-action: auto !important;
+}
+
+/* If Quartz is using the center column as the scroll container */
+.center {
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch;
+}
 
 
