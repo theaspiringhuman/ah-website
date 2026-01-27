@@ -68,49 +68,16 @@
 .explorer .title-button h2 {
   margin-bottom: 0.8rem;
 }
-
-/* ---------------------------------------------------
-   Fix sidebar text clipping on mobile
----------------------------------------------------- */
+/* Mobile: wrap long sidebar item text WITHOUT changing drawer layout */
 @media (max-width: 800px) {
-
-  .left.sidebar {
-    width: 100% !important;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    box-sizing: border-box;
-    overflow: visible !important;
-  }
-
-  .explorer {
-    width: 100% !important;
-    flex: 1 1 auto !important;
-    min-width: 0 !important;
-    overflow: visible !important;
-  }
-
-  .explorer-content {
-    width: 100% !important;
-    max-width: 100% !important;
-    overflow-x: visible !important;
-    box-sizing: border-box;
-  }
-
-  .explorer .explorer-ul {
-    width: 100% !important;
-    max-width: 100% !important;
-    padding-right: 0;
-    margin-right: 0;
-    box-sizing: border-box;
-  }
-
-  .explorer .explorer-ul li,
   .explorer .explorer-ul a {
-    display: block;
-    max-width: 100% !important;
     white-space: normal !important;
-    overflow: visible !important;
-    text-overflow: clip !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+  }
+
+  .explorer .explorer-ul li {
+    max-width: 100% !important;
   }
 }
 /* ---------------------------------------------
