@@ -20,41 +20,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    // Component.TagList(), // removed to hide tags
   ],
-
-  // ✅ Backlinks AFTER the note body (center column)
   afterBody: [Component.Backlinks()],
-
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    // Custom Explorer with hidden-folder filtering
-    (() => {
-      const filterFn = function hideHidden(node: any) {
-        const omit = new Set(["_hidden"])
-        if (omit.has(node.displayName.toLowerCase())) return false
-        if (node.children) {
-          node.children = node.children.filter(hideHidden)
-        }
-        return true
-      }
-
-      // Pass props in a way that TypeScript accepts
-      return Component.Explorer({ filterFn })
-    })(),
-  ],
-  right: [Component.Graph(), Component.DesktopOnly(Component.TableOfContents())],
+  left: [Component.PageTitle()],
+  right: [],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
