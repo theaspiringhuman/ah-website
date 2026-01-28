@@ -631,14 +631,4 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
-/* DEBUG: force browser-native scrolling */
-html, body {
-  overflow: auto !important;
-  height: auto !important;
-}
-
-.center, main, #quartz-body {
-  overflow: visible !important;
-  height: auto !important;
-}
 

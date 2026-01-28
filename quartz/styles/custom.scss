@@ -160,5 +160,32 @@
 .explorer-content {
   overscroll-behavior: auto !important;
 }
+/* -----------------------------
+   FIX: restore normal scrolling for sidebar + backlinks/list pages
+   Base CSS sets overflow-y:hidden on div:has(> .overflow),
+   which blocks wheel/touch scrolling unless you grab the scrollbar.
+------------------------------ */
+
+/* Allow the explorer wrapper to receive wheel/touch scroll */
+.left.sidebar .explorer-content {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+}
+
+/* Undo the base rule that hides vertical overflow on the wrapper div */
+.left.sidebar .explorer-content:has(> .overflow) {
+  overflow-y: auto !important;
+}
+
+/* Make sure flex layouts don't prevent scrolling */
+#quartz-body .sidebar {
+  min-height: 0;
+}
+#quartz-body .sidebar.left {
+  min-height: 0;
+}
+
 
 
