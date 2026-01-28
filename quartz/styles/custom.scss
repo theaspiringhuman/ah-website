@@ -160,32 +160,60 @@
 .explorer-content {
   overscroll-behavior: auto !important;
 }
-/* -----------------------------
-   FIX: restore normal scrolling for sidebar + backlinks/list pages
-   Base CSS sets overflow-y:hidden on div:has(> .overflow),
-   which blocks wheel/touch scrolling unless you grab the scrollbar.
------------------------------- */
+/* =========================================================
+   FIX: sidebar + backlinks lists should scroll by dragging/wheel
+   (not only when grabbing the scrollbar)
+   ========================================================= */
 
-/* Allow the explorer wrapper to receive wheel/touch scroll */
-.left.sidebar .explorer-content {
+/* --- 1) Make the LEFT SIDEBAR itself a real scroll surface --- */
+.left.sidebar {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  -webkit-overflow-scrolling: touch; /* iOS momentum */
+  touch-action: pan-y;
+}
+
+/* Quartz wraps scrollable lists in a div that matches :has(> .overflow)
+   Base.scss sets overflow-y:hidden there, which breaks wheel/touch in practice. */
+.left.sidebar div:has(> .overflow) {
   overflow-y: auto !important;
   overflow-x: hidden !important;
   -webkit-overflow-scrolling: touch;
   touch-action: pan-y;
 }
 
-/* Undo the base rule that hides vertical overflow on the wrapper div */
-.left.sidebar .explorer-content:has(> .overflow) {
-  overflow-y: auto !important;
+/* Ensure the actual list doesn't “fight” the wrapper */
+.left.sidebar ul.overflow {
+  overflow: visible !important;
+  max-height: none !important;
 }
 
-/* Make sure flex layouts don't prevent scrolling */
-#quartz-body .sidebar {
-  min-height: 0;
-}
+/* Flex/grid gotcha: allow children to shrink so overflow can work */
+#quartz-body .sidebar,
 #quartz-body .sidebar.left {
   min-height: 0;
 }
+
+/* --- 2) Topic pages: make BACKLINKS block scroll/touch normally --- */
+/* If the backlinks list is long, you should be able to wheel/drag anywhere on it */
+.center .backlinks {
+  overflow: visible !important;
+  touch-action: pan-y;
+}
+
+/* If Quartz uses an overflow wrapper anywhere in center on these pages, un-break it too */
+.center div:has(> .overflow) {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+}
+
+.center ul.overflow {
+  overflow: visible !important;
+  max-height: none !important;
+}
+
 
 
 
