@@ -153,14 +153,6 @@
   height: 100%;
   border: 0;
 }
-/* Allow scroll to pass through when sidebar can't scroll further */
-.left.sidebar,
-.right.sidebar,
-.explorer,
-.explorer-content {
-  overscroll-behavior: auto !important;
-}
-/* -----------------------------
 
 
 
