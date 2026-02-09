@@ -19,22 +19,30 @@ type FolderState = {
   collapsed: boolean
 }
 
-let currentExplorerState: Array<FolderState>
-function toggleExplorer(this: HTMLElement) {
-  const nearestExplorer = this.closest(".explorer") as HTMLElement
-  if (!nearestExplorer) return
-  const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
+let currentExplorerState: Array<FolderState> = []
 
-  if (!explorerCollapsed) {
-    // Stop <html> from being scrollable when mobile explorer is open
-    document.documentElement.classList.add("mobile-no-scroll")
-  } else {
-    document.documentElement.classList.remove("mobile-no-scroll")
-  }
+// --- helpers ---
+function isMobileExplorerVisible(explorer: HTMLElement): boolean {
+  const mobileToggle = explorer.querySelector(".mobile-explorer") as HTMLElement | null
+  return !!mobileToggle && mobileToggle.checkVisibility()
+}
+
+function setHtmlScrollLock(locked: boolean) {
+  document.documentElement.classList.toggle("mobile-no-scroll", locked)
+}
+
+function toggleExplorer(this: HTMLElement) {
+  const nearestExplorer = this.closest(".explorer") as HTMLElement | null
+  if (!nearestExplorer) return
+
+  // toggles collapsed class; returns true if class is now present
+  const isCollapsed = nearestExplorer.classList.toggle("collapsed")
+
+  nearestExplorer.setAttribute("aria-expanded", isCollapsed ? "false" : "true")
+
+  // Only lock scrolling on mobile when explorer is open
+  const shouldLock = !isCollapsed && isMobileExplorerVisible(nearestExplorer)
+  setHtmlScrollLock(shouldLock)
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -54,6 +62,7 @@ function toggleFolder(evt: MouseEvent) {
         target.parentElement?.parentElement
   ) as MaybeHTMLElement
   if (!folderContainer) return
+
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
   if (!childFolderContainer) return
 
@@ -172,6 +181,7 @@ async function setupExplorer(currentSlug: FullSlug) {
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
 
+    // @ts-ignore - fetchData is provided globally by Quartz runtime
     const data = await fetchData
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
     const trie = FileTrieNode.fromEntries(entries)
@@ -202,7 +212,7 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     })
 
-    const explorerUl = explorer.querySelector(".explorer-ul")
+    const explorerUl = explorer.querySelector(".explorer-ul") as HTMLElement | null
     if (!explorerUl) continue
 
     // Create and insert new content
@@ -260,7 +270,7 @@ async function setupExplorer(currentSlug: FullSlug) {
 
 document.addEventListener("prenav", async () => {
   // save explorer scrollTop position
-  const explorer = document.querySelector(".explorer-ul")
+  const explorer = document.querySelector(".explorer-ul") as HTMLElement | null
   if (!explorer) return
   sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString())
 })
@@ -271,29 +281,30 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {
-    const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (!mobileExplorer) return
+    const mobileExplorer = explorer.querySelector(".mobile-explorer") as HTMLElement | null
+    if (!mobileExplorer) continue
 
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
 
       // Allow <html> to be scrollable when mobile explorer is collapsed
-      document.documentElement.classList.remove("mobile-no-scroll")
+      setHtmlScrollLock(false)
     }
 
     mobileExplorer.classList.remove("hide-until-loaded")
   }
 })
 
-window.addEventListener("resize", function () {
-  // Desktop explorer opens by default, and it stays open when the window is resized
-  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
-  const explorer = document.querySelector(".explorer")
-  if (explorer && !explorer.classList.contains("collapsed")) {
-    document.documentElement.classList.add("mobile-no-scroll")
-    return
-  }
+// Fix: resize should both ADD and REMOVE scroll lock, and only in mobile mode
+window.addEventListener("resize", () => {
+  const explorer = document.querySelector(".explorer") as HTMLElement | null
+  if (!explorer) return
+
+  const isMobile = isMobileExplorerVisible(explorer)
+  const isOpen = !explorer.classList.contains("collapsed")
+
+  setHtmlScrollLock(isMobile && isOpen)
 })
 
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
