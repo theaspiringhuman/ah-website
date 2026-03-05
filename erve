@@ -1,0 +1,120 @@
+[33mb6a4e15[m Fix sidebar and explorer scrolling issues
+[33m0edf70b[m Enhance layout and scrolling behavior
+[33m075679a[m Remove custom styles for folder index pages
+[33m74be9f7[m Increase width for folder page content area
+[33m6add0c8[m fix(style): layout flow, search restyle
+[33m0a57d03[m feat(typst): invert the math equation for typst rendered equation in darkmode (#2095)
+[33mae0466e[m css: unapply redundant bg on section
+[33mb48aa91[m fix(flex): respect DesktopOnly and MobileOnly components (#1971)
+[33m51b43a2[m feat(links): added ofm option to style unresolved or broken links differently (#1992)
+[33m52344cd[m fix(style): Katex adding scrollbars on non-overflowing content (#1989)
+[33mee8c1dc[m chore(css): style tweaks for overflow
+[33mf334e78[m fix(style): MathJax in callouts spacing (#1892)
+[33md6f69e8[m fix: remove redundant log and display in parent of overflow
+[33mf70e562[m fix: overflow list bottom gradient on toc (closes #1888)
+[33m9ff6c7a[m fix(style): MathJax non-inline formulae center (#1886)
+[33ma8001e9[m feat: support non-singleton explorer
+[33m8d33608[m fix(popovers): clear id to avoid anchor jumps within popover
+[33m5480269[m perf(explorer): client side explorer (#1810)
+[33m4e4930e[m chore(styles): omit sass deprecation warnings (#1737)
+[33mc98ef7e[m perf(img): lazy load chunks (#1700)
+[33me1c9eab[m fix(css): oops fit-content not no width specification for codeblock title
+[33m7d4bed6[m fix(css): allow proper width on code block title (closes #1683)
+[33mc91cf97[m feat(spa): add loading bar (#1684)
+[33madb326c[m fix(style): ensure images have no background color when linked (#1623)
+[33m9f701e5[m fix(grid): $desktop variable (#1511)
+[33mb0c079f[m fix(layout): restore footer to the proper position (#1470)
+[33m1416f62[m fix(layout): backlinks grid triage (#1447)
+[33m5eec1e9[m fix(layout): grid triage with backlinks (#1442)
+[33ma7a0dca[m fix(layout): grid triage and regression (#1440)
+[33m7d7e334[m[33m ([m[1;33mtag: [m[1;33mv4.4.0[m[33m)[m feat: responsive design grid (#1354)
+[33m6715079[m fix: only apply z-index on left sidebar
+[33m3b988ae[m fix: Popover z-index issue on left sidebar (#1230)
+[33m3938904[m fix: embed pdf aspect ratio (closes #1310)
+[33mca3943b[m fix: responsive youtube embed (closes #1167)
+[33m247625c[m feat(layout): add afterBody
+[33mb7793bd[m feat(style): Add textHighlight theme setting (#1242)
+[33me20dee2[m Fix: Table `overflow-wrap: anywhere` breaks words on mobile (#1259)
+[33m541b470[m fix: overflow fade for good (closes #1218)
+[33ma12d76a[m fix: fix explorer view gradient positioning on mobile (fixes #906) (#1206)
+[33m0a2b52f[m simpler katex fix
+[33m8437d9d[m fix(style): LaTex/KaTeX overflow (#1027)
+[33m001c166[m fix(tag): move hash to sass styling only (#930)
+[33ma6690c6[m fix(style): bold should use semibold
+[33m06e3f8b[m fix(style): introduce semiBoldWeight and various improvements to reduce CLS
+[33md2fb50b[m fix(links): show backdrop on links highlighted in headers alias (#816)
+[33m742b883[m fix(search): flex basis and card highlighting
+[33m5ab922f[m fix(revert): font aliasing
+[33md11a0e7[m fix: font smoothing defaults
+[33m2b57a68[m fix: font weight consistency
+[33mc0c0b24[m feat: improve search preview styling and tokenization
+[33m6ce754b[m fix(css): improve wrapping when right sidebar has more than two items (#762)
+[33mf68872c[m feat(icon): update content for gfm links (#751)
+[33mc4b756c[m style: remove redundant webkit prefix
+[33md90199c[m fix: code block overflow scroll (#729)
+[33m5fb203a[m fix(style): make a not inline-block
+[33maf811d8[m style: make internal link have less visual padding (closes #706)
+[33m107d9b8[m fix: external link icon shouldn't be vertical aligned (#699)
+[33mfa7d139[m feat: External link icons (#697)
+[33m40cfccd[m style: relative back on pre
+[33m63bf1e1[m style: remove relative from base pre
+[33m9b9d864[m fix: mermaid rendering fix from upstream
+[33m443cd53[m fix: mermaid rendering broken after rehype-pretty-code bump (closes #638)
+[33mea6208c[m deps: bump everything (closes #635) (#636)
+[33ma464ae5[m fix: format
+[33m66e297c[m css: make article no longer relative to prevent z-fighting
+[33m4442847[m fix: internal link selector specificity
+[33m8223465[m fix: make :has img selector direct
+[33m74c63e4[m fix(style): dont internal-link highlight when image (closes #581)
+[33m50a87d0[m style: scrollable tables
+[33maf9ddad[m fix(css): import base from custom instead of the other way around (#536)
+[33m3268d45[m css: make article relative
+[33mafa163f[m style: styling for codeblocks without langs (#527)
+[33mea5742c[m fix: mermaid copy source position
+[33m16d33fb[m feat: display name for folders, expand explorer a little bit (#489)
+[33m91f9ae2[m feat: implement file explorer component (closes #201) (#452)
+[33mcce389c[m feat: note transclusion (#475)
+[33m953ef29[m format, ensure ci runs on prs
+[33m94ce088[m style: integrate tertiary color to text-select (#413)
+[33m236130a[m css fixes, add recent notes, more robust quartz update
+[33mcfb7d12[m docs: update notes for tag and folder listings
+[33meb4d3dc[m css: fix scrollbars on windows
+[33md6e73f2[m fix relative path resolution logic, add more path tests
+[33m6d9ffd6[m 404 page styling on local
+[33mee9ed4f[m fix head.tsx
+[33m09d4eb0[m fix notes
+[33m533d68e[m most of creating components, increase legibility of bold in article and callouts
+[33m527ce65[m various css fixes, fix new image loading bug when previewing, path docs
+[33mcd9dc6e[m fix css transforms for mobile
+[33md8d9dd2[m fix shortest path for non-md files, mobile fix
+[33m3adc73a[m docs upgrade, ci changes
+[33m028bcec[m mobile fixes, fix bug when linking to anchor on home, docs
+[33m9e76b25[m fix mermaid initialization
+[33mcbae88f[m Removing redundant properties (#356)
+[33m45f9087[m fix checkbox/tasklist styling
+[33mc0278a8[m font loading options, optimize css
+[33m351b4ab[m styling fixes for stacking order and overflow
+[33mfd7c33c[m style fixes for search bar and title on mobile
+[33m76fdb3b[m fix styles
+[33m27a5f7e[m various typography and styling fixes
+[33m7db2eda[m run prettier
+[33m410fc9c[m quartz update and quartz sync
+[33m08f8e3b[m docs + various polish
+[33mb90590b[m polish
+[33mb3480bd[m fix styling for bullet points
+[33m92ca787[m fix default callout state
+[33m2a17431[m fix popover zindex
+[33m38cff2d[m more visual polish, adjust colours and spacing
+[33mab9da02[m fix indexing causing main thread freeze, various polish
+[33me0ebee5[m various polish
+[33mba9f243[m tag and folder pages
+[33mfd5c8d1[m basic search implementation
+[33mc4cf0dc[m local and global graph
+[33mcb89cce[m basic left,right layout
+[33m4d3579c[m darkmode scripts
+[33m89e0311[m embeds
+[33m700036e[m callouts
+[33m4bdc17d[m inline scripts
+[33mfcd8135[m heading linking
+[33m04eeb2d[m syntax higlighting
+[33m42d3a7d[m scss support
