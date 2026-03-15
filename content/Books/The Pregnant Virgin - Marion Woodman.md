@@ -33,3 +33,30 @@
 **pg. 23
 
 ---
+
+>"As life progresses, we may continue abandon our child by [[people-pleasing|pleasing others]]--teachers, professors, bosses, friends and partners, even analysts. That child who is our very *soul* cries out from underneath the rubble of our lives, often from the core of our worst complexes, begging us to say, 'You are not alone. I love you.'"^quote5
+
+
+**pg. 25
+
+---
+
+>"The body's memory, stored in muscle and bone, fuses the [[desire]] to [[connection|connect]] and the desire to escape so they are simultaneously present in an undifferentiated form. The result--an [[identity]] of opposites--manifests as despair: nothing can be done and everything must be endured."^quote6
+
+
+**pg. 38
+
+---
+
+>"Well, this time I won't build up my false [[persona]]. It can't relate because it can't feel. I have to experience my [[vulnerability]]. I have to allow others to know how vulnerable I am."^quote7
+
+
+**pg. 43
+
+---
+
+>"If [[healing]] is to take place, she must not act like a gentleman; she must not try to understand why he is abandoning her. She is angry and her [[rage]] is killer-rage and killer-[[jealousy]] that needs an acceptable channel. The pent-up fury of a lifetime has to be released from the body to make room for the [[healing]] [[love]]. That personal rage has to be acknowledged and experienced before the transpersonal understanding and [[compassion]] can flow in. Somewhere in that anguish and anger, the woman will realize that she has not been abandoned by the man she loves. The man she loves does not exist in human form. He never did. She has been [[projection|projecting]] an inner image of her own. Her [[mirror]] has shattered, and now she can either die or [[acceptance|accept]] [[reality]]. **And the reality is that she does not [[grief|grieve]] for that actual man. She grieves both for her perfect lover and for the beautiful woman she was when she was in love.**"^quote8
+
+
+**pg 45-46
+
