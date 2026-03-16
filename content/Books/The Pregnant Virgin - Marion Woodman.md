@@ -58,5 +58,15 @@
 >"If [[healing]] is to take place, she must not act like a gentleman; she must not try to understand why he is abandoning her. She is angry and her [[rage]] is killer-rage and killer-[[jealousy]] that needs an acceptable channel. The pent-up fury of a lifetime has to be released from the body to make room for the [[healing]] [[love]]. That personal rage has to be acknowledged and experienced before the transpersonal understanding and [[compassion]] can flow in. Somewhere in that anguish and anger, the woman will realize that she has not been abandoned by the man she loves. The man she loves does not exist in human form. He never did. She has been [[projection|projecting]] an inner image of her own. Her [[mirror]] has shattered, and now she can either die or [[acceptance|accept]] [[reality]]. **And the reality is that she does not [[grief|grieve]] for that actual man. She grieves both for her perfect lover and for the beautiful woman she was when she was in love.**"^quote8
 
 
-**pg 45-46
+**pg. 45-46
 
+---
+
+>"The woman who is in touch with her inner virgin has passed the frontier of the anima woman operating out of a male psychology. She finds herself saying things she never said before, verbalizing questions she never asked before. She tries to speak from her feminine [[reality]] while at the same time aware of the masculine standpoint. Often she is caught between two conflicting points of view: the rational, goal-oriented and just, versus the irrational, cyclic, relating. Her taks is not to choose one or the other, but to [[the transcendent function|hold the tension]] between them
+>A woman who has devoted her life to examinations and scholarship, or politics or the business world, knows how to organize her mind in obedience to the laws of unity, coherence, and emphasis. What she too often has lost in such training is [[faith]] in the values that come from the [[heart]]. When she attempts to speak from that place, she contacts her [[abandonment|abandoned]] soul. [[fear|Fearful]] of appearing 'childish and stupid,' she feels her face going red, clutches at her neck to try to get the words out; breathlessly she plummets on, hoping she won't be stopped, hoping she won't lose her vocabulary and collapse in [[confusion]]. She is trying desperately to articulate her feminine Being, trying to transcend the either/or prison that locks her into contradiction.
+>The either/or model is now as untenable as Newtonian physics. Just as the world of science has come to accept that light is at once both wave and particle--depending on the experiment used to determine its nature--so women must learn to live in a world of paradox, a world where two mutually exclusive views of [[reality]] may be held at the same time. The rhythms there are circuitous, slow, born of the feeling that comes from the thinking [[heart]]. Many people [[intuition|intuitively]] know that such a place exists; few have the confidence to talk or walk from that center."^quote9
+
+
+**pg. 51
+
+---
