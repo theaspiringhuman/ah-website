@@ -64,17 +64,6 @@
   border-bottom: 1px solid rgba(0,0,0,0.06);
 }
 
-/* Stabilize explorer scrolling without collapsing the container */
-.sidebar.left .explorer {
-  min-height: 0 !important;
-}
-
-.sidebar.left .explorer .explorer-ul {
-  max-height: calc(100vh - 220px) !important;
-  overflow-y: auto !important;
-  overscroll-behavior: contain !important;
-}
-
 /* Explorer header spacing */
 .explorer .title-button h2 {
   margin-bottom: 0.8rem;
