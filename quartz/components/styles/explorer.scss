@@ -29,10 +29,10 @@
 .explorer {
   display: flex;
   flex-direction: column;
-  overflow-y: hidden;
+  overflow: hidden;
 
-  min-height: 1.2rem;
-  flex: 0 1 auto;
+  min-height: 0;
+  flex: 1 1 auto;
   &.collapsed {
     flex: 0 1 1.2rem;
     & .fold {
@@ -110,9 +110,10 @@ button.desktop-explorer {
 
 .explorer-content {
   list-style: none;
-  overflow: hidden;
-  overflow-y: auto;
   margin-top: 0.5rem;
+  min-height: 0;
+  flex: 1 1 auto;
+  overflow-y: auto;
 
   & ul {
     list-style: none;
