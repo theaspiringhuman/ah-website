@@ -1,3 +1,158 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./base.scss";
+
+/* -------------------------------
+   Hide note metadata
+-------------------------------- */
+.content-meta,
+.folder-page .content-meta {
+  display: none !important;
+}
+
+/* -------------------------------
+   Folder page width improvements
+-------------------------------- */
+.center .page-listing,
+.center .page-listing > div,
+.center .page-listing .section-ul {
+  max-width: 1100px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+.center .page-listing .section {
+  display: block !important;
+}
+
+.center .page-listing .section .desc {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+.center .page-listing .section .desc h3 a {
+  display: block;
+  white-space: normal;
+  line-height: 1.55;
+  font-size: 1.05rem;
+}
+
+/* ---------------------------------------------
+   Sidebar spacing improvements
+---------------------------------------------- */
+
+.explorer .explorer-ul li {
+  margin-bottom: 0.4rem;
+}
+
+/* Folder label spacing and separator */
+.explorer .folder-container {
+  margin-top: 0.7rem;
+  margin-bottom: 0.3rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Spacing inside nested items */
+.explorer .folder-outer .content {
+  padding-left: 0.75rem !important;
+}
+
+/* Combined duplicate rules */
+.explorer .folder-outer .content > li {
+  margin-bottom: 0.65rem !important;
+  padding-left: 0.1rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+/* Explorer header spacing */
+.explorer .title-button h2 {
+  margin-bottom: 0.8rem;
+}
+/* Mobile: wrap long sidebar item text WITHOUT changing drawer layout */
+@media (max-width: 800px) {
+  .explorer .explorer-ul a {
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+  }
+
+  .explorer .explorer-ul li {
+    max-width: 100% !important;
+  }
+}
+/* ---------------------------------------------
+   Backlinks readability (desktop + mobile)
+---------------------------------------------- */
+
+/* Give the whole backlinks block some breathing room */
+.backlinks {
+  margin-top: 2rem !important;
+  padding-top: 0.75rem;
+}
+
+/* Space + dividers between each backlink item */
+.backlinks ul {
+  margin-top: 0.75rem !important;
+  padding-left: 0 !important;   /* remove default ul indent */
+  list-style: none !important;
+}
+
+.backlinks li {
+  margin: 0 !important;
+  padding: 0.65rem 0 !important;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+/* Dark mode divider */
+[saved-theme="dark"] .backlinks li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+[saved-theme="dark"] .explorer .folder-container {
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+
+[saved-theme="dark"] .explorer .folder-outer .content > li {
+  border-bottom: 1px solid rgba(255,255,255,0.10);
+}
+
+/* Make each backlink title feel like a tappable row */
+.backlinks a {
+  display: block;
+  line-height: 1.45;
+  padding-right: 0.25rem;
+}
+
+/* ---------------------------------------------
+   Mobile: ensure nothing collapses/tightens
+---------------------------------------------- */
+@media (max-width: 800px) {
+  .backlinks {
+    margin-top: 2.25rem !important; /* push it farther below the note */
+    padding-top: 1rem !important;
+  }
+
+  .backlinks li {
+    padding: 0.85rem 0 !important;  /* bigger tap-friendly spacing */
+  }
+}
+/* Rectangle YouTube embed with curved edges */
+.yt-rectangle {
+  position: relative;
+  width: min(90vw, 520px);
+  margin: 3rem auto;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border-radius: 18px;
+  background: #000;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.yt-rectangle iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
