@@ -111,6 +111,10 @@ function createFolderNode(
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
 
+  if (currentSlug === folderPath) {
+    folderContainer.classList.add("active")
+  }
+
   if (opts.folderClickBehavior === "link") {
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
@@ -287,13 +291,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 })
 
 window.addEventListener("resize", function () {
+  // Desktop explorer opens by default, and it stays open when the window is resized
+  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
   const explorer = document.querySelector(".explorer")
-  const mobileExplorer = explorer?.querySelector(".mobile-explorer") as HTMLElement | null
-
-  if (mobileExplorer?.checkVisibility() && explorer && !explorer.classList.contains("collapsed")) {
+  if (explorer && !explorer.classList.contains("collapsed")) {
     document.documentElement.classList.add("mobile-no-scroll")
-  } else {
-    document.documentElement.classList.remove("mobile-no-scroll")
+    return
   }
 })
 

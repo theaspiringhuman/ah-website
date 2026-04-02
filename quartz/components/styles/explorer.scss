@@ -6,6 +6,7 @@
     & > :not(.sidebar.left:has(.explorer)) {
       transition: transform 300ms ease-in-out;
     }
+
     &.lock-scroll > :not(.sidebar.left:has(.explorer)) {
       transform: translateX(100dvw);
       transition: transform 300ms ease-in-out;
@@ -29,12 +30,14 @@
 .explorer {
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow-y: hidden;
 
-  min-height: 0;
-  flex: 1 1 auto;
+  min-height: 1.2rem;
+  flex: 0 1 auto;
+
   &.collapsed {
     flex: 0 1 1.2rem;
+
     & .fold {
       transform: rotateZ(-90deg);
     }
@@ -110,16 +113,18 @@ button.desktop-explorer {
 
 .explorer-content {
   list-style: none;
-  margin-top: 0.5rem;
-  min-height: 0;
-  flex: 1 1 auto;
+  overflow: hidden;
   overflow-y: auto;
+  margin-top: 0.5rem;
 
   & ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    overscroll-behavior: contain;
+
+    &.explorer-ul {
+      overscroll-behavior: contain;
+    }
 
     & li > a {
       color: var(--dark);
@@ -134,12 +139,16 @@ button.desktop-explorer {
   }
 
   .folder-outer {
+    visibility: collapse;
     display: grid;
     grid-template-rows: 0fr;
-    transition: grid-template-rows 0.3s ease-in-out;
+    transition-property: grid-template-rows, visibility;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
   }
 
   .folder-outer.open {
+    visibility: visible;
     grid-template-rows: 1fr;
   }
 
@@ -266,6 +275,8 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .mobile-no-scroll {
   @media all and ($mobile) {
-    overscroll-behavior: none;
+    .explorer-content > .explorer-ul {
+      overscroll-behavior: contain;
+    }
   }
 }
