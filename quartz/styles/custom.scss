@@ -64,6 +64,32 @@
   border-bottom: 1px solid rgba(0,0,0,0.06);
 }
 
+/* Make left sidebar/explorer scroll region explicit and stable */
+.sidebar.left {
+  min-height: 0 !important;
+}
+
+.sidebar.left .explorer {
+  min-height: 0 !important;
+  height: auto !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar.left .explorer > div:has(> .explorer-ul) {
+  min-height: 0 !important;
+  flex: 1 1 auto !important;
+  overflow: hidden !important;
+}
+
+.sidebar.left .explorer .explorer-ul {
+  min-height: 0 !important;
+  flex: 1 1 auto !important;
+  max-height: none !important;
+  overflow-y: auto !important;
+  overscroll-behavior: contain !important;
+}
+
 /* Explorer header spacing */
 .explorer .title-button h2 {
   margin-bottom: 0.8rem;
