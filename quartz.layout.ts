@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+    links: {},
   }),
 }
 
@@ -23,8 +20,12 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    // Component.TagList(), // removed to hide tags
   ],
+
+  // ✅ Backlinks AFTER the note body (center column)
+  afterBody: [Component.Backlinks()],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -38,16 +39,25 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    // Custom Explorer with hidden-folder filtering
+    (() => {
+      const filterFn = function hideHidden(node: any) {
+        const omit = new Set(["_hidden"])
+        if (omit.has(node.displayName.toLowerCase())) return false
+        if (node.children) {
+          node.children = node.children.filter(hideHidden)
+        }
+        return true
+      }
+
+      // Pass props in a way that TypeScript accepts
+      return Component.Explorer({ filterFn })
+    })(),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.Graph(), Component.DesktopOnly(Component.TableOfContents())],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -62,7 +72,21 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: function hideHidden(node) {
+        const omit = new Set(["_hidden"])
+
+        // Check this node
+        if (omit.has(node.displayName.toLowerCase())) return false
+
+        // If it has children, filter them recursively
+        if (node.children) {
+          node.children = node.children.filter(hideHidden)
+        }
+
+        return true
+      },
+    }),
   ],
   right: [],
 }
