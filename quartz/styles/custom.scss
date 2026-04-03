@@ -154,3 +154,24 @@
   height: 100%;
   border: 0;
 }
+.footer-inner {
+  display: flex;
+  flex-direction: column;      // 👈 stacks vertically
+  align-items: center;         // 👈 centers horizontally
+  justify-content: center;
+  gap: 0.4rem;                 // 👈 space between text + image
+  margin-top: 2rem;
+
+  span {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    text-align: center;
+  }
+
+  img {
+    width: 28px;               // 👈 controls size (adjust this)
+    height: auto;
+    display: block;
+    opacity: 0.9;
+  }
+}
