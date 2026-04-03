@@ -23,7 +23,7 @@ export default ((opts?: Options) => {
         )}
         <div class="footer-inner">
           <span>Aspiring Human · {year}</span>
-          <img src="./footer.png" alt="Footer" />
+          <img src="/static/footer.png" alt="Footer" />
         </div>
       </footer>
     )
