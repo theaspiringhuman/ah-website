@@ -78,7 +78,7 @@
 
 ---
 
-> "Often when your pole star begins to rise, people in your family or [[community]] will dismiss, underestimate, even criticize you at that pivotal juncture. One of the great silent contracts of false belonging is that you remain a follower. As soon as you try to step into a leadership role, you meet with resistance. The group feels threatened by the emerging sexuality, the charisma, intelligence, or creativity that shakes up the order of things. On some level your rising star may be interpreted as another's demotion of loss of relevance."  
+> "Often when your pole star begins to rise, people in your family or [[community]] will dismiss, underestimate, even criticize you at that pivotal juncture. One of the great silent contracts of false belonging is that you remain a follower. As soon as you try to step into a leadership role, you meet with resistance. The group feels threatened by the emerging sexuality, the charisma, intelligence, or [[creativity]] that shakes up the order of things. On some level your rising star may be interpreted as another's demotion of loss of relevance."  
 > **pg 47**
 
 ---
@@ -93,7 +93,7 @@
 
 ---
 
-> "The only antidote to perfectionism is to turn away from every whiff of plastic and gloss and follow our grief, pursue our imperfections, and exaggerate our eccentricities until the things we once sought to hide reveal themselves as our majesty."  
+> "The only antidote to perfectionism is to turn away from every whiff of plastic and gloss and follow our [[grief]], pursue our imperfections, and exaggerate our eccentricities until the things we once sought to hide reveal themselves as our majesty."  
 > **pg 50**
 
 ---
@@ -215,7 +215,7 @@
 
 ---
 
-> "Strike a holy grove of silence where you can listen as you long to be heard, see as you long to be seen, recognize where you long to be relevant, needed, and necessary. Sink down into your estrangement, and let the grief of your disappointment be the moisture that baptizes the seeds of your potential so they can finally break open."
+> "Strike a holy grove of silence where you can listen as you long to be heard, see as you long to be seen, recognize where you long to be relevant, needed, and necessary. Sink down into your estrangement, and let the [[grief]] of your disappointment be the moisture that baptizes the seeds of your potential so they can finally break open."
 
 **pg 87**
 
@@ -233,7 +233,7 @@
 
 ---
 
-> "Many take the path well-worn, but they are only given a half-lived life. To those willing to brace the unknown path, the dark thicket, a remembering of love, magic, and purpose returns. There is a wild woman under our skin who wants nothing more than to dance until her feet are sore, sing her beautiful grief into the rafters, and offer the bottomless cup of her creativity as a way of life. And if you are able to sing from the very wound that you've worked so hard to hide, not only will it give [[meaning]] to your own story, but it becomes a corroborative voice for others with a similar wounding."
+> "Many take the path well-worn, but they are only given a half-lived life. To those willing to brace the unknown path, the dark thicket, a remembering of love, magic, and purpose returns. There is a wild woman under our skin who wants nothing more than to dance until her feet are sore, sing her beautiful [[grief]] into the rafters, and offer the bottomless cup of her [[creativity]] as a way of life. And if you are able to sing from the very wound that you've worked so hard to hide, not only will it give [[meaning]] to your own story, but it becomes a corroborative voice for others with a similar wounding."
 
 **pg 94**
 

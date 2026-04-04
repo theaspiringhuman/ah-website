@@ -12,7 +12,7 @@
  > "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau ^quote2
   ---
   
- > "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." - Henry David Thoreau ^quote3 
+ > "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." - Henry David Thoreau ^quote3
  ---
 
 > "The mass of men lead lives of quiet desperation." - Henry David Thoreau ^quote4
@@ -67,3 +67,7 @@
 ---
 
 > “Nothing makes the earth seem so spacious as to have friends at a distance; they make the latitudes and longitudes.” - Henry David Thoreau ^quote17
+
+---
+
+"If a plant cannot live according to its nature, it dies. And so a man." - Henry David Thoreau ^quote18

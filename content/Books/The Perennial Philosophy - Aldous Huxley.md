@@ -124,3 +124,9 @@ pg. 29
  "For, as all exponents of the Perennial Philosophy have constantly insisted, man's obsessive consciousness of, and insistence on being a separate self is the final and most formidable obstacle to the unitive knowledge of [[God]]. To be a self is, for them, the original sin, and to [[ego-death|die to self]], in feeling, will and intellect, is the final and all-inclusive virtue." - Aldous Huxley, *The Perennial Philosophy* ^quote20
 
 pg. 36
+
+---
+
+"The poet's or the painter's vision of the divine in nature, the worshipper's awareness of a holy presence in the sacrament, symbol or image--these are not entirely subjective. True, such perceptions cannot be had by all perceivers, for knowledge is a function of being; but the thing known is independent of the mode and nature of the knower. What the poet and painter see, and try to record for us, is actually there, waiting to be apprehended by anyone who has the right kind of faculties." - Aldous Huxley, *The Perennial Philosophy* ^quote21
+
+pg. 59
