@@ -341,19 +341,19 @@
 
 ---
 
->"[[Grief]] is the honor we pay to that which is dear to us. And it is only through the [[connection]] to what we cherish that we can know how to move forward. In this way, [[grief]] is motion." - Toko-pa Turner, *Belonging* ^quote62
+>"[[grief]] is the honor we pay to that which is dear to us. And it is only through the [[connection]] to what we cherish that we can know how to move forward. In this way, [[grief]] is motion." - Toko-pa Turner, *Belonging* ^quote62
 
 **pg 121**
 
 ---
 
->"[[Grief]] plays an essential role in our coming undone from previous attachments. It is the necessary current we need to carry us into our next becoming. Without it, we may remain stuck in that area of our life, which can limit the whole spectrum of our feeling alive." - Toko-pa Turner, *Belonging* ^quote63
+>"[[grief]] plays an essential role in our coming undone from previous attachments. It is the necessary current we need to carry us into our next becoming. Without it, we may remain stuck in that area of our life, which can limit the whole spectrum of our feeling alive." - Toko-pa Turner, *Belonging* ^quote63
 
 **pg 122**
 
 ---
 
->"[[Grief]] is the expression of [[healing]] in motion." - Toko-pa Turner, *Belonging* ^quote64
+>"[[grief]] is the expression of [[healing]] in motion." - Toko-pa Turner, *Belonging* ^quote64
 
 **pg 122**
 

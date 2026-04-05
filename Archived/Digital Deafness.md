@@ -12,7 +12,7 @@ These once so widely revered [[value|treasures]] of life have become obstructed 
 
 This world is so loud and intrusive. So contrived and manufactured. 
 
-[[Nature]] is always speaking.
+[[nature]] is always speaking.
 
 But we have been deafened by this digital age.
 

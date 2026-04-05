@@ -6,7 +6,7 @@ Source: 🎵 "[Go After the Dragon](https://www.youtube.com/watch?v=khhPt_0Y-mM)
 
 ---
 
-This song brought tears to my eyes when I heard it the other day as I was painting my children's book illustrations for Watercolor class. They were tears of inspiration. [[Empowerment]]. Something about this story resonated with me so deeply.
+This song brought tears to my eyes when I heard it the other day as I was painting my children's book illustrations for Watercolor class. They were tears of inspiration. [[empowerment]]. Something about this story resonated with me so deeply.
 
 Jordan Peterson describes the details of a dream his young nephew had. A dream rich with [[archetypes|archetypal]] symbolism. The boy's dream involved a dragon that released a series of strange, chaotic creatures. The boy, in the dream, confronts the dragon and defeats it, [[integration|integrating]] its power.
 

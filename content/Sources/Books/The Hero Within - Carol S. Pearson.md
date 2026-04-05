@@ -71,7 +71,7 @@
 
 ---
 
-"...[[archetypes]] are nothing more than the deep structures in the psyche and in social systems. Scientists talk about the deep structures of nature as 'fractals.' For example, every snowflake is unique. Yet there is something similar in the deep structure of snowflakes that allows us to recognize them as snowflakes. [[Archetypes]] are fractals of the psyche."
+"...[[archetypes]] are nothing more than the deep structures in the psyche and in social systems. Scientists talk about the deep structures of nature as 'fractals.' For example, every snowflake is unique. Yet there is something similar in the deep structure of snowflakes that allows us to recognize them as snowflakes. [[archetypes]] are fractals of the psyche."
 
 - pg 19
 
@@ -119,7 +119,7 @@
 
 ---
 
-"What _can_ make movement happen for those who are immobilized by insecurity or self-recrimination? [[Love]], [[hope]], and the message that their [[suffering]] indeed is not their fault and that someone else who is not so powerless and lost and needy will help them."
+"What _can_ make movement happen for those who are immobilized by insecurity or self-recrimination? [[love]], [[hope]], and the message that their [[suffering]] indeed is not their fault and that someone else who is not so powerless and lost and needy will help them."
 
 - pg 53
 

@@ -16,7 +16,7 @@ When you have a [[fear]] or [[anxiety]] around an issue, you can overcome that b
 
 #### Goal: 
 
-To overcome [[Fear]] and grow in bravery. [[Growth]] To have the life you've dreamed of.
+To overcome [[fear]] and grow in bravery. [[growth]] To have the life you've dreamed of.
 
 #### Benefits:
 

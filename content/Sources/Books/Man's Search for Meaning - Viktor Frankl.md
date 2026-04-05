@@ -38,7 +38,7 @@
 
 ---
 
-#### "[[Love]] is the only way to grasp another human being in the innermost core of his personality... By this love, the loving person enables the beloved person to actualize these potentialities. By making him aware of what he can be and of what he should become, he makes these potentialities come true." - pg. 100-111 ^quote9
+#### "[[love]] is the only way to grasp another human being in the innermost core of his personality... By this love, the loving person enables the beloved person to actualize these potentialities. By making him aware of what he can be and of what he should become, he makes these potentialities come true." - pg. 100-111 ^quote9
 
 ---
 

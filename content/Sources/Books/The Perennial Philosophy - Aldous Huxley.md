@@ -10,7 +10,7 @@ pg. ?
 
 ---
 
-“[[Fear]], worry, [[anxiety]] these form the central core of individualized selfhood. Fear cannot be got rid of by personal effort, but only by the ego's absorption in a cause greater than its own interests. Absorption in any cause will rid the mind of some of its fears; but only absorption in the [[love|loving]] and knowing of the divine Ground can rid it of all fear.” - Aldous Huxley, *The Perennial Philosophy* ^quote2
+“[[fear]], worry, [[anxiety]] these form the central core of individualized selfhood. Fear cannot be got rid of by personal effort, but only by the ego's absorption in a cause greater than its own interests. Absorption in any cause will rid the mind of some of its fears; but only absorption in the [[love|loving]] and knowing of the divine Ground can rid it of all fear.” - Aldous Huxley, *The Perennial Philosophy* ^quote2
 
 pg. ?
 

@@ -123,7 +123,7 @@ Etymologically, the word *instinct* derives from the Latin *instinguere*, meanin
 
 ---
 
-"In order to converse with the wild feminine, a woman must temporarily leave the world and inhabit a state of aloneness in the oldest sense of the word. Long ago, the word alone was treated as two words, all one. To be all one meant to be wholly one, to be in oneness, either essentially or temporarily. That is precisely the goal of solitude, to be all one. It is the cure for the frazzled state so common to modern women... [[Solitude]] is not an absence of energy or action, as some believe, but is rather a boon of wild provisions transmitted to us from the soul." - pg. 316 ^quote30
+"In order to converse with the wild feminine, a woman must temporarily leave the world and inhabit a state of aloneness in the oldest sense of the word. Long ago, the word alone was treated as two words, all one. To be all one meant to be wholly one, to be in oneness, either essentially or temporarily. That is precisely the goal of solitude, to be all one. It is the cure for the frazzled state so common to modern women... [[solitude]] is not an absence of energy or action, as some believe, but is rather a boon of wild provisions transmitted to us from the soul." - pg. 316 ^quote30
 
 ---
 
@@ -158,7 +158,7 @@ One of the greatest problems of the creative complex is the accusation that what
 
 ---
 
-"A woman must be careful to not allow over-responsibility (or over-respectability) to steal her necessary [[creativity|creative]] rests, riffs, and raptures. She simply must put her foot down and say no to half of what she believes she 'should' be doing. [[Art]] is not meant to be created in stolen moments only.
+"A woman must be careful to not allow over-responsibility (or over-respectability) to steal her necessary [[creativity|creative]] rests, riffs, and raptures. She simply must put her foot down and say no to half of what she believes she 'should' be doing. [[art]] is not meant to be created in stolen moments only.
 
 The scattering of plans and projects, as if by a wind, occurs when a woman attempts to organize a creative idea and it just somehow keeps being blown away, becoming more and more confused and distorted. She is not tracking it in any concrete way because, again, she doesn't have time to write it all down and organize it, or she is called by so many other things, that she loses her place and cannot pick it up again.
 

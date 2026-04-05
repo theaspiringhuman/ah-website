@@ -35,8 +35,8 @@
 
 "In the depths of your [[hope|hopes]] & [[desire|desires]] lies your silent knowledge of the beyond; & like seeds dreaming beneath the snow your heart dreams of Spring. Trust the dreams, for in them is hidden the gate to eternity." - Kahlil Gibran ^quote15
 
-"[[Love]] gives naught but itself and takes naught but from itself.    
-[[Love]] possesses not nor would it be possessed; For love is sufficient unto love. And think not you can direct the course of love, for love, if it finds you worthy, directs your course. Love has no other desire but to fulfill itself."
+"[[love]] gives naught but itself and takes naught but from itself.    
+[[love]] possesses not nor would it be possessed; For love is sufficient unto love. And think not you can direct the course of love, for love, if it finds you worthy, directs your course. Love has no other desire but to fulfill itself."
   
 "But if you [[love]] and must needs have desires, let these be your desires: To melt and be like a running brook that sings its melody to the night. To know the pain of too much tenderness. To be wounded by your own understanding of love; And to bleed willingly and joyfully.”
 

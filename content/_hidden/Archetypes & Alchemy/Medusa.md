@@ -13,7 +13,7 @@ Links to: [[Medusa's Many Faces - The Evolution of a Myth - This Jungian Life]]
 
 **Keywords:**
 
-Shadow Feminine • Rage • [[Trauma]] • Protection • [[Transformation]] • Threshold • Fearsome [[Beauty]] • [[Truth]]-Revealer • Guardian • Monster-as-Mirror • Psychic Defense • Feminine Power
+Shadow Feminine • Rage • [[trauma]] • Protection • [[transformation]] • Threshold • Fearsome [[beauty]] • [[truth]]-Revealer • Guardian • Monster-as-Mirror • Psychic Defense • Feminine Power
 
 ---
 

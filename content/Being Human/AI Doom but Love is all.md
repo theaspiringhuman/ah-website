@@ -29,7 +29,7 @@ And I think that’s why we’re in this crisis of [[meaning]]. It’s why peopl
 
 Anyway, I’ve been thinking about all of this and where we’re headed, and it’s really terrifying. I went down some really dark rabbit holes for the last two nights, and I kind of had to stop myself. I heard this still small voice say, “Don’t be afraid.”
 
-[[Fear]] is like the whole point of all of this. [[Fear]] is clickbait. [[Fear]] is what makes people easy to control and manipulate. [[Fear]] is something that those with darker agendas really feed on. And I don’t want to contribute to that.
+[[fear]] is like the whole point of all of this. [[fear]] is clickbait. [[fear]] is what makes people easy to control and manipulate. [[fear]] is something that those with darker agendas really feed on. And I don’t want to contribute to that.
 
 If there is any chance that we can turn this massive ship around—the ship that’s headed toward the biggest iceberg in human history—if we can turn things around and reshape the future in a way that’s conducive to a good human life, then I want to put my energy there. Into that potential.
 

@@ -27,7 +27,7 @@ Not my career.
 Not my individual purpose. 
 Not any achievement on the earth. 
 
-Draw me back to [[Love]].
+Draw me back to [[love]].
 I wander... I wander into selfishness. 
 
 Life is in this moment [[Now|now]]. What is all the worry for? Why try to figure it all out? I have been so terrified of finding myself one day living with regret that I find myself now not living at all. 

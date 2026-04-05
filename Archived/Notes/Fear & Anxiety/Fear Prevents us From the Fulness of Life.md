@@ -3,7 +3,7 @@ Date: 11-26-2024
 Source: [The Prophet](https://www.kahlilgibran.com/images/The%20Prophet%20Ebook%20by%20Kahlil%20Gibran.pdf) - Kahlil Gibran
 
 >[!quote]
->"But if in your [[Fear]] you would seek only love's peace and love's pleasure,
+>"But if in your [[fear]] you would seek only love's peace and love's pleasure,
 Then it is better for you that you cover your na­kedness and pass out of love's threshing-floor,
 Into the seasonless world where you shall laugh, but not all of your laughter, and weep, but not all of your tears." - [[Kahlil Gibran]], [The Prophet](https://www.kahlilgibran.com/images/The%20Prophet%20Ebook%20by%20Kahlil%20Gibran.pdf)
 

@@ -17,12 +17,11 @@ Source: [[Bird by Bird - Anne Lamott]]
 
 ---
 
-#### Thoughts:
-
-I was reading this last night and I immediately thought of what I've been learning as I study [[Carl Jung|Jung]] about how externalizing our complexes, [[fear|fears]], and [[shadow|shadows]] frees us from identifying with them and thus being consumed, or as Anne Lamott puts it "swallowed up" by them. 
+I was reading this last night and I immediately thought of what I've been learning as I study [[Carl Jung|Jung]] about how externalizing our complexes, [[fear|fears]], and [[shadow|shadows]] frees us from identifying with them and thus being consumed, or as [[Bird by Bird - Anne Lamott|Anne Lamott]] puts it "swallowed up" by them. 
 
 Jung suggests personifying and engaging with [[archetypes]] through the use of imagery and active imagination.
 
+---
 #### "When you can personify unconscious contents, you no longer identify with them and you can begin to have a dialogue and a relationship with them." - Paraphrased from something Lisa said on this episode of [[This Jungian Life]]
 
 In [[Tarot for Change - Jessica Dore]] talks about how the Tarot helps us to do this by externalizing the indigestible internal forces within us portrayed in the cards as archetypal images: 

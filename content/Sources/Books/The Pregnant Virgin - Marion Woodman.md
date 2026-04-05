@@ -27,7 +27,7 @@
 
 ---
 
->"Many delightful babies appear in dreams, and just as many little tyrants who need firm and loving discipline. One child, however, is noticeably different from the others. This is the abandoned one, who may appear in bullrushes, in straw in a barn, [[Dream - The Little Boy Climbing the tree and petting the Porcupine|in a tree]], almost always in some forgotten or out-of-the-way place. This child will be radiant with light, robust, intelligent, sensitive. [[Dream - Caring for the Small dog, Alice Speaks Profoundly, Halloween at the Office, Narrow Opening and Claustrophobia|Often it is able to talk minutes after it is born.]] It has [[Presence]]. It is the Divine Child, bringing with it the 'hard and bitter [[suffering|agony]]' of the new dispensation--the agony of Eliot's Magi. With its birth, the old gods have to go."^quote4
+>"Many delightful babies appear in dreams, and just as many little tyrants who need firm and loving discipline. One child, however, is noticeably different from the others. This is the abandoned one, who may appear in bullrushes, in straw in a barn, [[Dream - The Little Boy Climbing the tree and petting the Porcupine|in a tree]], almost always in some forgotten or out-of-the-way place. This child will be radiant with light, robust, intelligent, sensitive. [[Dream - Caring for the Small dog, Alice Speaks Profoundly, Halloween at the Office, Narrow Opening and Claustrophobia|Often it is able to talk minutes after it is born.]] It has [[presence]]. It is the Divine Child, bringing with it the 'hard and bitter [[suffering|agony]]' of the new dispensation--the agony of Eliot's Magi. With its birth, the old gods have to go."^quote4
 
 
 **pg. 23

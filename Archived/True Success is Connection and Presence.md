@@ -1,6 +1,6 @@
 Date: 01-11-2025 
 
-Tags: [[Connection]] [[Meaning]]
+Tags: [[connection]] [[meaning]]
 
 Source: #Journals [[Randolph Black]]
 

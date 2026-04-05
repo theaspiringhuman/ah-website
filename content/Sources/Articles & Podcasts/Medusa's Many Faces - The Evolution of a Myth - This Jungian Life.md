@@ -29,7 +29,7 @@ The Medusa episode of [[This Jungian Life]] podcast explores the evolution of Me
 
 ---
 
-#### Key Points from this episode:
+#### Quotes from this episode:
 
 - Medusa symbolizes "the dark feminine that we fear yet cannot look away from—she is chaos, power, and transformation."  
 

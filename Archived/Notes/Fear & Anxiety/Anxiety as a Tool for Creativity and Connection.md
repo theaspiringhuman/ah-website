@@ -34,12 +34,12 @@ On the other hand, when we practice kindness and willingness to engage with part
 
 ---
 
-In Greek mythology, [[pan - god of the wild|Pan, the god of the wild]], was an archetype of anxiety, particularly that sudden, overwhelming kind of anxiety, like a [[panic]] attack. The word _panic_ is actually derived from Pan's name, reflecting the intense terror he was believed to inspire. 
+In Greek mythology, [[Pan - God of the Wild|Pan, the god of the wild]], was an archetype of anxiety, particularly that sudden, overwhelming kind of anxiety, like a [[panic]] attack. The word _panic_ is actually derived from Pan's name, reflecting the intense terror he was believed to inspire. 
 Pan was associated with the wilderness and his presence in the [[loneliness|lonely]], unexplored places, along with his unpredictable, wild nature, often evoked feelings of unease or dread.
 
 Pan was often found in remote, wild places, just like anxiety often arises in situations of isolation or when faced with the unpredictable and uncontrollable.
 
-As a god of nature and fertility, Pan represents raw, untamed forces. [[Anxiety]] can feel like an uncontrollable, primal force within the human psyche.
+As a god of nature and fertility, Pan represents raw, untamed forces. [[anxiety]] can feel like an uncontrollable, primal force within the human psyche.
 
 Pan embodies both joy and chaos, and was seen as a carefree, playful god, but he also had a dark side. These seemingly opposing qualities reflect the duality of human emotions.
 
