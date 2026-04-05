@@ -185,3 +185,23 @@
     pointer-events: none !important;
   }
 }
+/* Let long backlinks/topic lists expand normally instead of becoming nested scroll areas */
+.backlinks div:has(> .overflow),
+.backlinks ul.overflow,
+.backlinks ol.overflow,
+.page-listing div:has(> .overflow),
+.page-listing ul.overflow,
+.page-listing ol.overflow,
+.center .page-listing .section-ul {
+  max-height: none !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+/* Mobile: make vertical swipes on links behave like scrolling */
+@media (max-width: 800px) {
+  .backlinks a,
+  .page-listing a {
+    touch-action: pan-y;
+  }
+}
