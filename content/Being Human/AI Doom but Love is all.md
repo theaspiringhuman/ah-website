@@ -12,6 +12,7 @@
     loading="lazy">
   </iframe>
 </div>
+
 ---
 Alright, so I’m just going to start recording audio. This is just some of my thoughts lately. I’ve been kind of—damn it, hold on. Alright. I have to listen to myself.
 
