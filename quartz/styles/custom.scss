@@ -175,8 +175,7 @@
   }
 }
 @media (max-width: 800px) {
-  .left.sidebar,
-  .explorer {
-    overflow-x: hidden !important;
+  .explorer.collapsed > .explorer-content {
+    clip-path: inset(0 100% 0 0);
   }
 }
