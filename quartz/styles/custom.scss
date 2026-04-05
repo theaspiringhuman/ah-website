@@ -174,3 +174,9 @@
     opacity: 0.9;
   }
 }
+@media (max-width: 800px) {
+  .left.sidebar,
+  .explorer {
+    overflow-x: hidden !important;
+  }
+}
