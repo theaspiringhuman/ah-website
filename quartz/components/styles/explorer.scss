@@ -280,3 +280,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     }
   }
 }
+@media all and ($mobile) {
+  .explorer.collapsed > .explorer-content {
+    pointer-events: none !important;
+  }
+
+  .explorer:not(.collapsed) > .explorer-content {
+    pointer-events: auto !important;
+  }
+}
