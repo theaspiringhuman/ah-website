@@ -6,6 +6,7 @@
     & > :not(.sidebar.left:has(.explorer)) {
       transition: transform 300ms ease-in-out;
     }
+
     &.lock-scroll > :not(.sidebar.left:has(.explorer)) {
       transform: translateX(100dvw);
       transition: transform 300ms ease-in-out;
@@ -110,10 +111,6 @@ button.desktop-explorer {
   }
 }
 
-/* ============================= */
-/* FIXED MOBILE DRAWER (KEY FIX) */
-/* ============================= */
-
 .explorer-content {
   list-style: none;
   overflow: hidden;
@@ -124,7 +121,10 @@ button.desktop-explorer {
     list-style: none;
     margin: 0;
     padding: 0;
-    overscroll-behavior: contain;
+
+    &.explorer-ul {
+      overscroll-behavior: contain;
+    }
 
     & li > a {
       color: var(--dark);
@@ -139,12 +139,16 @@ button.desktop-explorer {
   }
 
   .folder-outer {
+    visibility: collapse;
     display: grid;
     grid-template-rows: 0fr;
-    transition: grid-template-rows 0.3s ease-in-out;
+    transition-property: grid-template-rows, visibility;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
   }
 
   .folder-outer.open {
+    visibility: visible;
     grid-template-rows: 1fr;
   }
 
@@ -216,19 +220,14 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
   color: var(--tertiary);
 }
 
-/* ============================= */
-/* MOBILE DRAWER BEHAVIOR FIXED  */
-/* ============================= */
-
 .explorer {
   @media all and ($mobile) {
     &.collapsed {
       flex: 0 0 34px;
 
       & > .explorer-content {
-        transform: translateX(-100%);
+        transform: translateX(-100vw);
         visibility: hidden;
-        pointer-events: none;
       }
     }
 
@@ -238,38 +237,27 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       & > .explorer-content {
         transform: translateX(0);
         visibility: visible;
-        pointer-events: auto;
       }
     }
 
     .explorer-content {
       box-sizing: border-box;
       z-index: 100;
-
-      /* 🔥 KEY FIX: absolute → fixed */
-      position: fixed;
-
+      position: absolute;
       top: 0;
       left: 0;
       margin-top: 0;
-
       background-color: var(--light);
-
-      width: 100vw;
       max-width: 100vw;
-
-      transform: translateX(-100%);
+      width: 100vw;
+      transform: translateX(-100vw);
       transition:
         transform 200ms ease,
         visibility 200ms ease;
-
       overflow: hidden;
-
       padding: 4rem 0 2rem 0;
-
       height: 100dvh;
       max-height: 100dvh;
-
       visibility: hidden;
     }
 
@@ -287,6 +275,8 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .mobile-no-scroll {
   @media all and ($mobile) {
-    overscroll-behavior: none;
+    .explorer-content > .explorer-ul {
+      overscroll-behavior: contain;
+    }
   }
 }
