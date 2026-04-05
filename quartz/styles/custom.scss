@@ -175,7 +175,13 @@
   }
 }
 @media (max-width: 800px) {
-  .explorer.collapsed > .explorer-content {
-    clip-path: inset(0 100% 0 0);
+  .left.sidebar,
+  .explorer,
+  .explorer-content {
+    overflow-x: hidden !important;
+  }
+
+  .explorer.collapsed .explorer-content {
+    pointer-events: none !important;
   }
 }
