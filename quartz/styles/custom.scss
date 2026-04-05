@@ -174,14 +174,3 @@
     opacity: 0.9;
   }
 }
-@media (max-width: 800px) {
-  .left.sidebar,
-  .explorer,
-  .explorer-content {
-    overflow-x: hidden !important;
-  }
-
-  .explorer.collapsed .explorer-content {
-    pointer-events: none !important;
-  }
-}
