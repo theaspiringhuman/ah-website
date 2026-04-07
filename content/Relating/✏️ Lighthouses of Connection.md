@@ -20,5 +20,5 @@ I had a sort of vision the other night as I was falling asleep of a bunch of lig
 
 #### Links to:
 
-[[My brother gives me a glimpse of the true meaning of life]]
+[[✏️ My brother gives me a glimpse of the true meaning of life]]
 

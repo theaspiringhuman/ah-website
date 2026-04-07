@@ -61,4 +61,4 @@ Pan’s association with both pleasure and [[fear]] gives us a more nuanced view
 ---
 #### Links to:
 
-[[Panic, and The Indirect Consequences of Repressed Instinct]]
+[[✏️ Panic - The Indirect Consequence of Repressed Instinct]]

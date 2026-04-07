@@ -27,4 +27,4 @@ The restorative process is understanding the archetype of Pan. Allowing ourselve
 
 
 
-[^1]: [[Writing, Art, Tarot as Means of Externalizing Difficult Aspects of Self to Gain Distance and Perspective]]
+[^1]: [[✏️ The Power of Archetypes]]

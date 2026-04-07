@@ -33,4 +33,4 @@ And so to me [[success]] would be living this out. Just... [[authenticity|being]
 #### Links to:
 
 [[My Garden]]
-[[Lighthouses of Connection]]
+[[✏️ Lighthouses of Connection]]
