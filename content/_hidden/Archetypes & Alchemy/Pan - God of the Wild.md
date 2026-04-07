@@ -48,7 +48,7 @@ Tags: [[archetypes]] [[panic]] [[fear]]
 ---
 #### Psychology:
 
-[[✏️ Panic - The Indirect Consequence of Repressed Instinct]]
+[[✏️ Panic & the Cost of Repression]]
 
 Quotes from [Puer Aeternus by Marie-Louise von Franz](https://archive.org/details/marielouisevonfranzalchemyanintroductiontothesymbolismandthepsychologystudiesinj/Marie-Louise%20Von%20Franz%2C%20Marie-Luise%20von%20Franz%20-%20The%20Problem%20of%20the%20Puer%20Aeternus%20%282000%29/mode/2up)
 
