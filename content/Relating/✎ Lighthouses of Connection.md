@@ -20,5 +20,5 @@ I had a sort of vision the other night as I was falling asleep of a bunch of lig
 
 #### Links to:
 
-[[✏️ What Really Matters]]
+[[✎ What Really Matters]]
 

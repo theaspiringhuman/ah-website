@@ -27,4 +27,4 @@ The restorative process is understanding the archetype of Pan. Allowing ourselve
 
 
 
-[^1]: [[✏️ The Power of Archetypes]]
+[^1]: [[✎ The Power of Archetypes]]

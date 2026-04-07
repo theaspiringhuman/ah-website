@@ -58,4 +58,4 @@ This insight hit me with such profundity that it made its way into [[Dream - Int
 ---
 
 #### Links to:
-[[✏️ Lighthouses of Connection]]
+[[✎ Lighthouses of Connection]]

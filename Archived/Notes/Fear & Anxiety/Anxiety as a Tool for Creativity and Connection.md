@@ -61,4 +61,4 @@ Pan’s association with both pleasure and [[fear]] gives us a more nuanced view
 ---
 #### Links to:
 
-[[✏️ Panic & the Cost of Repression]]
+[[✎ Panic & the Cost of Repression]]
