@@ -27,9 +27,16 @@ export default ((opts?: Options) => {
         </div>
          <p class="footer-contact">
   If something here resonates,{" "}
-  <a href="mailto:contact@theaspiringhuman.com">
-    contact@theaspiringhuman.com
-  </a>
+  <a
+  href="mailto:contact@theaspiringhuman.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  onClick={(e) => {
+    e.stopPropagation()
+  }}
+>
+  contact@theaspiringhuman.com
+</a>
 </p>
       </footer>
     )
