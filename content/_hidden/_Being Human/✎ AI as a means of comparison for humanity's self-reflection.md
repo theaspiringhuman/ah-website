@@ -20,7 +20,7 @@ In _The Undiscovered Self_, Carl Jung reflects on humanity's inability to fully 
 
 ---
 
-AI provides a distinction between functions that are merely generative and those that are distinctly human, i.e. creative. [[creativity]]
+AI provides a distinction between functions that are merely generative and those that are distinctly human, i.e. [[creativity|creative]]. 
 
 ---
 
