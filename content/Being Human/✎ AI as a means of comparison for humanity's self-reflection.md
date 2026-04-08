@@ -33,5 +33,5 @@ AI provides a distinction between functions that are merely generative and those
 >"Among the many and enormous advantages of efficient automatic machinery is this: it is completely fool-proof. But every gain has to be paid for. The automatic machine is fool-proof; but just because it is fool-proof it is also grace-proof. The man who tends such a machine is impervious to every form of aesthetic inspiration, whether of human or of genuinely spiritual origin." [[The Perennial Philosophy - Aldous Huxley]] (pg. 171)
 
 >[!quote]
->"Industry without [[art]] is brutality" - [[John Ruskin]]
+>"Industry without [[art]] is brutality" - John Ruskin
 

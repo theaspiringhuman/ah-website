@@ -11,4 +11,4 @@ Well, here we are.
 
 #### Links to
 
-[[AI as a means of comparison for humanity's self-reflection]]
+[[✎ AI as a means of comparison for humanity's self-reflection]]
