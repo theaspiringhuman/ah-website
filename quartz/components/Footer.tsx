@@ -29,10 +29,8 @@ export default ((opts?: Options) => {
   If something here resonates,{" "}
   <a
   href="mailto:contact@theaspiringhuman.com"
-  onClick={(e) => {
-    e.preventDefault()
-    window.location.href = "mailto:contact@theaspiringhuman.com"
-  }}
+  target="_blank"
+  rel="noopener noreferrer"
 >
   contact@theaspiringhuman.com
 </a>
