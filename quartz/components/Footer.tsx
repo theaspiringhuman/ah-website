@@ -25,10 +25,15 @@ export default ((opts?: Options) => {
           <span>Aspiring Human · {year}</span>
           <img src="/static/footer.png" alt="Footer" />
         </div>
+         <p class="footer-contact">
+  If something here resonates,{" "}
+  <a href="mailto:contact@theaspiringhuman.com">
+    contact@theaspiringhuman.com
+  </a>
+</p>
       </footer>
     )
   }
-
   Footer.css = style
   return Footer
 }) satisfies QuartzComponentConstructor

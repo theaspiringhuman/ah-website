@@ -1,15 +1,60 @@
 footer {
   text-align: left;
+  margin-top: 3rem;
   margin-bottom: 4rem;
+  padding-bottom: 2rem;
   opacity: 0.7;
+}
 
-  & ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-    margin-top: -1rem;
-  }
+/* Nav links (if present) */
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-top: -1rem;
+}
+
+/* Centered inner content */
+.footer-inner {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Brand line */
+.footer-inner span {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+/* Footer image */
+.footer-inner img {
+  max-width: 120px;
+  opacity: 0.9;
+}
+
+/* Contact line */
+.footer-contact {
+  text-align: center;
+  font-size: 0.8rem;
+  opacity: 0.6;
+  margin-top: 1.5rem;
+  line-height: 1.4;
+}
+
+/* Email link */
+.footer-contact a {
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.footer-contact a:hover {
+  opacity: 1;
 }
