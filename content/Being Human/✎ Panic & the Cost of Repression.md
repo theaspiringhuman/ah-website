@@ -45,16 +45,15 @@ When the ego is at war with any or all of those realms, the instinctive world is
 
 ---
 
->[!quote]
-"It is a fact that if an impulse from one or the other sphere comes up and is not lived out, then it goes back down and tends to develop anti-human qualities. What should have been a human impulse becomes a tiger-like impulse." - [[Marie-Louise von Franz]]
+>[!quote] "It is a fact that if an impulse from one or the other sphere comes up and is not lived out, then it goes back down and tends to develop anti-human qualities. What should have been a human impulse becomes a tiger-like impulse." - [[Marie-Louise von Franz]]
 
 
->[!quote]
-![[Belonging - Remembering Ourselves Home - Toko-pa Turner#^quote66]]
+>[!quote] ![[Belonging - Remembering Ourselves Home - Toko-pa Turner#^quote66]]
 
 
 ---
 
-Links to:
+#### Links to
+
 [[You Might As Well Go After the Dragon]]
 [[✎ Externalizing Archetypes]]
