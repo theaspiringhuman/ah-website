@@ -6,7 +6,7 @@ Source: [[Tarot for Change - Jessica Dore]]
 ---
 ![[COSMIC-skull.png|400]]
 
-<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 9em;">
+<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 8em;">
   <em>Cosmic Skull</em>, 2025. Watercolor. Yours Truly.
 </p>
 
