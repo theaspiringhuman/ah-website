@@ -5,6 +5,7 @@ Tags: [[fear]] [[archetypes]] [[mythology]] [[integration]]
 Source: [Pan: The Archetypal Source of Panic Disorder](https://thisjungianlife.com/pan-archetype/#:~:text=Panic%20disorder%20has%20its%20roots,affects%20both%20individually%20and%20collectively.) - [[This Jungian Life]]
 
 ---
+### Panic - The Indirect Consequences of Repressed Instinct as Depicted by Pan, God of the Wild
 
 ![[pan-as-instinct.png|500]]
 <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 6em;">
@@ -56,4 +57,4 @@ When the ego is at war with any or all of those realms, the instinctive world is
 
 Links to:
 [[You Might As Well Go After the Dragon]]
-[[Tarot - Externalizing Archetypes so as not to be possessed by them]]
+[[Tarot - Externalizing Archetypes]]

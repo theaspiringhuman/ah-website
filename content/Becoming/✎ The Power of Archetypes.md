@@ -33,4 +33,4 @@ Anne Lamott has a different take - she suggests that writing, any kind of writin
 
 [[✎ Panic & the Cost of Repression]]
 
-[[Tarot - Externalizing Archetypes so as not to be possessed by them]]
+[[Tarot - Externalizing Archetypes]]
