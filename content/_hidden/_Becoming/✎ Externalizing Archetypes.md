@@ -1,6 +1,15 @@
 
 Date: 12-11-2024
 
+Source: [[Tarot for Change - Jessica Dore]]
+
+---
+![[COSMIC-skull.png|400]]
+
+<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 9em;">
+  <em>Cosmic Skull</em>, 2025. Watercolor. Yours Truly.
+</p>
+
 ---
 ### Externalizing Archetypes so as not to be possessed by them
 
@@ -33,5 +42,11 @@ To become conscious of our patterns so that we can be more whole, more conscious
 
 - you grow in self-knowledge
 - you become conscious of potentially harmful patterns
-- you gain more autonomy in your life [[Autonomy versus Autopilot]]
-- you become more creative, as these archetypal images dance around in your mind and generate all sorts of ideas for art
+- you gain more autonomy in your life
+- you become more [[creativity|creative]], as these archetypal images dance around in your mind and generate all sorts of ideas for [[art]]
+
+---
+
+#### Links to
+
+ [[✎ Autonomy versus Autopilot]]

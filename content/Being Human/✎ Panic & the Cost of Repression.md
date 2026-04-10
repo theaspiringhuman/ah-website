@@ -57,4 +57,4 @@ When the ego is at war with any or all of those realms, the instinctive world is
 
 Links to:
 [[You Might As Well Go After the Dragon]]
-[[Tarot - Externalizing Archetypes]]
+[[✎ Externalizing Archetypes]]
