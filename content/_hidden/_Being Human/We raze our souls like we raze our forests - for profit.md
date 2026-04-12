@@ -6,7 +6,11 @@ Source: #WalkingThoughts
 
 ---
 
-"The harm to nature is concomitant with the stunning of the psyches of humans. They are not and cannot be seen as separate from one another. When one group talks about how wrong the wild is, and the other group argues that the wild has been wronged, something is drastically wrong. In the instinctive psyche, the Wild Woman looks out on the forest and sees a home for herself and all humans. Yet others may look at the same forest and imagine it barren of trees and their pockets bursting with money." - [[Women Who Run with the Wolves - Clarissa Pinkola Estes]]
+![[our-forests.png]]
+
+---
+
+>[!quote] "The harm to nature is concomitant with the stunning of the psyches of humans. They are not and cannot be seen as separate from one another. When one group talks about how wrong the wild is, and the other group argues that the wild has been wronged, something is drastically wrong. In the instinctive psyche, the Wild Woman looks out on the forest and sees a home for herself and all humans. Yet others may look at the same forest and imagine it barren of trees and their pockets bursting with money." - [[Women Who Run with the Wolves - Clarissa Pinkola Estes]]
 
 ---
 
@@ -15,7 +19,6 @@ I read this last night and when I was out on a morning walk through the woods ne
 [[Charles Eisenstein]] talks about how the monetization of aspects of human life that were once intrinsic to [[community]] living (and thus free) continues to expand into deeper and more intimate aspects of life. Has it encroached on our very souls?
 
 ---
+#### Links to:
 
-Links to:
-[[Digital Deafness]]
 [[The Illusory Matrix]]

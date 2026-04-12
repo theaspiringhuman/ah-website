@@ -35,5 +35,3 @@ A flickering lamp, a phantom, and a dream.” - [The Diamond Sutra](https://ia80
 
 
 ---
-#### Links to:
-[[Now]]
