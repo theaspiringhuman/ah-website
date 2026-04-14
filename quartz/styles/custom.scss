@@ -236,3 +236,15 @@
     margin-left: 0.35rem;
   }
 }
+.image-caption {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: 0.75rem;
+  line-height: 1.4;
+}
+
+/* optional: make it feel more elegant */
+.image-caption em {
+  font-style: italic;
+}

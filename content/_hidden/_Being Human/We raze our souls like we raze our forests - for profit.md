@@ -7,7 +7,7 @@ Source: #WalkingThoughts
 ---
 
 ![[our-forests.png]]
-<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 24em;">
+<p class="image-caption">
   <em>Observations in the forest</em>, 2026.
 </p>
 

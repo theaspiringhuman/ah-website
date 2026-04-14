@@ -4,7 +4,7 @@ Links to: [[Medusa's Many Faces - The Evolution of a Myth - This Jungian Life]]
 
 ---
 ![[medusa-painting-megan-logan.png|400]]
-<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 9em;">
+<p class="image-caption">
   <em>Medusa</em>, 2024. Acrylic. Yours Truly.
 </p>
 
