@@ -4,10 +4,10 @@ Date: 12-11-2024
 Source: [[Tarot for Change - Jessica Dore]]
 
 ---
-![[COSMIC-skull.png|400]]
+![[privilege-of-a-lifetime.png|400]]
 
 <p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 8em;">
-  <em>Cosmic Skull</em>, 2025. Watercolor. Yours Truly.
+  <em>Privilege of a Lifetime</em>, 2025. Watercolor. Yours Truly.
 </p>
 
 ---
@@ -17,7 +17,7 @@ Source: [[Tarot for Change - Jessica Dore]]
 
 ---
 
-[[Carl Jung|Jung]] talks about how it can be dangerous to be ignorant of [[archetypes]] because they can come to possess us if we don't know their meaning and their context in our lives. I see tarot as an excellent way to externalize and understand the archetypal themes of our psyche, and thus protecting us from possession. 
+[[Carl Jung|Jung]] talks about how it can be dangerous to be ignorant of [[archetypes]] because they can come to possess us if we don't know their meaning and their context in our lives. I see tarot as an excellent way to externalize and understand the archetypal themes of our psyche, and thus to protect us from possession. 
 
 "The archetypes represented in the tarot are ancient and universal energies that live within us all. When we are unconscious of them, they can take on a life of their own, manifesting as feelings or behaviors that seem beyond our control. But when we engage with them intentionally—through reflection, ritual, or creative practices—we can learn from them, develop a relationship with them, and reclaim our agency in the process." - [[Tarot for Change - Jessica Dore]]
 
