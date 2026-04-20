@@ -1,6 +1,6 @@
 **Date:** 03-12-2024
 
-#videojournal 
+Tags: [[video journals]]
 
 
 <div class="yt-square">
