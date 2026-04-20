@@ -1,6 +1,6 @@
 **Date:** 05-28-2025
 
-Tags: [[video journals]]
+Tags: [[content/_hidden/Topics/video journals]]
 
 
 <div class="yt-square">
