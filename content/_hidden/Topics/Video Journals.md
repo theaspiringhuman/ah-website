@@ -19,4 +19,4 @@ Most of these video journals will never be published. That is part of their valu
 
 But occasionally, while watching them back, I find something that feels true enough, human enough to share.
 
-#### Here is a collection of those moments:
+#### Here is a collection of those moments.
