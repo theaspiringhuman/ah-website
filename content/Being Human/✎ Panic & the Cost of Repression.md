@@ -7,10 +7,12 @@ Source: [Pan: The Archetypal Source of Panic Disorder](https://thisjungianlife.c
 ---
 ### Panic - The Indirect Consequences of Repressed Instinct as Depicted by Pan, God of the Wild
 
+<div class="centered-image">
+
 ![[pan-as-instinct.png|500]]
-<p style="font-size: 0.7em; color: var(--text-muted); margin-top: 0em; margin-left: 6em;">
-  <em>Pan's Boons</em>, 2025. Digital Composite. Yours Truly.
-</p>
+
+<p class="image-caption"><em>Pan's Boons</em>, 2025. Digital Composite. Yours Truly.
+</p></div>
 
 ---
 ### [[Pan - God of the Wild|PAN]]: the archetypal source of [[panic]] disorder
@@ -54,7 +56,5 @@ When the ego is at war with any or all of those realms, the instinctive world is
 ---
 
 #### Links to
-
-[[You Might As Well Go After the Dragon]]
 
 [[✎ Externalizing Archetypes]]
