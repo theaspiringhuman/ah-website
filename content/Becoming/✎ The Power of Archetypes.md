@@ -6,7 +6,11 @@ Source: [[Bird by Bird - Anne Lamott]]
 
 ---
 
+<div class="centered-image">
+
 ![[tarot-writing.png|700]]
+
+</div>
 
 ---
 #### "The great writers keep writing about the cold dark place within, the water under a frozen lake or the secluded, camouflaged hole. The light they shine on this hole, this pit, helps us cut away or step around the brush and brambles; then we can dance around the rim of the abyss, holler at it, measure it, throw rocks in it, and still not fall in. It can no longer swallow us up. And we can get on with things...

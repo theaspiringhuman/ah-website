@@ -5,11 +5,13 @@ Tags: [[nature]] [[materialism]]
 Source: #WalkingThoughts 
 
 ---
+<div class="centered-image">
 
-![[our-forests.png]]
+![[our-forests.png|500]]
+
 <p class="image-caption">
   <em>Observations in the forest</em>, 2026.
-</p>
+</p></div>
 
 ---
 

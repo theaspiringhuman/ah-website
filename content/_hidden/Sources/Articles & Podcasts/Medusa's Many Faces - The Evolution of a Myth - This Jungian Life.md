@@ -5,11 +5,12 @@ Source: [An Episode of This Jungian Life](https://player.fm/series/this-jungian-
 Tags: [[shadow]] [[unconscious]] [[mythology]] [[archetypes]]
 
 ---
+<div class="centered-image">
 
 ![[medusa-painting-megan-logan.png|500]]
-<p class="image-caption">
-  <em>Medusa</em>, 2024. Acrylic. Yours Truly.
-</p>
+
+<p class="image-caption"><em>Medusa</em>, 2024. Acrylic. Yours Truly.</p>
+</div>
 
 ---
 

@@ -4,11 +4,13 @@ Date: 12-11-2024
 Source: [[Tarot for Change - Jessica Dore]]
 
 ---
+<div class="centered-image">
+
 ![[privilege-of-a-lifetime.png|400]]
 
 <p class="image-caption">
   <em>Privilege of a Lifetime</em>, 2025. Watercolor. Yours Truly.
-</p>
+</p></div>
 
 ---
 ### Externalizing Archetypes so as not to be possessed by them

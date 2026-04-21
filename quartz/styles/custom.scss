@@ -248,3 +248,18 @@
 .image-caption em {
   font-style: italic;
 }
+.centered-image {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.centered-image img {
+  display: block;
+  margin: 0 auto;
+}
+
+.centered-image .image-caption {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  opacity: 0.8;
+}
