@@ -5,6 +5,15 @@ Tags: [[creativity]]
 Source: #Journals [[Randolph Black]]
 
 ---
+<div class="centered-image">
+
+![[hamnet-end-scene-edit.png]]
+
+<p class="image-caption">
+  <em>Still from Hamnet</em>, 2025.
+</p></div>
+
+---
 
 Last night I listened to [a podcast](https://creators.spotify.com/pod/profile/untimely-reflections/episodes/112-Leo-Tolstoy---What-is-Art-e3011sk/a-abqutnk) discussing [[Leo Tolstoy]]'s essay, [*What is Art*](https://www.google.com/books/edition/What_is_Art/0SYVAAAAYAAJ?hl=en&gbpv=1), & it captivated me. Mainly the idea, which seems so obvious in hindsight, but which has long eluded me, that art is a form of *communication*. It is a way for the artist to draw others into an intimate [[connection]] with her inner world, & above all:
 ### In the same way that language is used to communicate information, so is [[art]] used to communicate **emotion**.
