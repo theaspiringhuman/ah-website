@@ -263,3 +263,12 @@
   font-size: 0.95rem;
   opacity: 0.8;
 }
+/* Hide folder item count text */
+.page-listing .content-meta {
+  display: none !important;
+}
+
+/* Hide dates on folder listing entries */
+.page-listing .meta {
+  display: none !important;
+}
