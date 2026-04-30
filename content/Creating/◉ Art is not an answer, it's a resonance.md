@@ -35,7 +35,7 @@ My art feels so much more personal than I am comfortable with, as I am someone w
 
 My brutal inner critic convinces me that there is nothing within me that hasn’t been said before, and better.
 
-I sometimes feel the urge to burn all of my #journals in a ritual fire.
+I sometimes feel the urge to burn all of my #Journals in a ritual fire.
 
 But then sometimes I feel something. Something that wants to be communicated in spite of me.
 
