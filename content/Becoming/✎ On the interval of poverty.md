@@ -6,6 +6,8 @@ Source: #Journals [[Randolph Black]]
 
 ---
 
+### & the fear that I may never return
+
 <div class="centered-image">
 
 ![[ozarks.png]]
