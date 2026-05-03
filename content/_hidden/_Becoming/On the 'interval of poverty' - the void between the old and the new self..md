@@ -6,16 +6,24 @@ Source: #Journals [[Randolph Black]]
 
 ---
 
+<div class="centered-image">
+
+![[ozarks.png]]
+
+<p class="image-caption"><em>The Ozarks</em>, 2023.</p></div>
+
+
+---
+
 I have felt for a long time that I'm in a season of incubation. Like something is wanting to be birthed through me, only I'm not entirely sure of what it's going to shape up to be. 
 
-It's been incredibly difficult to be in this identity-less void of a place, & to have absolutely **NO** desire to re-enter the world. Each day I feel more & more estranged from [[society]], & on some days, I feel deeply worried that I may never return. That I'll just float away into my own little world & perhaps lose touch with [[reality]] altogether. 
+It's been incredibly difficult to be in this identity-less void of a place, & to have absolutely no desire to re-enter the world. Each day I feel more & more estranged from [[society]], & on some days, I feel deeply worried that I may never return. That I'll just float away into my own little world & perhaps lose touch with [[reality]] altogether. 
 
 It's comforting to find evidence that others have experienced what I'm going through now. In fact, [[Marion Woodman]] wrote an entire book about this "incubation" phase of [[individuation]] called, *[The Pregnant Virgin](https://archive.org/details/pregnantvirginpr00wood)*. In it, she speaks directly to this "interval of poverty" as a time of gestation for the new Self. She says the poverty (whether literal or metaphorical or both) is like protection for the soul's growth. It's a time when the old [[identity]] & familiar structures (ambition, achievement, stability) have fallen away, but the new life has not yet materialized.
 
 Woodman describes this collapse of old structures as a "necessary emptiness" & claims that the soul must be completely emptied of all that is false before new life can rush in to fill the void.
 
 During this liminal phase, money, ambition, & external validation disappear. It's like a fast for the psyche. A fast from all that once nourished it (approval, control, productivity). This phase isn't punishment though. According to Woodman, it's more of a protection for the fragile new consciousness, which could easily be overwhelmed by old patterns if abundance came before its time. The poverty becomes a sort of cocoon that slows you down, forces you to go within, & keeps the ego from running off & trying to use the new energy in old ways. 
-
 #### "Poverty (or dryness, or emptiness in terms of productivity our outer-world efficacy) can be a womb that protects the emerging soul."
 
 When you're carrying something new within you, you must protect it through [[solitude]] & discipline & trust, until it's ready to emerge. This is a lot like a mother's womb, enveloping the infant in a dark void of safe containment. Hence the "pregnant virgin" [[archetypes|archetype]]. 
