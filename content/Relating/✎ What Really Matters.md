@@ -23,5 +23,6 @@ This hit me as a revelation.
 ---
 
 Links to
-[[My Garden]]
-[[Everyone is suffering, when your heart breaks you cry, love is all that matters]]
+
+[[✎ Love is like gold]]
+
