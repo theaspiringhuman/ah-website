@@ -7,7 +7,7 @@ Source: #Journals [[Tree of Life]]
 ---
 <div class="centered-image">
 
-![[like-gold.png]]
+![[like-gold.png|500]]
 
 </div>
 
