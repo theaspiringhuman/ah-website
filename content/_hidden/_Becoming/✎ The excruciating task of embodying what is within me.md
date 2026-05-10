@@ -2,7 +2,7 @@ Date: 04-11-2026
 
 Tags: [[self-expression]] [[embodiment]] [[transformation]]
 
-Source: #Journals [[Desert Beige]]
+Source: #Journals 
 
 ---
 
