@@ -4,7 +4,11 @@ Source: #LittleNotebooks [[Little Orwell]]
 
 ---
 
-![[dandelion.png]]
+<div class="centered-image">
+
+![[dandelion.png|700]]
+
+</div>
 
 ---
 
