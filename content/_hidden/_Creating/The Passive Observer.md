@@ -2,7 +2,7 @@ Tags: [[society]] [[illusion]] #art
 
 <div class="centered-image">
 
-![[Passive-Observer.mp4|6]]
+<video src="Passive-Observer.mp4" width="400" controls></video>
 
 <p class="image-caption">
   <em>The Passive Observer</em>, 2022. Digital Animation. Yours truly.
