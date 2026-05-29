@@ -1,4 +1,4 @@
-Tags: [[self-trust]] [[self-discovery]] 
+Tags: [[self-trust]] [[self-discovery]] #poems
 
 Source: #LittleNotebooks [[Little Orwell]]
 
