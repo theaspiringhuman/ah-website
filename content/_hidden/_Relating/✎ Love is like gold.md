@@ -11,7 +11,7 @@ Source: #Journals [[Tree of Life]]
 
 I see so many suffering for lack of love. Myself included.
 
-[[love]] is like gold... a little goes such a long way.
+[[love|Love]] is like gold... a little goes such a long way.
 
 And yet we keep our love close to our chests
 
@@ -21,5 +21,5 @@ We are all afraid.
 
 Afraid of being hurt, or abandoned, or betrayed. 
 
-Our [[fear]]s are our prisons-
+Our [[fear|fears]] are our prisons-
 the cages that keep us from dancing with the ones we love. 
