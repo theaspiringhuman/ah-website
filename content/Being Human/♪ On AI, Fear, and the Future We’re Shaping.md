@@ -14,7 +14,7 @@
 </div>
 
 ---
-*After a two-day deep dive down a dark AI rabbit hole, I finally decided to choose hope over fear. I had a sort of epiphany about the importance of our thoughts and what we radiate out into the world in terms of how it shapes our technologies and even the world we see reflected back to us. We are not helpless victims of a dystopian future. We are powerful agents of change and we are the vessels through which a more beautiful, more human world will be made manifest.*
+*After a two-day deep dive down a dark AI rabbit hole, I finally decided to choose hope over fear. I had a sort of epiphany about the importance of our thoughts and what we radiate out into the world in terms of how it shapes our technologies and even the world we see reflected back to us. We're not helpless victims of a dystopian future. We're powerful agents of change and we are the vessels through which a more beautiful, more human world will be made manifest.*
 
 ---
 

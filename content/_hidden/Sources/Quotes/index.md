@@ -4,4 +4,4 @@ title: Quotes
 
 ![[images/quotes-hero.jpg]]
 
-A small cabinet of medicine. Lines that helped me see, endure, or reorient.
+Here are some quotes from people who have inspired me. Some of these quotes have saved me in many ways.
