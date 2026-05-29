@@ -1,12 +1,14 @@
 Tags: [[society]] [[illusion]] #art
 
-<div class="centered-image">
 
-<video src="Passive-Observer.mp4" width="400" controls></video>
+
+<div align="center">
+  <video src="Passive-Observer.mp4" width="500" controls></video>
+</div>
 
 <p class="image-caption">
   <em>The Passive Observer</em>, 2022. Digital Animation. Yours truly.
-</p></div>
+</p>
 
 ---
 **The passive observer lives out his adventures through a screen as his life passes him by.**
