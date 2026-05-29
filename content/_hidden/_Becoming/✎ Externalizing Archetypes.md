@@ -3,6 +3,8 @@ Date: 12-11-2024
 
 Source: [[Tarot for Change - Jessica Dore]]
 
+Tags: #art
+
 ---
 <div class="centered-image">
 
