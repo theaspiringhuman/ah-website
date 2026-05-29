@@ -288,3 +288,65 @@
 "You can have the [[happiness]] you've always wanted--that is, if you allow yourself to be [[transformation|transformed]] in the process."
 
 - pg 151
+
+---
+
+
+"The promise of a return to the mythic Edenic state is one of the most powerful forces in human life. Much that is harmful in what we do--and what we fail to do--is defined by it. We objectify the earth and each other in a frantic attempt to get what we think we need to be [[happiness|happy]]. The irony is that *we can and do return to safety, [[love]], and [[abundance]], but only as a result of taking our journeys*. Understandable, most people seem to want to skip theirs and go straight to the reward!"
+
+- pg 153
+
+---
+
+"The child in us imagines paradise as the place where all our narcissistic whims are satisfied. Growing up requires us to let go of this fantasy so that we can do the hard work of gaining competence in both the inner and outer worlds. The reward at journey's end is the experience of entering the promised land. However, this does not mean that we get all the toys we ever wanted. Rather, it is a state of consciousness that requires a deep acknowledgement and reverence for ourselves and others."
+
+- pg 154
+
+---
+
+"Virtue often is used to camouflage cowardice. Much of the appeal of dogma in religion is that it gives its followers rules to follow that rescue them from having to find out who they are and what they really think. Organizational development approaches that offer an easy right answer attract a ready following, as do books that promise instant [[success]] or enlightenment. Similarly, many people are attached to traditional sex and work roles because they provide a surrogate identity that makes the uncertainty of the journey appear unnecessary."
+
+- pg 157
+
+---
+
+"Generally, we are not defeated in some dramatic and noticeable way. Rather, we are defeated by any number of small acts of self-betrayal masquerading as virtue that add up, over time, to an inauthentic life."
+
+- pg 160
+
+---
+
+#### "We must remember that no one else ever can tell us what our life is about. Only we can know. Often, our heroic calling will make others around us uncomfortable."
+
+- pg 160
+
+---
+
+"God says, 'Let there be light,' and there is light. God names [[reality]], and then it exists. If we think of ourselves as co-creators of our lives, we can interpret this story as a reminder of the need we all have to find our true voices. When we have a vision of what we want and verbalize that vision, we begin the process of manifesting a life just perfect for us."
+
+- pg 161
+
+---
+
+"When the goddess gives birth to something out of nothing, her creation comes out of her body, not her mind. Similarly, we may labor long to give birth to something, not being quite sure what we are birthing. Our lives may seem to us not so much something we chose as something that has chosen us, and we may [[fear]] that the process will miscarry. Few things are certain, and once the process is under way, it takes on a life of its own."
+
+- pg 161
+
+---
+
+"Anyone who writes, paints, or composes knows about receiving help from the muse. The feeling is not so much that you are creating [[art]], but that art is being created through you."
+
+- pg 161
+
+---
+
+"When we are Orphans, we do not identify with creators. We may see [[God]] as a creator, but way above us and distant. We may imagine especially talented people as creative, but we do not regard ourselves as participants in the [[creativity|creative]] process. Indeed, we may see ourselves as being at the mercy of fate or of people with power. As Wanderers, we flee to save ourselves from those who would define our fate, and as Warriors we fight to protect our [[boundaries]] against them. As Altruists, we participate in the cosmic process of destruction and creation by allowing ourselves to be sacrificed, if necessary, to ensure rebirth. Only when we have gone through all of these stages can the Innocent reemerge with the assurance that we are co-creators of our lives. When this happens, we are ready for the return from the journey."
+
+- pg 162
+
+---
+
+"As we become more and more who we are, and hence link up with others with whom we feel a deep [[connection]], we have more, and more satisfying, relationships. The reward for the hero's inevitably [[loneliness|solitary]] journey, then, is [[community]]--community with the self, with other people, and with [[nature]] and spirit. At the end of the journey, the hero feels and *is* at home."
+- pg 163
+
+---

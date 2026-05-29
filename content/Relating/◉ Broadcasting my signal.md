@@ -20,3 +20,5 @@ Tags: [[video journals]]
 *It would still be many months after this recording that I would finally take action on the digital garden. Such is my apprehension when it comes to sharing and being seen.*
 
 ---
+
+> [!quote] "As we become more and more who we are, and hence link up with others with whom we feel a deep [[connection]], we have more, and more satisfying, relationships. The reward for the hero's inevitably [[loneliness|solitary]] journey, then, is [[community]]--community with the self, with other people, and with [[nature]] and spirit. At the end of the journey, the hero feels and *is* at home." - [[The Hero Within - Carol S. Pearson]]
