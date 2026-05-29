@@ -3,10 +3,13 @@ Tags: [[transformation]] [[archetypes]]
 Links to: [[Medusa's Many Faces - The Evolution of a Myth - This Jungian Life]]
 
 ---
+<div class="centered-image">
+
 ![[medusa-painting-megan-logan.png|400]]
+
 <p class="image-caption">
   <em>Medusa</em>, 2024. Acrylic. Yours Truly.
-</p>
+</p></div>
 
 ---
 ## 🐍 **Medusa**

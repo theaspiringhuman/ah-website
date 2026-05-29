@@ -4,11 +4,7 @@ Source: #LittleNotebooks [[Little Orwell]]
 
 ---
 
-<div class="centered-image">
-
-![[dandelion.png|700]]
-
-</div>
+![[dandelion.png|500]]
 
 ---
 
@@ -46,7 +42,7 @@ and I asked the dirt for discernment
 
 From the dark of the deep
 
-*Like a memory asleep*
+Like a memory asleep
 
 Came a voice like the settling of snow
 
