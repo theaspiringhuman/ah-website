@@ -13,13 +13,15 @@ Source: #Journals [[Tree of Life]]
 
 ---
 
-I see so many suffering for lack of love. Myself included. 
+I see so many suffering for lack of love. Myself included.
 
 [[love]] is like gold... a little goes such a long way.
 
-And yet we keep our love close to our chest just like a miser would hoard his gold. 
+And yet we keep our love close to our chests
 
-We are all afraid. 
+like a miser would hoard his gold.
+
+We are all afraid.
 
 Afraid of being hurt, or abandoned, or betrayed. 
 
