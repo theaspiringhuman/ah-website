@@ -33,4 +33,4 @@ I would like to make [[art]] and travel the world. I would like to find some pla
 ---
 #### Links to
 
-[[✎ It is so beautiful tragic to be human]]
+[[✎ It is so beautifully tragic to be human]]

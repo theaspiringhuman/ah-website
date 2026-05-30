@@ -26,4 +26,4 @@ when we'd finally see the bigger picture of our collective anguish?
 
 [[✎ Everyone is suffering, & when your heart breaks you cry]]
 
-[[✎ It is so beautiful tragic to be human]]
+[[✎ It is so beautifully tragic to be human]]
