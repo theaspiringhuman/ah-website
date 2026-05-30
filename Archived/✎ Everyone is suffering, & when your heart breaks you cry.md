@@ -1,6 +1,6 @@
 Date: 01-17-2024 
 
-Tags: [[self-acceptance]] [[loss]] 
+Tags: [[self-acceptance]] [[loss]] [[heartbreak]]
 
 Source: #Journals [[Blue Stars]]
 
@@ -21,18 +21,6 @@ In one episode, Duncan Trussell and his mom (who died shortly after the recordin
 And of course this made *me* cry. 
 
 ---
-
-Nothing matters more than [[love]]. 
-Not my career.
-Not my individual purpose. 
-Not any achievement on the earth. 
-
-Draw me back to [[love]].
-I wander... I wander into selfishness. 
-
-Life is in this moment [[Now|now]]. What is all the worry for? Why try to figure it all out? I have been so terrified of finding myself one day living with regret that I find myself now not living at all. 
-
----
 ### "There is no coming to consciousness without pain." - [[Carl Jung]]
 
 ---
@@ -43,11 +31,6 @@ And how do I want the rest of my life to go?
 I would like to make [[art]] and travel the world. I would like to find some place I belong. I'd like to [[love]] and be loved. I would like to boldly and beautifully express what this human experience is like for me.
 
 ---
+#### Links to
 
-Links to
-
-[[It is so beautifully tragic to be human.]]
-
-[[Suffering as a Gift and a Teacher]]
-
-[[Connection at the Core]]
+[[✎ It is so beautiful tragic to be human]]
