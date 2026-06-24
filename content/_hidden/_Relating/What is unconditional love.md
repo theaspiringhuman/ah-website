@@ -1,6 +1,6 @@
 Date: 2025-03-03
 
-Tags: [[love]] [[connection
+Tags: [[love]] [[connection]]
 
 ---
 ## What is Unconditional Love?
