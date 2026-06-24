@@ -1,7 +1,5 @@
 Date: 2025-03-04
 
-Category: #spiritualexploration 
-
 Tags: [[truth]] [[love]] 
 
 Source: #Journals [[Green & Gold Wishes]]
