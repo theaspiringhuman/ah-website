@@ -13,6 +13,6 @@ Always I [[wonder]] why I'm here
 & in my wondering I look past the purpose of it all 
 which is just to live. 
 The tree doesn't ask why it is.
-The ocean is content to spread out on the earth and just flow.
+The ocean is content to spread out upon the earth and just flow.
 The animals frolic in [[nature]] and never ask why.
 Why do I?
