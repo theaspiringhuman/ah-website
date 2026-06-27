@@ -1,7 +1,5 @@
 **Date:** 02-11-2025
 
-#audiothoughts 
-
 Source: #Journals [[Green & Gold Wishes]]
 
 ---
