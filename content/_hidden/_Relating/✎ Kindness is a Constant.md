@@ -1,6 +1,6 @@
 **Date:** 03-07-2025
 
-Tags: #audiothoughts #poetry 
+Tags: #audiothoughts #poems 
 
 Source: #Journals [[Green & Gold Wishes]]
 
