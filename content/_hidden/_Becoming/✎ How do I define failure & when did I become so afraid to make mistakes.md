@@ -26,7 +26,7 @@ I wasn't always this indecisive...
 I used to be quick to take action. I wasn't so afraid of making mistakes. 
 
 ---
-### **"If one listens to the faintest but constant suggestions of his genius, which are certainly true, he sees not to what extremes, or even insanity, it may lead him; & yet that way, as he grows more resolute & faithful, his road lies... No man ever followed his genius until it misleads him... If the day & night are such that you greet them with joy, & life emits a fragrance like flowers & sweet scented herbs, is more elastic, more starry, more immortal--that is your [[success]]." - [[Henry David Thoreau]]
+### **"If one listens to the faintest but constant suggestions of his genius, which are certainly true, he sees not to what extremes, or even insanity, it may lead him; & yet that way, as he grows more resolute & faithful, his road lies... No man ever followed his genius until it misled him... If the day & night are such that you greet them with joy, & life emits a fragrance like flowers & sweet scented herbs, is more elastic, more starry, more immortal--that is your [[success]]." - [[Henry David Thoreau]]
 
 
 ---
