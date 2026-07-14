@@ -18,7 +18,7 @@ She remains calm & steady
 
 Down go her roots into the earth
 
-& up she lifts her head into the sky
+& up she lifts her head to the sky
 
 Seasons pass through her & strengthen her substance
 
@@ -29,7 +29,7 @@ Each one a witness to & a beneficiary of her compassionate care
 
 Some would grow up around her body & threaten to consume her 
 
-to take for themselves her substance
+to take for themselves her essence
 
 (but can kindness be received in this way?)
 
