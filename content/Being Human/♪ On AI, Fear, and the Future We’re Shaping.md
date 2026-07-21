@@ -1,6 +1,6 @@
 **Date:** 06-10-2025
 
-#audiothought 
+#audiothoughts 
 
 <div class="audio-essay">
   <iframe
