@@ -1,7 +1,7 @@
 
 Date: 10-20-2023
 
-Tags: [[Evil]] [[reality]] [[suffering]] 
+Tags: [[evil]] [[reality]] [[suffering]] 
 
 Source: #Journals [[Gray Mandala]]
 
