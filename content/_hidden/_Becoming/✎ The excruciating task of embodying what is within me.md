@@ -20,7 +20,7 @@ Why is it so difficult for me?
 
 All my life I've played a role--morphing myself into whatever I imagined others wanted me to be. People often seemed most comfortable with the smaller version of me, & so I intentionally reflected back to people the qualities I knew they wanted to see in themselves. 
 
-Never taking up too much space in a relationship, I have been a chameleon. I have not been myself. & now that I'm allowing my true self to emerge, I notice people shifting around me & not knowing how to respond to me. It's not their fault--I have trained them to see me as a passive [[people-pleasing|sycophant]], how can I expect them to understand when I am no longer what they know me to me?
+Never taking up too much space in a relationship, I have been a chameleon. I have not been myself. & now that I'm allowing my true self to emerge, I notice people shifting around me & not knowing how to respond to me. It's not their fault--I have trained them to see me as a passive [[people-pleasing|sycophant]], how can I expect them to understand when I am no longer what they know me to be?
 
 However, it is disorienting to watch the world around me shift as people reflect back to me something new. Once, the most important thing to me was the approval of other people, & so that's what I got. "Everyone likes Megan," was a phrase I heard all too often. I felt safe in knowing I was liked. 
 #### But being liked & being respected are not at all the same, & I was constantly being disrespected in ways big & small. 
