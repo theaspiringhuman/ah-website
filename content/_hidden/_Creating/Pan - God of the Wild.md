@@ -25,5 +25,7 @@ Quotes from [Puer Aeternus by Marie-Louise von Franz](https://archive.org/detail
 
 [[✎ Panic & the Cost of Repression]]
 
+[[◉ Pan as an Archetype for Fear]]
+
 
 ---
