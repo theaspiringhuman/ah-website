@@ -14,4 +14,4 @@ Tags: [[video journals]]
 
 ---
 
-I'm learning the power of accepting uncertainty.
+I am learning to reside in the unknown, to embrace uncertainty, and to allow myself to revel in the journey itself. 
