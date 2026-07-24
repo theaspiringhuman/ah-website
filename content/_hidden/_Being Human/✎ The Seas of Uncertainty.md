@@ -34,7 +34,7 @@ The seas calm and the clouds break open to reveal a fresh sun, seen from a new v
 ---
 
 >[!quote]
-"He who would gather immortal palms must not be hindered by the name of goodness, but must explore if it be goodness. Nothing is at last sacred but the integrity of your own mind. Absolve you to yourself, and you shall have the suffrage of the world." - [[Ralph Waldo Emerson]]
+>"He who would gather immortal palms must not be hindered by the name of goodness, but must explore if it be goodness. Nothing is at last sacred but the integrity of your own mind. Absolve you to yourself, and you shall have the suffrage of the world." - [[Ralph Waldo Emerson]]
 
 ---
 
