@@ -6,6 +6,13 @@ Source: #Journals [[Gray Cloth]]
 
 ---
 
+![[living-room.jpg]]
+
+*Living Room*, 2026. Composite Photo. Yours Truly.
+
+---
+#### The Whole Picture
+
 A copy of a copy of a copy
 
 is our world
