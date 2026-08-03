@@ -2,7 +2,7 @@
 title: hi :)
 ---
 
-<img src="homepage.png">  
+![[content/_hidden/site images/personal images/homepage.png]]
 
 <div style="text-align: center;">  
 
