@@ -2,8 +2,9 @@
 title: hi :)
 ---
 
-<img src="homepage.png" width="">  
+<img src="homepage.png" width="600">  
 
+<div style="text-align: center;">  
 
 #### "When we bring what is within out into the world, miracles happen." 
 [[Henry David Thoreau]]
