@@ -6,7 +6,7 @@ Source: #Journals [[Green & Gold Wishes]]
 
 ---
 
-I read a short story by Franz Kafka last night called 'Before the Law'. It was about a man who wishes to enter 'The Law' but is prevented by a certain gatekeeper who tells him he cannot enter. The gatekeeper insists that even if the man gets past him, which would be very difficult because he is so powerful, there are still yet even more powerful and dreadful gatekeepers the man would have to contend with before he could enter The Law. 
+I read a short story by Franz Kafka last night called '[Before the Law](http://www.kyoolee.net/Before_the_Law_-_Kafka.pdf)'. It was about a man who wishes to enter 'The Law' but is prevented by a certain gatekeeper who tells him he cannot enter. The gatekeeper insists that even if the man gets past him, which would be very difficult because he is so powerful, there are still yet even more powerful and dreadful gatekeepers the man would have to contend with before he could enter The Law. 
 
 ![[before-the-law-kafka.png]]
 
@@ -28,4 +28,4 @@ And how do we get past these gatekeepers? That is, if we are brave enough to fac
 
 Links to:
 
-[[Fear Prevents us From the Fulness of Life]]
+[[✎ Fear Prevents us From the Fulness of Life]]

@@ -10,7 +10,7 @@ Date: 12-15-2024
 
 I'll be the first to admit that when I get anxiety, all I want to do is find a way to make it go away. It's an extremely uncomfortable sensation. It can feel out-of-body, alienating, and terrifying. We live in a world that makes very little room for the expression of anxiety, even though most of us experience it in some degree or another. 
 
-[[Fear Prevents us From the Fulness of Life]]
+[[✎ Fear Prevents us From the Fulness of Life]]
 
 ---
 #### What if we make space for anxiety and allow it to teach us?

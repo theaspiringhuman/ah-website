@@ -1,6 +1,6 @@
 Date: 2025-03-04
 
-Tags: [[truth]] [[love]] 
+Tags: [[truth]] [[love]] #poems 
 
 Source: #Journals [[Green & Gold Wishes]]
 
@@ -19,5 +19,5 @@ Magnetism draws like to like, & the [[truth]] is indivisible from [[love]]. The 
 ---
 #### Links to
 
-[[What is Unconditional Love]]
+[[What is unconditional love]]
 

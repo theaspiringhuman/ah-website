@@ -33,7 +33,7 @@ I have been alone in my little castle for so long...
 
 ---
 
-### **Links to:
+#### Links to
 
 [[◉ Broadcasting my signal]]
 

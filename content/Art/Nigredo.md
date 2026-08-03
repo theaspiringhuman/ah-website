@@ -3,6 +3,9 @@ Tags: [[suffering]] [[transformation]] [[archetypes]] #art
 Links to: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://thisjungianlife.com/episode-107-nigredo-finding-light-in-our-darkness/)
 
 ---
+
+#### Nigredo - The Blackening
+
 <div class="centered-image">
 
 ![[watercolor-nigredo.png|400]] 
@@ -13,4 +16,4 @@ Links to: [This Jungian Life: "Nigredo: finding Light in our Darkness"](https://
 
 ---
 
-So lonely I could die.
+*So lonely I could die.*
