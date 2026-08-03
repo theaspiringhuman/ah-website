@@ -2,7 +2,7 @@
 title: hi :)
 ---
 
-<img src="homepage.png" width="600">  
+<img src="homepage.png" width="">  
 
 <div style="text-align: center;">  
 
