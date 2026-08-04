@@ -67,7 +67,7 @@ September 2019
 
 <div class="portrait-closing-quote">
 
-> "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us." - Dada Gunamaktananda
+> "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us."
 
 </div>
 
@@ -77,7 +77,7 @@ September 2019
 
 <div class="portrait-previous">
 
-← [[Huxley]]
+← [[Tribal Woman]]
 
 </div>
 
