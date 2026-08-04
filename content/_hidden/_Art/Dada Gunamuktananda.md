@@ -13,7 +13,7 @@ date: 2019-09-02
 
 [← Back to Art](art)
 
-## Dada Gunamuktananda
+# Dada Gunamuktananda
 
 <div class="portrait-role">
 
@@ -65,13 +65,9 @@ September 2019
 
 </div>
 
----
-
 <div class="portrait-closing-quote">
 
-> "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us."
-
-- Dada Gunamaktananda
+> "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us." - Dada Gunamaktananda
 
 </div>
 
