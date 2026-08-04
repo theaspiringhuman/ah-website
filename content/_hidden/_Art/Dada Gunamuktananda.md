@@ -13,7 +13,7 @@ date: 2019-09-02
 
 [← Back to Art](art)
 
-# Dada Gunamuktananda
+## Dada Gunamuktananda
 
 <div class="portrait-role">
 
@@ -25,25 +25,15 @@ Spiritual Teacher • Philosopher • Writer
 >
 > — Dada Gunamuktananda
 
-## About this portrait
+### About this portrait
 
-I first encountered Dada's writings while...
+I first encountered Dada's work when I saw him give a TED talk. 
 
-What struck me most was...
-
-This portrait became an attempt to communicate not simply his likeness, but the quality of presence that his words evoke.
+What struck me most was not necessarily his words but his sincerity. He is one of the few who speak from the heart, & who mean what they say from the depths of their souls.
 
 ---
 
-## Process
-
-This piece began as a graphite sketch before gradually becoming a study in ink linework.
-
-The fragmented face reflects the many identities we construct before recognizing the deeper self beneath them.
-
----
-
-## Details
+### Details
 
 **Medium**  
 Ink, marker & colored pencil
@@ -79,11 +69,9 @@ September 2019
 
 <div class="portrait-closing-quote">
 
-> "We are not human beings having a spiritual experience.
->
-> We are spiritual beings having a human experience."
+> "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us."
 
-— Pierre Teilhard de Chardin
+- Dada Gunamaktananda
 
 </div>
 
