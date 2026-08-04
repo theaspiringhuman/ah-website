@@ -1,8 +1,9 @@
 ---
 title: hi :)
 ---
+![[homepage-2.png]]
 
-![[a-h-homepage.png]]
+
 
 
 <div style="text-align: center;">  
