@@ -4,7 +4,7 @@ description: Portrait study of Dada Gunamuktananda
 tags:
   - portrait
   - art
-date: 2024-04-12
+date: 2019-09-02
 ---
 
 <div class="portrait-page">
@@ -55,7 +55,7 @@ Strathmore 400 Gray Toned
 5.75 × 8.6"
 
 **Completed**  
-April 2024
+September 2019
 
 </section>
 

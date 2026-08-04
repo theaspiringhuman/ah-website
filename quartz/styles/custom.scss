@@ -272,3 +272,344 @@
 .page-listing .meta {
   display: none !important;
 }
+```scss
+/* =========================================================
+   INDIVIDUAL PORTRAIT PAGES
+   ========================================================= */
+
+/*
+  Main two-column layout:
+  text/details on the left, artwork on the right.
+*/
+.portrait-page {
+  display: grid;
+  grid-template-columns: minmax(230px, 0.8fr) minmax(360px, 1.4fr);
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: start;
+  width: 100%;
+  max-width: 1150px;
+  margin: 2rem auto 0;
+}
+
+/* Prevent Quartz article rules from squeezing the layout */
+.portrait-page > section {
+  min-width: 0;
+}
+
+/* =========================================================
+   LEFT COLUMN
+   ========================================================= */
+
+.portrait-info {
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+}
+
+.portrait-back {
+  margin: 0 0 3rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+
+.portrait-back a {
+  color: var(--darkgray);
+  background: transparent !important;
+  padding: 0 !important;
+}
+
+.portrait-info h1 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.08;
+  text-wrap: balance;
+}
+
+/* Small decorative rule below the title */
+.portrait-info h1::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin: 1.5rem 0;
+  background: var(--gray);
+  opacity: 0.65;
+}
+
+.portrait-role {
+  margin: 0 0 3rem;
+  font-family: var(--codeFont);
+  font-size: 0.82rem;
+  line-height: 1.6;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Featured quote */
+.portrait-info blockquote {
+  position: relative;
+  margin: 0 0 3.5rem;
+  padding: 0.25rem 0 0.25rem 2rem;
+  border-left: 1px solid var(--gray);
+}
+
+.portrait-info blockquote::before {
+  content: "“";
+  position: absolute;
+  left: 0.35rem;
+  top: -0.25rem;
+  font-family: var(--headerFont);
+  font-size: 2.4rem;
+  line-height: 1;
+  color: var(--dark);
+}
+
+.portrait-info blockquote p {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.portrait-info blockquote cite {
+  display: block;
+  margin-top: 1rem;
+  font-family: var(--codeFont);
+  font-size: 0.8rem;
+  font-style: normal;
+  color: var(--darkgray);
+}
+
+.portrait-info h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1.1rem;
+  font-family: var(--codeFont);
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.portrait-info h2::after {
+  content: "";
+  display: block;
+  width: 9rem;
+  height: 1px;
+  margin-top: 0.65rem;
+  background: var(--gray);
+  opacity: 0.6;
+}
+
+.portrait-info p {
+  line-height: 1.75;
+}
+
+/* Optional details list */
+.portrait-details {
+  margin-top: 1rem;
+  font-family: var(--codeFont);
+  font-size: 0.88rem;
+  line-height: 1.75;
+}
+
+/* =========================================================
+   RIGHT COLUMN / ARTWORK
+   ========================================================= */
+
+.portrait-gallery {
+  width: 100%;
+}
+
+/* Remove Quartz's normal image spacing inside this layout */
+.portrait-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+}
+
+/* Main finished artwork */
+.portrait-gallery > p:first-child,
+.portrait-gallery > picture:first-child,
+.portrait-gallery > img:first-child {
+  margin: 0;
+}
+
+/*
+  Two process/detail images underneath the main artwork.
+*/
+.portrait-process {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.portrait-process p {
+  margin: 0;
+}
+
+.portrait-process img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+/* =========================================================
+   CLOSING QUOTE
+   ========================================================= */
+
+.portrait-closing-quote {
+  max-width: 1150px;
+  margin: 3.5rem auto 0;
+  padding: 2.5rem 1rem;
+  text-align: center;
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.portrait-closing-quote blockquote {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+}
+
+.portrait-closing-quote blockquote p {
+  margin: 0;
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  line-height: 1.75;
+}
+
+.portrait-closing-quote cite,
+.portrait-closing-quote .quote-credit {
+  display: block;
+  margin-top: 1rem;
+  font-family: var(--codeFont);
+  font-size: 0.85rem;
+  font-style: normal;
+}
+
+/* =========================================================
+   PREVIOUS / ALL / NEXT NAVIGATION
+   ========================================================= */
+
+.portrait-navigation {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 1rem;
+  align-items: end;
+  max-width: 1150px;
+  margin: 2rem auto 0;
+  padding: 1rem 0 0;
+}
+
+.portrait-navigation a {
+  background: transparent !important;
+  padding: 0 !important;
+  line-height: 1.4;
+}
+
+.portrait-navigation .portrait-next {
+  text-align: right;
+}
+
+.portrait-navigation .portrait-all {
+  text-align: center;
+}
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1000px) {
+  .portrait-page {
+    grid-template-columns: minmax(210px, 0.75fr) minmax(320px, 1.25fr);
+    gap: 2rem;
+  }
+
+  .portrait-info h1 {
+    font-size: clamp(1.9rem, 4vw, 2.7rem);
+  }
+}
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 800px) {
+  .portrait-page {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 1rem;
+  }
+
+  /*
+    On mobile, show title/details first and artwork beneath.
+    Remove sticky behavior so it scrolls normally.
+  */
+  .portrait-info {
+    position: static;
+    width: 100%;
+  }
+
+  .portrait-back {
+    margin-bottom: 2rem;
+  }
+
+  .portrait-info h1 {
+    font-size: clamp(2rem, 10vw, 3rem);
+  }
+
+  .portrait-role {
+    margin-bottom: 2rem;
+  }
+
+  .portrait-info blockquote {
+    margin-bottom: 2.5rem;
+  }
+
+  .portrait-process {
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+
+  .portrait-closing-quote {
+    margin-top: 2.5rem;
+    padding: 2rem 0.5rem;
+  }
+
+  .portrait-navigation {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "previous next"
+      "all all";
+    row-gap: 1.5rem;
+  }
+
+  .portrait-navigation .portrait-previous {
+    grid-area: previous;
+  }
+
+  .portrait-navigation .portrait-next {
+    grid-area: next;
+  }
+
+  .portrait-navigation .portrait-all {
+    grid-area: all;
+  }
+}
+
+/* Very narrow phones */
+@media (max-width: 480px) {
+  .portrait-process {
+    grid-template-columns: 1fr;
+  }
+
+  .portrait-process img {
+    aspect-ratio: auto;
+    height: auto;
+  }
+}
+```
