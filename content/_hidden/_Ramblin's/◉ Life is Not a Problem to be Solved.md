@@ -1,13 +1,11 @@
+**Date:** 02-24-2023
 
-Date: 09-28-2025
+Tags: [[video journals]]
 
-Source: #Journals [[Randolph Black]]
-
----
 
 <div class="yt-square">
   <iframe
-    src="https://www.youtube.com/embed/N_b1gsYiGao"
+    src="https://youtube.com/embed/mVqRVi9j31Q?feature=share"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
@@ -15,4 +13,4 @@ Source: #Journals [[Randolph Black]]
 
 ---
 
-*Reflections on the purpose of [[art]].*
+*Everyone's story is a [[love]] story.*
