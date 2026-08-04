@@ -480,3 +480,21 @@
     grid-template-columns: 1fr 1fr;
   }
 }
+/* Fix portrait title overlap */
+.portrait-info {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.portrait-info h1 {
+  max-width: 100%;
+  font-size: clamp(1.9rem, 3.2vw, 3rem);
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: auto;
+}
+
+/* Hide Quartz's automatic title on custom portrait pages */
+article:has(.portrait-page) > h1 {
+  display: none;
+}

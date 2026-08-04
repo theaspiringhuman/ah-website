@@ -11,7 +11,7 @@ date: 2019-09-02
 
 <section class="portrait-info">
 
-[← Back to Portraits](../)
+[← Back to Art](art)
 
 # Dada Gunamuktananda
 
@@ -99,7 +99,7 @@ September 2019
 
 <div class="portrait-all">
 
-[[Portraits]]
+[[Art]]
 
 </div>
 
