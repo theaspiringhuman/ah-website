@@ -58,4 +58,4 @@ I feel more like an amalgam of experiences and influences than a person with an 
 
 <div class="portrait-all"> <a href="/art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/art/dada-gunamuktananda">Dada →</a> </div> </div>
+<div class="portrait-next"> <a href="/art/Dada%20Gunamuktananda">Dada →</a> </div> </div>
