@@ -33,9 +33,9 @@ date: 2019-09-02
 
 <p> <strong>Completed</strong><br> September 2019 </p> </section>
 
-<section class="portrait-gallery"> <img src="/paintings/Dada-Gunamuktananda.jpg" alt="Finished portrait of Dada Gunamuktananda">
+<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg">
 
-<div class="portrait-process"> <img src="/paintings/Dada-Linework.png" alt="Close-up detail of the Dada Gunamuktananda portrait"> <img src="/paintings/Dada-2.png" alt="Linework stage of the Dada Gunamuktananda portrait"> </div> </section> </div>
+<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/Dada-Linework.png" alt="Close-up detail of the Dada Gunamuktananda portrait"> <img src="/_hidden/site%20images/paintings/Dada-2.png" alt="Linework stage of the Dada Gunamuktananda portrait"> </div> </section> </div>
 
 <div class="portrait-closing-quote"> <blockquote> <p>“A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us.”</p> </blockquote> </div>
 
