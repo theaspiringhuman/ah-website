@@ -8,7 +8,7 @@ date: 2019-09-02
 ---
 ---
 
-[← Back to Art](https://chatgpt.com/c/art)
+[← Back to Art](art)
 
 # Dada Gunamuktananda
 
