@@ -36,7 +36,7 @@ I saw a portrait of an African woman & was moved just by her countenance. She ex
 
 <p> <strong>Completed</strong><br> September 2020 </p> </section>
 
-<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience.jpg">
+<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
 
 <div class="portrait-process"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details.png"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details-2.png"> </div> </section> </div>
 
