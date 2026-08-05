@@ -1,7 +1,7 @@
 ---
 title: hi :)
 ---
-![[homepage-2.png]]
+![[homepage-2.png|600]]
 
 
 
