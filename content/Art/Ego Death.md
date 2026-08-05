@@ -26,7 +26,7 @@
 
 <p> <strong>Completed</strong><br> September 2019 </p> </section>
 
-<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg">
+<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
 
 <div class="portrait-process"> <img src="/_hidden/site%20images/paintings/Dada-Linework.png" alt="Close-up detail of the Dada Gunamuktananda portrait"> <img src="/_hidden/site%20images/paintings/Dada-2.png" alt="Linework stage of the Dada Gunamuktananda portrait"> </div> </section> </div>
 
