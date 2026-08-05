@@ -397,7 +397,7 @@ body:has(.portrait-page) .article-title {
   font-family: var(--headerFont);
   font-size: 1rem;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .portrait-info h2::after,
