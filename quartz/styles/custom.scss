@@ -276,13 +276,22 @@
    INDIVIDUAL PORTRAIT PAGES
    ========================================================= */
 
+/* Hide Quartz's automatic title on custom portrait pages */
+body:has(.portrait-page) .article-title {
+  display: none;
+}
+
+/* ---------------------------------------------------------
+   DESKTOP LAYOUT
+   --------------------------------------------------------- */
+
 .portrait-page {
   display: grid;
-  grid-template-columns: minmax(340px, 0.95fr) minmax(450px, 1.25fr);
-  gap: clamp(2rem, 5vw, 4.5rem);
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr);
+  gap: clamp(1.5rem, 3vw, 3rem);
   align-items: start;
   width: 100%;
-  max-width: 1150px;
+  max-width: 100%;
   margin: 2rem auto 0;
 }
 
@@ -298,10 +307,11 @@
   position: sticky;
   top: 2rem;
   align-self: start;
+  min-width: 0;
 }
 
 .portrait-back {
-  margin: 0 0 3rem;
+  margin: 0 0 2.5rem;
   font-size: 0.9rem;
   letter-spacing: 0.02em;
 }
@@ -312,11 +322,15 @@
   padding: 0 !important;
 }
 
+/* Prevent long names from entering the artwork column */
 .portrait-info h1 {
+  max-width: 100%;
   margin: 0;
-  font-size: clamp(2rem, 4vw, 3.5rem);
+  font-size: clamp(1.8rem, 3vw, 2.7rem);
   line-height: 1.08;
-  text-wrap: balance;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: auto;
 }
 
 .portrait-info h1::after {
@@ -336,6 +350,11 @@
   line-height: 1.6;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+/* Hidden on desktop; shown after the role on mobile */
+.portrait-mobile-hero {
+  display: none;
 }
 
 .portrait-info blockquote {
@@ -371,7 +390,8 @@
   color: var(--darkgray);
 }
 
-.portrait-info h2 {
+.portrait-info h2,
+.portrait-info h3 {
   margin-top: 2.8rem;
   margin-bottom: 1.1rem;
   font-family: var(--codeFont);
@@ -380,7 +400,8 @@
   text-transform: uppercase;
 }
 
-.portrait-info h2::after {
+.portrait-info h2::after,
+.portrait-info h3::after {
   content: "";
   display: block;
   width: 9rem;
@@ -394,22 +415,16 @@
   line-height: 1.75;
 }
 
-.portrait-details {
-  margin-top: 1rem;
-  font-family: var(--codeFont);
-  font-size: 0.88rem;
-  line-height: 1.75;
-}
-
 /* =========================================================
    RIGHT COLUMN
    ========================================================= */
 
 .portrait-gallery {
   width: 100%;
+  min-width: 0;
 }
 
-.portrait-gallery img {
+.portrait-gallery > img {
   display: block;
   width: 100%;
   height: auto;
@@ -421,72 +436,130 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.75rem;
+  width: 100%;
   margin-top: 0.75rem;
 }
 
-.portrait-process p {
-  margin: 0;
-}
-
 .portrait-process img {
+  display: block;
   width: 100%;
   height: 100%;
+  margin: 0;
   aspect-ratio: 1 / 1;
   object-fit: cover;
+  border-radius: 0;
 }
 
+/* =========================================================
+   CLOSING QUOTE
+   ========================================================= */
+
 .portrait-closing-quote {
-  max-width: 1150px;
+  width: 100%;
+  max-width: 100%;
   margin: 3.5rem auto 0;
-  padding: 2.5rem 1rem;
+  padding: 2.5rem clamp(1rem, 4vw, 3rem);
+  box-sizing: border-box;
   text-align: center;
   border-top: 1px solid var(--lightgray);
   border-bottom: 1px solid var(--lightgray);
 }
 
+.portrait-closing-quote blockquote {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+}
+
+.portrait-closing-quote blockquote p {
+  margin: 0;
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  line-height: 1.7;
+}
+
+/* =========================================================
+   PORTRAIT NAVIGATION
+   ========================================================= */
+
 .portrait-navigation {
   display: grid;
-  grid-template-columns: 1fr auto 1fr;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
   gap: 1rem;
-  align-items: end;
-  max-width: 1150px;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
   margin: 2rem auto 0;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.portrait-navigation > div {
+  min-width: 0;
+  margin: 0;
+}
+
+.portrait-navigation .portrait-previous {
+  text-align: left;
+}
+
+.portrait-navigation .portrait-all {
+  text-align: center;
+  white-space: nowrap;
 }
 
 .portrait-navigation .portrait-next {
   text-align: right;
 }
 
-.portrait-navigation .portrait-all {
-  text-align: center;
+.portrait-navigation a {
+  display: inline;
+  padding: 0 !important;
+  background: transparent !important;
+  line-height: 1.4;
 }
 
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1000px) and (min-width: 801px) {
+  .portrait-page {
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.2fr);
+    gap: 1.5rem;
+  }
+
+  .portrait-info h1 {
+    font-size: clamp(1.7rem, 3.3vw, 2.35rem);
+  }
+}
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
 @media (max-width: 800px) {
-  /*
-    Flatten the two desktop sections on mobile so their individual
-    contents can be rearranged without changing the Markdown.
-  */
   .portrait-page {
     display: flex;
     flex-direction: column;
-    gap: 0;
+    gap: 2rem;
     width: 100%;
+    max-width: 100%;
     margin-top: 1rem;
   }
 
-  .portrait-info,
-  .portrait-gallery {
-    display: contents;
+  .portrait-info {
+    position: static;
+    width: 100%;
+    min-width: 0;
   }
 
-  /* Mobile order */
   .portrait-back {
-    order: 1;
     margin: 0 0 2rem;
   }
 
   .portrait-info h1 {
-    order: 2;
+    max-width: 100%;
     margin: 0;
     font-size: clamp(2rem, 9vw, 3rem);
     line-height: 1.1;
@@ -494,44 +567,56 @@
   }
 
   .portrait-role {
-    order: 3;
     margin: 1.5rem 0 2rem;
     font-size: 0.76rem;
+    line-height: 1.7;
   }
 
-  /* Finished artwork appears here */
-  .portrait-gallery > img {
-    order: 4;
+  /* Mobile-only copy of the finished portrait */
+  .portrait-mobile-hero {
     display: block;
     width: 100%;
-    height: auto;
     margin: 0 0 2.5rem;
   }
 
+  .portrait-mobile-hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-radius: 0;
+  }
+
+  /* Hide the duplicate desktop hero on mobile */
+  .portrait-gallery > img {
+    display: none;
+  }
+
   .portrait-info blockquote {
-    order: 5;
     margin: 0 0 2.5rem;
     padding-left: 1.7rem;
   }
 
-  /*
-    About, its paragraphs, Details, and detail paragraphs
-    retain their original order.
-  */
-  .portrait-info h2,
-  .portrait-info h3,
-  .portrait-info > p:not(.portrait-back):not(.portrait-role) {
-    order: 6;
+  .portrait-info blockquote p {
+    font-size: 1rem;
+    line-height: 1.65;
   }
 
-  /* Process images remain after the writing and details */
+  .portrait-info h2,
+  .portrait-info h3 {
+    margin-top: 2.5rem;
+  }
+
+  .portrait-gallery {
+    width: 100%;
+  }
+
+  /* Process images stay below the writing */
   .portrait-process {
-    order: 7;
-    display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.5rem;
     width: 100%;
-    margin-top: 2.5rem;
+    margin-top: 0;
   }
 
   .portrait-process img {
@@ -546,6 +631,11 @@
     padding: 2rem 0.75rem;
   }
 
+  .portrait-closing-quote blockquote p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
   .portrait-navigation {
     grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
     gap: 0.5rem;
@@ -555,5 +645,23 @@
   .portrait-navigation a {
     font-size: 0.8rem;
     overflow-wrap: anywhere;
+  }
+}
+
+/* =========================================================
+   VERY NARROW PHONES
+   ========================================================= */
+
+@media (max-width: 420px) {
+  .portrait-process {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .portrait-navigation {
+    gap: 0.3rem;
+  }
+
+  .portrait-navigation a {
+    font-size: 0.7rem;
   }
 }
