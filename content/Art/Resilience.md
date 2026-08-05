@@ -1,6 +1,6 @@
 ---
-title: Intrinsic Resilience
-description: Portrait observing the strength of a tribal woman.
+title: Resilience
+description: Portrait observing the strength & resilience of a tribal woman.
 tags:
   - art
 date: 2020-09-02
@@ -8,12 +8,12 @@ date: 2020-09-02
 ---
 <div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
-<h1>Intrinsic Resilience</h1>
+<h1>Resilience</h1>
 
 <p class="portrait-role">Portrait study of an African Woman</p>
 
 <div class="portrait-mobile-hero">
-<img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg">
+<img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
 </div>
 
 <blockquote> <p><em> “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”</em></p> <cite>— [[Kahlil Gibran]]</cite> </blockquote>
