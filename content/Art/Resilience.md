@@ -16,7 +16,7 @@ date: 2020-09-02
 <img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
 </div>
 
-<blockquote> <p><em> “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”</em></p> <cite>— <a href="/kahlil-gibran">Kahlil Gibran</a></cite> </blockquote>
+<blockquote> <p><em> “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”</em></p> <cite>— <a href="/_hidden/Sources/Quotes/Kahlil-Gibran">Kahlil Gibran</a></cite> </blockquote>
 
 <h2>About This Portrait</h2>
 
@@ -40,7 +40,7 @@ I saw a portrait of an African woman & was moved just by her countenance. She ex
 
 <div class="portrait-process"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details.png"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details-2.png"> </div> </section> </div>
 
-<div class="portrait-closing-quote"> <blockquote> <p>"Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that [[people-pleasing|being 'sweet']] in these instances only makes the predator smile.“</p> 
+<div class="portrait-closing-quote"> <blockquote> "Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that [[people-pleasing|being 'sweet']] in these instances only makes the predator smile.“ 
 <cite>— [[Women Who Run with the Wolves - Clarissa Pinkola Estes]]</cite>
 </blockquote> </div>
 
