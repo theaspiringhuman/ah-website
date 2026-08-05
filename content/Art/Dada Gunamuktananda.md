@@ -7,47 +7,61 @@ tags:
 date: 2019-09-02
 ---
 ---
+title: Dada Gunamuktananda
+---
 
-[← Back to Art](art)
+<div class="portrait-page">
 
-# Dada Gunamuktananda
+  <section class="portrait-info">
 
-Spiritual Teacher • Philosopher • Writer
+    <p class="portrait-back">← Back to Portraits</p>
 
-![[Dada Gunamuktananda.jpg]]
+    <h1>Dada Gunamuktananda</h1>
 
-> _"The highest wisdom is not to think of yourself at all."_
-> 
-> — Dada Gunamuktananda
+    <p class="portrait-role">
+      Spiritual Teacher · Philosopher · Writer
+    </p>
 
-### About this portrait
+    <blockquote>
+      The highest wisdom is not to think of yourself at all.
+      <cite>— Dada Gunamuktananda</cite>
+    </blockquote>
 
-I first encountered Dada's work when I saw him give a [TED talk](https://www.youtube.com/watch?v=lo0X2ZdElQ4).
+    <h2>About This Portrait</h2>
 
-What struck me most was not necessarily his words but his sincerity. He is one of the few who speak from the heart, & who mean what they say from the depths of their souls.
+    <p>
+      Your writing about the person, the portrait, and why you created it.
+    </p>
 
-### Details
+    <h2>Details</h2>
 
-**Medium**  
-Ink, marker & colored pencil
+    <p>
+      Ink and marker on paper<br>
+      Gray-toned sketchbook<br>
+      5.75 × 8.6 inches<br>
+      April 2024
+    </p>
 
-**Surface**  
-Strathmore 400 Gray Toned
+  </section>
 
-**Dimensions**  
-5.75 × 8.6"
+  <section class="portrait-gallery">
 
-**Completed**  
-September 2019
+    ![[images/dada-final.jpg]]
 
-![[Dada 2.png]]
+    <div class="portrait-process">
+      ![[images/dada-detail.png]]
+      ![[images/dada-linework.png]]
+    </div>
 
-![[Dada Linework.png]]
+  </section>
 
-> "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us."
+</div>
 
-← [[Tribal Woman]]
+<div class="portrait-closing-quote">
 
-[[Art|More Art]]
+> We are not human beings having a spiritual experience.  
+> We are spiritual beings having a human experience.
 
-[[Ego Death]] →
+— Pierre Teilhard de Chardin
+
+</div>
