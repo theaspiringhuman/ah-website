@@ -21,7 +21,7 @@ date: 2019-09-02
 
 <h2>About This Portrait</h2>
 
-<p>I first encountered Dada's work when I saw him give a <a href="[https://www.youtube.com/watch?v=lo0X2ZdElQ4](https://www.youtube.com/watch?v=lo0X2ZdElQ4)">TED talk</a>.</p>
+<p>I first encountered Dada's work when I saw him give a <a href="https://www.youtube.com/watch?v=lo0X2ZdElQ4">TED talk</a>.</p>
 
 <p>What struck me most was not necessarily his words but his sincerity. He is one of the few who speak from the heart, &amp; who mean what they say from the depths of their souls.</p>
 
