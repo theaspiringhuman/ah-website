@@ -7,8 +7,6 @@ tags:
 date: 2019-09-02
 ---
 ---
-## title: Dada Gunamuktananda
-
 <div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
 <h1>Dada Gunamuktananda</h1>
