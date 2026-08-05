@@ -16,7 +16,7 @@ date: 2020-09-02
 <img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
 </div>
 
-<blockquote> <p><em> “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”</em></p> <cite>— [[Kahlil Gibran]]</cite> </blockquote>
+<blockquote> <p><em> “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”</em></p> <cite>— <a href="/kahlil-gibran">Kahlil Gibran</a></cite> </blockquote>
 
 <h2>About This Portrait</h2>
 
