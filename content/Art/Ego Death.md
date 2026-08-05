@@ -25,9 +25,9 @@ On the loss of identity
 
 <h2>About This Portrait</h2>
 
-<p>
+
 Lately I have felt so vague and unclear about everything. Especially about my own identity. I'm not sure how to interface with the world anymore. All of my personas are melting away like wax and I'm grasping for a mask to wear in my interactions with others. I am grasping for something solid. I float and I drift and I fall from great heights, but I cannot seem to find anything substantial to hold onto. Who am I? Is there an "I"? I feel more like an amalgam of experiences and influences than a person with an [[identity]]. More of a fluid than a solid.
-</p>
+
 
 <h2>Details</h2>
 
