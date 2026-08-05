@@ -8,7 +8,7 @@ date: 2019-09-02
 ---
 ---
 
-[← Back to Art](art)
+[← Back to Art](https://chatgpt.com/c/art)
 
 # Dada Gunamuktananda
 
@@ -40,14 +40,11 @@ Strathmore 400 Gray Toned
 **Completed**  
 September 2019
 
-
 ![[Dada 2.png]]
 
 ![[Dada Linework.png]]
 
 > "A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us."
-
----
 
 ← [[Tribal Woman]]
 
