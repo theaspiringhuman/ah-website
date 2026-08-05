@@ -51,6 +51,6 @@ September 2019
 
 ← [[Tribal Woman]]
 
-[[Art]]
+[[Art|More Art]]
 
 [[Ego Death]] →
