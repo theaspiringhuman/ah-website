@@ -7,61 +7,40 @@ tags:
 date: 2019-09-02
 ---
 ---
-title: Dada Gunamuktananda
----
+## title: Dada Gunamuktananda
 
-<div class="portrait-page">
+<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
-  <section class="portrait-info">
+<h1>Dada Gunamuktananda</h1>
 
-    <p class="portrait-back">← Back to Portraits</p>
+<p class="portrait-role">Spiritual Teacher · Philosopher · Writer</p>
 
-    <h1>Dada Gunamuktananda</h1>
+<blockquote> <p><em>“The highest wisdom is not to think of yourself at all.”</em></p> <cite>— Dada Gunamuktananda</cite> </blockquote>
 
-    <p class="portrait-role">
-      Spiritual Teacher · Philosopher · Writer
-    </p>
+<h2>About This Portrait</h2>
 
-    <blockquote>
-      The highest wisdom is not to think of yourself at all.
-      <cite>— Dada Gunamuktananda</cite>
-    </blockquote>
+<p>I first encountered Dada's work when I saw him give a <a href="[https://www.youtube.com/watch?v=lo0X2ZdElQ4](https://www.youtube.com/watch?v=lo0X2ZdElQ4)">TED talk</a>.</p>
 
-    <h2>About This Portrait</h2>
+<p>What struck me most was not necessarily his words but his sincerity. He is one of the few who speak from the heart, &amp; who mean what they say from the depths of their souls.</p>
 
-    <p>
-      Your writing about the person, the portrait, and why you created it.
-    </p>
+<h2>Details</h2>
 
-    <h2>Details</h2>
+<p> <strong>Medium</strong><br> Ink, marker &amp; colored pencil </p>
 
-    <p>
-      Ink and marker on paper<br>
-      Gray-toned sketchbook<br>
-      5.75 × 8.6 inches<br>
-      April 2024
-    </p>
+<p> <strong>Surface</strong><br> Strathmore 400 Gray Toned </p>
 
-  </section>
+<p> <strong>Dimensions</strong><br> 5.75 × 8.6" </p>
 
-  <section class="portrait-gallery">
+<p> <strong>Completed</strong><br> September 2019 </p> </section>
 
-    ![[images/dada-final.jpg]]
+<section class="portrait-gallery"> <img src="/images/Dada-Gunamuktananda.jpg" alt="Finished portrait of Dada Gunamuktananda">
 
-    <div class="portrait-process">
-      ![[images/dada-detail.png]]
-      ![[images/dada-linework.png]]
-    </div>
+<div class="portrait-process"> <img src="/images/Dada-Linework.png" alt="Close-up detail of the Dada Gunamuktananda portrait"> <img src="/images/Dada-2.png" alt="Linework stage of the Dada Gunamuktananda portrait"> </div> </section> </div>
 
-  </section>
+<div class="portrait-closing-quote"> <blockquote> <p>“A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us.”</p> </blockquote> </div>
 
-</div>
+<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/art/tribal-woman">← Tribal Woman</a> </div>
 
-<div class="portrait-closing-quote">
+<div class="portrait-all"> <a href="/art">Art</a> </div>
 
-> We are not human beings having a spiritual experience.  
-> We are spiritual beings having a human experience.
-
-— Pierre Teilhard de Chardin
-
-</div>
+<div class="portrait-next"> <a href="/art/ego-death">Ego Death →</a> </div> </div>
