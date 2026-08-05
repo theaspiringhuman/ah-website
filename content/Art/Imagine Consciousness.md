@@ -26,7 +26,7 @@ His talk was profound but what struck me most was his sincerity. Its so rare to 
 
 <h2>Details</h2>
 
-<p> <strong>Medium</strong><br> Ink, marker &amp; colored pencil </p>
+<p> <strong>Medium</strong><br> Ink &amp; colored pencil </p>
 
 <p> <strong>Surface</strong><br> Strathmore 400 Gray Toned </p>
 

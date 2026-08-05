@@ -42,7 +42,7 @@ I feel more like an amalgam of experiences and influences than a person with an 
 
 <h2>Details</h2>
 
-<p> <strong>Medium</strong><br> Ink, marker &amp; colored pencil </p>
+<p> <strong>Medium</strong><br> Ink &amp; colored pencil </p>
 
 <p> <strong>Surface</strong><br> Strathmore 400 Gray Toned </p>
 
