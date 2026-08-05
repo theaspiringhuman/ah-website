@@ -15,7 +15,7 @@ On the loss of identity
 </p>
 
 <div class="portrait-mobile-hero">
-  <img src="/paintings/ego-death.png" alt="Finished portrait of Ego Death">
+  <img src="/_hidden/site%20images/paintings/ego-death.png" alt="Finished portrait of Ego Death">
 </div>
 
 <blockquote>
