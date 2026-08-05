@@ -49,7 +49,7 @@ I feel more like an amalgam of experiences and influences than a person with an 
 </div> </section> </div>
 
 <div class="portrait-closing-quote"> <blockquote> 
-<p>"If most of us are ignorant of ourselves, it is because self-knowledge is painful, and we prefer the pleasures of illusion."</p>
+<p>"If most of us are ignorant of ourselves, it is because self-knowledge is painful, and we prefer the pleasures of [[illusion]]."</p>
 
 <cite>— [[The Perennial Philosophy - Aldous Huxley]]</cite>
 </blockquote> </div>
