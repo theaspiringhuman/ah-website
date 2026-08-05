@@ -273,265 +273,265 @@
   display: none !important;
 }
 /* =========================================================
-INDIVIDUAL PORTRAIT PAGES
-========================================================= */
+   INDIVIDUAL PORTRAIT PAGES
+   ========================================================= */
 
 .portrait-page {
-display: grid;
-grid-template-columns: minmax(320px, 0.9fr) minmax(460px, 1.35fr);
-gap: clamp(2rem, 4vw, 4rem);
-align-items: start;
-width: 100%;
-max-width: 1180px;
-margin: 2rem auto 0;
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.35fr);
+  gap: clamp(1.5rem, 3vw, 3rem);
+  align-items: start;
+  width: 100%;
+  max-width: 100%;
+  margin: 2rem auto 0;
 }
 
 .portrait-page > section {
-min-width: 0;
+  min-width: 0;
 }
 
 /* Hide Quartz's automatic title when the custom portrait title exists */
 article:has(.portrait-page) > h1 {
-display: none;
+  display: none;
 }
 
 /* =========================================================
-LEFT COLUMN
-========================================================= */
+   LEFT COLUMN
+   ========================================================= */
 
 .portrait-info {
-position: sticky;
-top: 2rem;
-align-self: start;
-min-width: 0;
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+  min-width: 0;
 }
 
 .portrait-back {
-margin: 0 0 3rem;
-font-size: 0.9rem;
-letter-spacing: 0.02em;
+  margin: 0 0 3rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
 }
 
 .portrait-back a {
-color: var(--darkgray);
-background: transparent !important;
-padding: 0 !important;
+  color: var(--darkgray);
+  background: transparent !important;
+  padding: 0 !important;
 }
 
 .portrait-info h1 {
-max-width: 100%;
-margin: 0;
-font-size: clamp(2rem, 3vw, 3.15rem);
-line-height: 1.08;
-text-wrap: balance;
-overflow-wrap: anywhere;
-word-break: normal;
-hyphens: auto;
+  max-width: 100%;
+  margin: 0;
+  font-size: clamp(1.8rem, 3vw, 2.7rem);
+  line-height: 1.08;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+  word-break: normal;
+  hyphens: auto;
 }
 
 .portrait-info h1::after {
-content: "";
-display: block;
-width: 100%;
-height: 1px;
-margin: 1.5rem 0;
-background: var(--gray);
-opacity: 0.65;
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin: 1.5rem 0;
+  background: var(--gray);
+  opacity: 0.65;
 }
 
 .portrait-role {
-margin: 0 0 3rem;
-font-family: var(--codeFont);
-font-size: 0.82rem;
-line-height: 1.6;
-letter-spacing: 0.08em;
-text-transform: uppercase;
+  margin: 0 0 3rem;
+  font-family: var(--codeFont);
+  font-size: 0.82rem;
+  line-height: 1.6;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .portrait-info blockquote {
-position: relative;
-margin: 0 0 3.5rem;
-padding: 0.25rem 0 0.25rem 2rem;
-border-left: 1px solid var(--gray);
+  position: relative;
+  margin: 0 0 3.5rem;
+  padding: 0.25rem 0 0.25rem 2rem;
+  border-left: 1px solid var(--gray);
 }
 
 .portrait-info blockquote::before {
-content: "“";
-position: absolute;
-left: 0.35rem;
-top: -0.25rem;
-font-family: var(--headerFont);
-font-size: 2.4rem;
-line-height: 1;
-color: var(--dark);
+  content: "“";
+  position: absolute;
+  left: 0.35rem;
+  top: -0.25rem;
+  font-family: var(--headerFont);
+  font-size: 2.4rem;
+  line-height: 1;
+  color: var(--dark);
 }
 
 .portrait-info blockquote p {
-margin: 0;
-font-size: 1.05rem;
-line-height: 1.75;
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.75;
 }
 
 .portrait-info blockquote cite {
-display: block;
-margin-top: 1rem;
-font-family: var(--codeFont);
-font-size: 0.8rem;
-font-style: normal;
-color: var(--darkgray);
+  display: block;
+  margin-top: 1rem;
+  font-family: var(--codeFont);
+  font-size: 0.8rem;
+  font-style: normal;
+  color: var(--darkgray);
 }
 
 .portrait-info h2,
 .portrait-info h3 {
-margin-top: 2.8rem;
-margin-bottom: 1.1rem;
-font-family: var(--codeFont);
-font-size: 1rem;
-letter-spacing: 0.04em;
+  margin-top: 2.8rem;
+  margin-bottom: 1.1rem;
+  font-family: var(--codeFont);
+  font-size: 1rem;
+  letter-spacing: 0.04em;
 }
 
 .portrait-info h2::after,
 .portrait-info h3::after {
-content: "";
-display: block;
-width: 9rem;
-height: 1px;
-margin-top: 0.65rem;
-background: var(--gray);
-opacity: 0.6;
+  content: "";
+  display: block;
+  width: 9rem;
+  height: 1px;
+  margin-top: 0.65rem;
+  background: var(--gray);
+  opacity: 0.6;
 }
 
 .portrait-info p {
-line-height: 1.75;
+  line-height: 1.75;
 }
 
 .portrait-details {
-margin-top: 1rem;
-font-family: var(--codeFont);
-font-size: 0.88rem;
-line-height: 1.75;
+  margin-top: 1rem;
+  font-family: var(--codeFont);
+  font-size: 0.88rem;
+  line-height: 1.75;
 }
 
 /* =========================================================
-RIGHT COLUMN
-========================================================= */
+   RIGHT COLUMN
+   ========================================================= */
 
 .portrait-gallery {
-width: 100%;
-min-width: 0;
+  width: 100%;
+  min-width: 0;
 }
 
 .portrait-gallery p {
-margin: 0;
+  margin: 0;
 }
 
 .portrait-gallery img {
-display: block;
-width: 100%;
-height: auto;
-margin: 0;
-border-radius: 0;
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
 }
 
 .portrait-process {
-display: grid;
-grid-template-columns: repeat(2, minmax(0, 1fr));
-gap: 0.75rem;
-margin-top: 0.75rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.75rem;
 }
 
 .portrait-process p {
-min-width: 0;
-margin: 0;
+  min-width: 0;
+  margin: 0;
 }
 
 .portrait-process img {
-width: 100%;
-height: 100%;
-aspect-ratio: 1 / 1;
-object-fit: cover;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
 /* =========================================================
-CLOSING QUOTE
-========================================================= */
+   CLOSING QUOTE
+   ========================================================= */
 
 .portrait-closing-quote {
-width: 100%;
-max-width: 1180px;
-margin: 3.5rem auto 0;
-padding: 2.5rem 1rem;
-box-sizing: border-box;
-text-align: center;
-border-top: 1px solid var(--lightgray);
-border-bottom: 1px solid var(--lightgray);
+  width: 100%;
+  max-width: 100%;
+  margin: 3.5rem auto 0;
+  padding: 2.5rem 1rem;
+  box-sizing: border-box;
+  text-align: center;
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
 }
 
 .portrait-closing-quote blockquote {
-max-width: 900px;
-margin: 0 auto;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .portrait-closing-quote blockquote p {
-margin: 0;
-font-size: clamp(1.05rem, 2vw, 1.35rem);
-line-height: 1.7;
+  margin: 0;
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  line-height: 1.7;
 }
 
 /* =========================================================
-PORTRAIT NAVIGATION
-========================================================= */
+   PORTRAIT NAVIGATION
+   ========================================================= */
 
 .portrait-navigation {
-display: grid !important;
-grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) !important;
-gap: 1rem;
-align-items: center;
-width: 100%;
-max-width: 1180px;
-margin: 2rem auto 0;
-padding: 1.5rem 0;
-border-bottom: 1px solid var(--lightgray);
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) !important;
+  gap: 1rem;
+  align-items: center;
+  width: 100%;
+  max-width: 100%;
+  margin: 2rem auto 0;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--lightgray);
 }
 
 .portrait-navigation > div {
-min-width: 0;
-margin: 0 !important;
+  min-width: 0;
+  margin: 0 !important;
 }
 
 .portrait-navigation .portrait-previous {
-text-align: left;
+  text-align: left;
 }
 
 .portrait-navigation .portrait-all {
-text-align: center;
-white-space: nowrap;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .portrait-navigation .portrait-next {
-text-align: right;
+  text-align: right;
 }
 
 .portrait-navigation a {
-display: inline !important;
-padding: 0 !important;
-background: transparent !important;
-line-height: 1.4;
+  display: inline !important;
+  padding: 0 !important;
+  background: transparent !important;
+  line-height: 1.4;
 }
 
 /* =========================================================
-TABLET
-========================================================= */
+   TABLET
+   ========================================================= */
 
 @media (max-width: 1000px) and (min-width: 801px) {
-.portrait-page {
-grid-template-columns: minmax(280px, 0.9fr) minmax(390px, 1.25fr);
-gap: 2rem;
-}
+  .portrait-page {
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.2fr);
+    gap: 1.5rem;
+  }
 
-.portrait-info h1 {
-font-size: clamp(1.9rem, 3.8vw, 2.7rem);
-}
+  .portrait-info h1 {
+    font-size: clamp(1.75rem, 3.4vw, 2.4rem);
+  }
 }
 
 /* =========================================================
