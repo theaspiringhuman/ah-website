@@ -15,7 +15,7 @@ On the loss of identity
 </p>
 
 <div class="portrait-mobile-hero">
-<img src="/_hidden/site%20images/paintings/ego-death.png" alt="Finished portrait of Ego Death">
+<img src="/_hidden/site%20images/paintings/ego-death-artwork.png?v=2" alt="Finished portrait of Ego Death">
 </div>
 
 <blockquote>
@@ -53,23 +53,13 @@ April 2022
 
 </section>
 
-<section class="portrait-gallery">
-
-<img src="/paintings/ego-death.png" alt="Finished portrait of Ego Death">
-
-<div class="portrait-process">
-
-</div>
-
-</section>
-
 </div>
 
 <div class="portrait-closing-quote">
 
 <blockquote>
 
-<p>"If most of us are ignorant of ourselves, it is because [[self-knowledge]] is [[Pain|painful]], and we prefer the pleasures of [[illusion]]."</p>
+<p>"If most of us are ignorant of ourselves, it is because self-knowledge is painful, and we prefer the pleasures of illusion."</p>
 
 <cite>— [[The Perennial Philosophy - Aldous Huxley]]</cite>
 
