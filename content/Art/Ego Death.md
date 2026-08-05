@@ -39,7 +39,7 @@ I feel more like an amalgam of experiences and influences than a person with an 
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
 
-<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/ego-death-detail.png"> <img src="/_hidden/site%20images/paintings/ego-death-detail-2.png"> <img src="/_hidden/site%20images/paintings/ego-death-detail-3.png">
+<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/ego-death-detail.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-2.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-3.jpg">
 </div> </section> </div>
 
 <div class="portrait-closing-quote"> <blockquote> 
