@@ -19,12 +19,18 @@ Lately I have felt so vague and unclear about everything.
 
 Especially about my own [[identity]]. 
 I'm not sure how to interface with the world anymore. 
+
 All of my personas are melting away like wax and I'm grasping for a [[persona|mask]] to wear in my interactions with others. 
+
 I am grasping for something solid. 
+
 I float and I drift and I fall from great heights, but I cannot seem to find anything substantial to hold onto. 
+
 Who am I? 
 Is there an "I"? 
+
 I feel more like an amalgam of experiences and influences than a person with an [[identity]]. More of a fluid than a solid.
+
 [[More of a Fluid than a Solid|- June, 2023]]
 
 <h2>Details</h2>
@@ -39,7 +45,7 @@ I feel more like an amalgam of experiences and influences than a person with an 
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
 
-<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/ego-death-detail.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-2.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-3.jpg">
+<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/ego-death-detail.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-2.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-3.jpg"> <img src="/_hidden/site%20images/paintings/ego-death-detail-4.jpg">
 </div> </section> </div>
 
 <div class="portrait-closing-quote"> <blockquote> 
