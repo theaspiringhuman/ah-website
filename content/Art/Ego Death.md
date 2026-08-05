@@ -56,6 +56,6 @@ I feel more like an amalgam of experiences and influences than a person with an 
 
 <div class="portrait-navigation"> <div class="portrait-previous"> <a href="/art/tribal-woman">← Tribal Woman</a> </div>
 
-<div class="portrait-all"> <a href="/art">Art</a> </div>
+<div class="portrait-all"> <a href="/Art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/art/Dada%20Gunamuktananda">Dada →</a> </div> </div>
+<div class="portrait-next"> <a href="/Art/Dada%20Gunamuktananda">Dada →</a> </div> </div>
