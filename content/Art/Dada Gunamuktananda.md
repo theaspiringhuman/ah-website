@@ -16,7 +16,7 @@ date: 2019-09-02
 <p class="portrait-role">Spiritual Teacher · Philosopher · Writer</p>
 
 <div class="portrait-mobile-hero">
-<img src="/paintings/Dada-Gunamuktananda.jpg" alt="Finished portrait of Dada Gunamuktananda">
+<img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg" alt="Finished portrait of Dada Gunamuktananda">
 </div>
 
 <blockquote> <p><em>“The highest wisdom is not to think of yourself at all.”</em></p> <cite>— Dada Gunamuktananda</cite> </blockquote>
