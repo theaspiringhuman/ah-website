@@ -1,20 +1,31 @@
 <div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
-<h1>Dada Gunamuktananda</h1>
+<h1>Ego Death</h1>
 
-<p class="portrait-role">Spiritual Teacher · Philosopher · Writer</p>
+<p class="portrait-role">On the loss of a sense of identity</p>
 
 <div class="portrait-mobile-hero">
-<img src="/_hidden/site%20images/paintings/ego-death-portrait.png" alt="Finished portrait of Dada Gunamuktananda">
+<img src="/_hidden/site%20images/paintings/ego-death-portrait.png" alt="Finished portrait of Ego Death">
 </div>
 
-<blockquote> <p><em>“The highest wisdom is not to think of yourself at all.”</em></p> <cite>— Dada Gunamuktananda</cite> </blockquote>
+<blockquote>
+<p><em>"It is so disorienting to navigate life & interface with people without a solid sense of identity."</em></p>
+<cite>— January, 2024</cite>
+</blockquote>
 
 <h2>About This Portrait</h2>
 
-<p>I first encountered Dada's work when I saw him give a <a href="https://www.youtube.com/watch?v=lo0X2ZdElQ4">TED talk</a>.</p>
+Lately I have felt so vague and unclear about everything. 
 
-<p>His talk was profound but what struck me most was his sincerity. Its so rare to come across someone as genuine & humble as this man appears to be. They say it's all in the eyes... & his sparkle with a sort of childlike wonder.</p>
+Especially about my own [[identity]]. 
+I'm not sure how to interface with the world anymore. 
+All of my personas are melting away like wax and I'm grasping for a [[persona|mask]] to wear in my interactions with others. 
+I am grasping for something solid. 
+I float and I drift and I fall from great heights, but I cannot seem to find anything substantial to hold onto. 
+Who am I? 
+Is there an "I"? 
+I feel more like an amalgam of experiences and influences than a person with an [[identity]]. More of a fluid than a solid.
+[[More of a Fluid than a Solid|- June, 2023]]
 
 <h2>Details</h2>
 
@@ -24,16 +35,21 @@
 
 <p> <strong>Dimensions</strong><br> 5.75 × 8.6" </p>
 
-<p> <strong>Completed</strong><br> September 2019 </p> </section>
+<p> <strong>Completed</strong><br> April 2022 </p> </section>
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
 
-<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/Dada-Linework.png" alt="Close-up detail of the Dada Gunamuktananda portrait"> <img src="/_hidden/site%20images/paintings/Dada-2.png" alt="Linework stage of the Dada Gunamuktananda portrait"> </div> </section> </div>
+<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/ego-death-detail.png"> <img src="/_hidden/site%20images/paintings/ego-death-detail-2.png"> <img src="/_hidden/site%20images/paintings/ego-death-detail-3.png">
+</div> </section> </div>
 
-<div class="portrait-closing-quote"> <blockquote> <p>“A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us.”</p> </blockquote> </div>
+<div class="portrait-closing-quote"> <blockquote> 
+<p>"If most of us are ignorant of ourselves, it is because self-knowledge is painful, and we prefer the pleasures of illusion."</p>
+
+<cite>— [[The Perennial Philosophy - Aldous Huxley]]</cite>
+</blockquote> </div>
 
 <div class="portrait-navigation"> <div class="portrait-previous"> <a href="/art/tribal-woman">← Tribal Woman</a> </div>
 
 <div class="portrait-all"> <a href="/art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/art/ego-death">Ego Death →</a> </div> </div>
+<div class="portrait-next"> <a href="/art/dada-gunamuktananda">Dada →</a> </div> </div>

@@ -45,4 +45,4 @@ date: 2019-09-02
 
 <div class="portrait-all"> <a href="/art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/art/ego-death">Ego Death →</a> </div> </div>
+<div class="portrait-next"> <a href="/art/Ego-Death">Ego Death →</a> </div> </div>
