@@ -53,6 +53,16 @@ April 2022
 
 </section>
 
+<section class="portrait-gallery">
+
+<img src="/paintings/ego-death.png" alt="Finished portrait of Ego Death">
+
+<div class="portrait-process">
+
+</div>
+
+</section>
+
 </div>
 
 <div class="portrait-closing-quote">
