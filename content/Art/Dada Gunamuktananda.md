@@ -20,9 +20,9 @@ date: 2019-09-02
 
 <h2>About This Portrait</h2>
 
-<p>I first encountered Dada's work when I saw him give a <a href="https://www.youtube.com/watch?v=lo0X2ZdElQ4">TED talk</a>.</p>
+I first encountered Dada's work when I saw him give a <a href="https://www.youtube.com/watch?v=lo0X2ZdElQ4">TED talk</a>.
 
-<p>His talk was profound but what struck me most was his sincerity. Its so rare to come across someone as genuine & humble as this man appears to be. They say it's all in the eyes... & his sparkle with a sort of childlike wonder.</p>
+His talk was profound but what struck me most was his sincerity. Its so rare to come across someone as [[authenticity|genuine]] & humble as this man appears to be. They say it's all in the eyes... & his sparkle with a sort of childlike [[wonder]].
 
 <h2>Details</h2>
 
