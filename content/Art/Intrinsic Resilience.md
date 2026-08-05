@@ -8,7 +8,7 @@ date: 2020-09-02
 ---
 <div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
-<h1>Imagine Consciousness</h1>
+<h1>Intrinsic Resilience</h1>
 
 <p class="portrait-role">Portrait study of an African Woman</p>
 
@@ -38,7 +38,7 @@ I saw a portrait of an African woman & was moved just by her countenance. She ex
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience.jpg">
 
-<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details.png"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details-2.png> </div> </section> </div>
+<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details.png"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details-2.png"> </div> </section> </div>
 
 <div class="portrait-closing-quote"> <blockquote> <p>"Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that [[people-pleasing|being 'sweet']] in these instances only makes the predator smile.“</p> 
 <cite>— [[Women Who Run with the Wolves - Clarissa Pinkola Estes]]</cite>
