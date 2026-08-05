@@ -25,6 +25,8 @@ Let me always be true.
 
 ---
 
-Links to:
+#### Links to
+
 [[I Float]]
+
 [[To truly live you must be malleable and adaptable]]
