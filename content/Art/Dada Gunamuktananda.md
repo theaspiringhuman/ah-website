@@ -2,7 +2,6 @@
 title: Dada Gunamuktananda
 description: Portrait study of Dada Gunamuktananda
 tags:
-  - portrait
   - art
 date: 2019-09-02
 ---

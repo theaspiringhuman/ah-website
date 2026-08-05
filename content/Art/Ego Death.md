@@ -1,3 +1,10 @@
+---
+title: Ego Death
+description: Portrait exploring the dissolution of identity.
+tags:
+  - art
+date: 2022-04-01
+---
 <div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
 <h1>Ego Death</h1>
@@ -31,7 +38,7 @@ Is there an "I"?
 
 I feel more like an amalgam of experiences and influences than a person with an [[identity]]. More of a fluid than a solid.
 
-[[More of a Fluid than a Solid|- June, 2023]]
+[[✎ More of a Fluid than a Solid|- June, 2023]]
 
 <h2>Details</h2>
 
