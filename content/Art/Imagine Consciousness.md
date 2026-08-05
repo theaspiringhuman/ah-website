@@ -1,5 +1,5 @@
 ---
-title: Dada Gunamuktananda
+title: Imagine Consciousness
 description: Portrait study of Dada Gunamuktananda
 tags:
   - art
@@ -8,9 +8,9 @@ date: 2019-09-02
 ---
 <div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
 
-<h1>Dada Gunamuktananda</h1>
+<h1>Imagine Consciousness</h1>
 
-<p class="portrait-role">Spiritual Teacher · Philosopher · Writer</p>
+<p class="portrait-role">Portrait study of Dada Gunamuktananda</p>
 
 <div class="portrait-mobile-hero">
 <img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg" alt="Finished portrait of Dada Gunamuktananda">
