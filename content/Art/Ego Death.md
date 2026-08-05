@@ -15,7 +15,7 @@ On the loss of identity
 </p>
 
 <div class="portrait-mobile-hero">
-  <img src="/paintings/ego-death.jpg" alt="Finished portrait of Ego Death">
+  <img src="/paintings/ego-death.png" alt="Finished portrait of Ego Death">
 </div>
 
 <blockquote>
@@ -50,16 +50,6 @@ Strathmore 400 Gray Toned
 <strong>Completed</strong><br>
 April 2022
 </p>
-
-</section>
-
-<section class="portrait-gallery">
-
-<img src="/paintings/ego-death.jpg" alt="Finished portrait of Ego Death">
-
-<div class="portrait-process">
-
-</div>
 
 </section>
 
