@@ -40,7 +40,7 @@ I saw a portrait of an African woman & was moved just by her countenance. She ex
 
 <div class="portrait-process"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details.png"> <img src="/_hidden/site%20images/paintings/intrinsic-resilience-details-2.png"> </div> </section> </div>
 
-<div class="portrait-closing-quote"> <blockquote> "Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that [[people-pleasing|being 'sweet']] in these instances only makes the predator smile.“ 
+<div class="portrait-closing-quote"> <blockquote> "Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that being 'sweet' in these instances only makes the predator smile.“ 
 <cite>— [[Women Who Run with the Wolves - Clarissa Pinkola Estes]]</cite>
 </blockquote> </div>
 
