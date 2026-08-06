@@ -6,8 +6,7 @@ Source: #Journals [[Green & Gold Wishes]]
 
 ---
 
-The passage of time is relentless...
-Life just keeps going on & pushing us along into old age & [[death]] whether we're ready or not. 
+Life just keeps goin' on & pushing us along into old age & [[death]] whether we're ready or not. 
 
 & what is this life at the end?
 
