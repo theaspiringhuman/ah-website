@@ -1,10 +1,9 @@
 ---
 title: hi :)
 ---
+<div class="centered-image">
+
 ![[homepage-2.png|600]]
-
-
-
 
 <div style="text-align: center;">  
 
