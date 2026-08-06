@@ -42,6 +42,7 @@ I saw a portrait of an African woman & was moved just by her countenance. She ex
 
 <div class="portrait-closing-quote"> <blockquote>
 <p>"Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that being 'sweet' in these instances only makes the predator smile.“</p>
+
 <cite>— [[Women Who Run with the Wolves - Clarissa Pinkola Estes]]</cite>
 </blockquote> </div>
 
