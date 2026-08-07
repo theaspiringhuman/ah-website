@@ -5,8 +5,8 @@ Tags: [[illusion]] [[reality]]  #poems
 Source: #Journals [[Gray Cloth]]
 
 ---
-![[copy-of-a-copy.png|400]]
 
+![[copy-of-a-copy.png|400]]
 
 *Illusive Self*, 2026. Composite Photo. Yours Truly.
 
