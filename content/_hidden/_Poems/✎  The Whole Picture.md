@@ -21,7 +21,7 @@ Hand-me-down truths
 
 That no one understands
 
-Holograms and semblances
+Holograms & semblances
 
 Of what we once were
 
@@ -29,7 +29,7 @@ And naked reality
 
 Is too tender to touch
 
-Divided and distracted
+Divided & distracted
 
 We cling
 
