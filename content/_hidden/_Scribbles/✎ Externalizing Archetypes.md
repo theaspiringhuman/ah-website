@@ -47,7 +47,7 @@ To become conscious of our patterns so that we can be more whole, more conscious
 - you grow in self-knowledge
 - you become conscious of potentially harmful patterns
 - you gain more autonomy in your life
-- you become more [[creativity|creative]], as these archetypal images dance around in your mind and generate all sorts of ideas for [[art]]
+- you become more [[creativity|creative]], as these archetypal images dance around in your mind and generate all sorts of ideas for [[content/_hidden/Topics/art]]
 
 ---
 

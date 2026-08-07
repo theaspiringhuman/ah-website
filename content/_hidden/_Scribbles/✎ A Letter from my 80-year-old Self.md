@@ -27,7 +27,7 @@ Your vulnerability is your strength, as Wendi says. & your vulnerability is the 
 
 I am so proud of you for choosing to be brave enough to be vulnerable. 
 
-You are about to begin to take your [[art]] seriously, & that is a very wise choice. You were born an artist & an artist you will always be. Make sure to cherish & refine those visions in your mind as you learn the skills to beautifully express them through your art. Never forget that [[You|God]] is expressing through you, & you are a vessel for beauty. In this way, your life is not exactly your own, & you have a responsibility to express the visions & insights that are given you. 
+You are about to begin to take your [[content/_hidden/Topics/art]] seriously, & that is a very wise choice. You were born an artist & an artist you will always be. Make sure to cherish & refine those visions in your mind as you learn the skills to beautifully express them through your art. Never forget that [[You|God]] is expressing through you, & you are a vessel for beauty. In this way, your life is not exactly your own, & you have a responsibility to express the visions & insights that are given you. 
 
 Continue to write. & don't be afraid to share your writing with the world. You have imagined that perhaps someone would find your writings after you're dead & that's when they will be [[value|valued]] & cherished. This is just another way of [[hiding]], my love. We mustn't [[hiding|hide]] our truest selves. Your words have power. These journals are filled with your heart's truest expression, & there are so many who would receive & benefit from your words now! Let your light shine, Megan. You are radiant!
 

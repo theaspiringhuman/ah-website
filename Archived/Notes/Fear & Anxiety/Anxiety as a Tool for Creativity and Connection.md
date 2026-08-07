@@ -55,7 +55,7 @@ Pan’s association with both pleasure and [[fear]] gives us a more nuanced view
 
 1. Even though it's *extremely* uncomfortable, [[anxiety]] often arises as a result of an acute sensitivity to the world. This heightened awareness can make us more attuned to subtle details that others may miss, and that we can use in our creative expression.
 2. There is a TON of raw energy behind [[anxiety]], which, when channeled intentionally, can be used cathartically in the creative process with surprising results. 
-3. Creative expression - [[art]], poetry, dance - that's rooted in [[anxiety]] often resonates deeply because it captures the raw, unfiltered aspects of the human experience. This kind of [[vulnerability]] is super relatable, because most everyone can resonate with that feeling of anxiety, and its honest expression can create space for others to authentically express themselves. 
+3. Creative expression - [[content/_hidden/Topics/art]], poetry, dance - that's rooted in [[anxiety]] often resonates deeply because it captures the raw, unfiltered aspects of the human experience. This kind of [[vulnerability]] is super relatable, because most everyone can resonate with that feeling of anxiety, and its honest expression can create space for others to authentically express themselves. 
 4. Just by being [[honesty|honest]] and open about our anxiety, we are allowing ourselves to be vulnerable and authentic with others, which usually invites [[vulnerability]] and [[authenticity]] in return. If we can be brave enough to just be real about the things we struggle with, we take the [[shame]] away from the experience, and make it okay for others to share their struggles as well. 
 
 ---

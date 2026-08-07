@@ -7,7 +7,7 @@ Source: #WalkingThoughts
 ---
 
 ![[no-answers-only-art.png]]
-### I don't have answers, only [[art]].
+### I don't have answers, only [[content/_hidden/Topics/art]].
 
 On my morning walk yesterday I thought about how my life's message seems to have less to do with answers and more to do with making the questions themselves beautiful. 
 

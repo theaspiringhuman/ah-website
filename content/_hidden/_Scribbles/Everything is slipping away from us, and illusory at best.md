@@ -31,7 +31,7 @@ A flickering lamp, a phantom, and a dream.” - [The Diamond Sutra](https://ia80
 
 
 > [!quote]
-> "We live amid surfaces, and the true [[art]] of life is to skate well on them." - [[Ralph Waldo Emerson]], *Experience*, pg 233
+> "We live amid surfaces, and the true [[content/_hidden/Topics/art]] of life is to skate well on them." - [[Ralph Waldo Emerson]], *Experience*, pg 233
 
 
 ---

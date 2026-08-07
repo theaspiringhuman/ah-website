@@ -28,7 +28,7 @@
 
 ---
 
-"Each woman has potential access to *Rio Abajo Rio*, this river beneath the river. She arrives there through deep meditation, dance, writing, painting, prayermaking, singing, drumming, active imagination, or any activity which requires an intense altered consciousness. A woman arrives in this world between worlds through yearning and by seeking something she can see just out of the corner of her eye. She arrives there by deeply creative acts, through intentional [[solitude]], and by practice of any of the [[art]]s. And even with these well-crafted practices, much of what occurs in this ineffable world remains forever mysterious to us, for it breaks physical laws and rational laws as we know them." - pg. 30 ^quote7
+"Each woman has potential access to *Rio Abajo Rio*, this river beneath the river. She arrives there through deep meditation, dance, writing, painting, prayermaking, singing, drumming, active imagination, or any activity which requires an intense altered consciousness. A woman arrives in this world between worlds through yearning and by seeking something she can see just out of the corner of her eye. She arrives there by deeply creative acts, through intentional [[solitude]], and by practice of any of the [[content/_hidden/Topics/art]]s. And even with these well-crafted practices, much of what occurs in this ineffable world remains forever mysterious to us, for it breaks physical laws and rational laws as we know them." - pg. 30 ^quote7
 
 ---
 
@@ -158,7 +158,7 @@ One of the greatest problems of the creative complex is the accusation that what
 
 ---
 
-"A woman must be careful to not allow over-responsibility (or over-respectability) to steal her necessary [[creativity|creative]] rests, riffs, and raptures. She simply must put her foot down and say no to half of what she believes she 'should' be doing. [[art]] is not meant to be created in stolen moments only.
+"A woman must be careful to not allow over-responsibility (or over-respectability) to steal her necessary [[creativity|creative]] rests, riffs, and raptures. She simply must put her foot down and say no to half of what she believes she 'should' be doing. [[content/_hidden/Topics/art]] is not meant to be created in stolen moments only.
 
 The scattering of plans and projects, as if by a wind, occurs when a woman attempts to organize a creative idea and it just somehow keeps being blown away, becoming more and more confused and distorted. She is not tracking it in any concrete way because, again, she doesn't have time to write it all down and organize it, or she is called by so many other things, that she loses her place and cannot pick it up again.
 

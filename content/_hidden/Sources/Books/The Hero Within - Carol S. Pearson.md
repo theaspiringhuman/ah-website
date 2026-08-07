@@ -334,7 +334,7 @@
 
 ---
 
-"Anyone who writes, paints, or composes knows about receiving help from the muse. The feeling is not so much that you are creating [[art]], but that art is being created through you."
+"Anyone who writes, paints, or composes knows about receiving help from the muse. The feeling is not so much that you are creating [[content/_hidden/Topics/art]], but that art is being created through you."
 
 - pg 161
 

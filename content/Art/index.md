@@ -1,3 +1,6 @@
+---
+title: Art
+---
 <div class="art-gallery">
 
 <a class="art-item" href="/art/Resilience">

@@ -15,4 +15,4 @@ Source: #Journals [[Randolph Black]]
 
 ---
 
-*Reflections on the purpose of [[art]].*
+*Reflections on the purpose of [[content/_hidden/Topics/art]].*

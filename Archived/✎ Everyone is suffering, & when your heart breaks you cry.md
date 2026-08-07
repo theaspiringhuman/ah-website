@@ -28,7 +28,7 @@ And of course this made *me* cry.
 How am I framing this time now? Am I not growing and evolving?
 And how do I want the rest of my life to go?
 
-I would like to make [[art]] and travel the world. I would like to find some place I belong. I'd like to [[love]] and be loved. I would like to boldly and beautifully express what this human experience is like for me.
+I would like to make [[content/_hidden/Topics/art]] and travel the world. I would like to find some place I belong. I'd like to [[love]] and be loved. I would like to boldly and beautifully express what this human experience is like for me.
 
 ---
 #### Links to

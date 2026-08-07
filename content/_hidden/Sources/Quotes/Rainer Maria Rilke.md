@@ -17,7 +17,7 @@
 
 ---
 
-"A work of [[art]] is good if it has grown out of necessity." - Rainer Maria Rilke  ^quote5
+"A work of [[content/_hidden/Topics/art]] is good if it has grown out of necessity." - Rainer Maria Rilke  ^quote5
 
 ---
 
@@ -65,6 +65,6 @@
 
 ---
 
-"Read as little as possible of literary criticism... Works of [[art]] are of an infinite [[solitude]]." - [Letters to a Young Poet​](https://ia902903.us.archive.org/13/items/letterstoayoungpoetpdfdrive.com/Letters%20to%20a%20Young%20Poet%20%28%20PDFDrive.com%20%29.pdf)
+"Read as little as possible of literary criticism... Works of [[content/_hidden/Topics/art]] are of an infinite [[solitude]]." - [Letters to a Young Poet​](https://ia902903.us.archive.org/13/items/letterstoayoungpoetpdfdrive.com/Letters%20to%20a%20Young%20Poet%20%28%20PDFDrive.com%20%29.pdf)
 
 ---
