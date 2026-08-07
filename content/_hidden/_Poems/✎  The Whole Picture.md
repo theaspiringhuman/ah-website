@@ -8,15 +8,13 @@ Source: [#Journals](#Journals) [Gray Cloth](<Gray Cloth>)
 
 <div class="art-poem-layout">
 
-  <figure class="art-poem-image">
+  <div class="art-poem-image">
 
 ![[copy-of-a-copy.png|400]]
 
-    <figcaption>
-      <em>Illusive Self</em>, 2026. Composite Photo. Yours Truly.
-    </figcaption>
+    <p class="art-caption"><em>Illusive Self</em>, 2026. Composite Photo. Yours Truly.</p>
 
-  </figure>
+  </div>
 
   <div class="art-poem-text">
 
