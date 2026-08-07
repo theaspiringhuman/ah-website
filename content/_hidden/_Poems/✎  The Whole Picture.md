@@ -10,7 +10,7 @@ Source: [#Journals](#Journals) [Gray Cloth](<Gray Cloth>)
 
 <div class="art-poem-image">
 
-![[copy-of-a-copy.png|400]]
+![[copy-of-a-copy.png|370]]
 
 *Illusive Self*, 2026. Composite Photo. Yours Truly.
 
@@ -24,7 +24,7 @@ A copy of a copy of a copy
 
 is our world
 
-Hand-me-down truths
+Hand-me-down [[truth|truths]]
 
 That no one understands
 
@@ -32,7 +32,7 @@ Holograms & semblances
 
 Of what we once were
 
-And naked reality
+And naked [[reality]]
 
 Is too tender to touch
 
