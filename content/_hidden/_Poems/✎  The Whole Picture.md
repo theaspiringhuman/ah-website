@@ -1,16 +1,25 @@
 Date: 09-05-2022
 
-Tags: [[illusion]] [[reality]]  #poems
+Tags: [illusion](illusion) [reality](reality) [#poems](#poems)
 
-Source: #Journals [[Gray Cloth]]
+Source: [#Journals](#Journals) [Gray Cloth](<Gray Cloth>)
 
 ---
+
+<div class="art-poem-layout">
+
+  <figure class="art-poem-image">
 
 ![[copy-of-a-copy.png|400]]
 
-*Illusive Self*, 2026. Composite Photo. Yours Truly.
+    <figcaption>
+      <em>Illusive Self</em>, 2026. Composite Photo. Yours Truly.
+    </figcaption>
 
----
+  </figure>
+
+  <div class="art-poem-text">
+
 #### The Whole Picture
 
 A copy of a copy of a copy
@@ -38,3 +47,7 @@ Each to his own piece
 Of the puzzle
 
 As if it were the whole picture
+
+  </div>
+
+</div>
