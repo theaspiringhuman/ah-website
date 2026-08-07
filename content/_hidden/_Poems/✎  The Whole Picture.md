@@ -8,15 +8,15 @@ Source: [#Journals](#Journals) [Gray Cloth](<Gray Cloth>)
 
 <div class="art-poem-layout">
 
-  <div class="art-poem-image">
+<div class="art-poem-image">
 
 ![[copy-of-a-copy.png|400]]
 
-    <p class="art-caption"><em>Illusive Self</em>, 2026. Composite Photo. Yours Truly.</p>
+*Illusive Self*, 2026. Composite Photo. Yours Truly.
 
-  </div>
+</div>
 
-  <div class="art-poem-text">
+<div class="art-poem-text">
 
 #### The Whole Picture
 
@@ -46,6 +46,6 @@ Of the puzzle
 
 As if it were the whole picture
 
-  </div>
+</div>
 
 </div>

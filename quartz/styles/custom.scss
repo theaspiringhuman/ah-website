@@ -813,15 +813,12 @@ body:has(.portrait-page) .article-title {
   margin: 0;
 }
 
-.art-poem-image figcaption {
-  margin-top: 0.75rem;
+/* Caption generated from the Markdown line beneath the image */
+.art-poem-image p {
+  margin: 0.75rem 0 0;
   font-size: 0.8rem;
   line-height: 1.5;
   opacity: 0.8;
-}
-
-.art-poem-text {
-  padding-top: 0;
 }
 
 .art-poem-text h4 {
