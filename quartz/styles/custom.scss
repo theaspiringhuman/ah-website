@@ -665,3 +665,132 @@ body:has(.portrait-page) .article-title {
     font-size: 0.7rem;
   }
 }
+/* ==========================================
+   ART GALLERY
+   ========================================== */
+
+.art-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 1.75rem;
+  row-gap: 3.5rem;
+  margin: 3rem 0 5rem;
+  width: 100%;
+}
+
+
+/* Individual artwork */
+
+.art-item {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  min-width: 0;
+}
+
+
+/* Artwork image */
+
+.art-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+  transition:
+    transform 0.4s ease,
+    opacity 0.4s ease;
+}
+
+
+/* Text beneath artwork */
+
+.art-info {
+  margin-top: 0.8rem;
+}
+
+.art-title {
+  display: block;
+  font-family: var(--headerFont);
+  font-size: 1rem;
+  line-height: 1.35;
+  color: var(--dark);
+}
+
+.art-meta {
+  display: block;
+  margin-top: 0.2rem;
+  font-family: var(--bodyFont);
+  font-size: 0.72rem;
+  line-height: 1.4;
+  color: var(--gray);
+  opacity: 0.75;
+}
+
+
+/* Quiet hover effect */
+
+.art-item:hover img {
+  transform: translateY(-3px);
+  opacity: 0.92;
+}
+
+.art-item:hover .art-title {
+  color: var(--secondary);
+}
+
+
+/* Remove Quartz's normal link decoration */
+
+.art-gallery a {
+  background: none;
+  text-decoration: none;
+}
+
+.art-gallery a:hover {
+  text-decoration: none;
+}
+
+
+/* ==========================================
+   TABLET
+   ========================================== */
+
+@media (max-width: 900px) {
+
+  .art-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 1.25rem;
+    row-gap: 2.75rem;
+    margin-top: 2.5rem;
+  }
+
+}
+
+
+/* ==========================================
+   MOBILE
+   ========================================== */
+
+@media (max-width: 550px) {
+
+  .art-gallery {
+    grid-template-columns: 1fr;
+    row-gap: 2.75rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+
+  .art-info {
+    margin-top: 0.65rem;
+  }
+
+  .art-title {
+    font-size: 1rem;
+  }
+
+  .art-meta {
+    font-size: 0.7rem;
+  }
+
+}
