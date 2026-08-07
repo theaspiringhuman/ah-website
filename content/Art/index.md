@@ -9,7 +9,7 @@
 </a>
 
 <a class="art-item" href="/art/Ego%20Death">
-  <img src="/_hidden/site%20images/paintings/ego-death-portrait.jpg">
+  <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
   <div class="art-info">
     <span class="art-title">Ego Death</span>
     <span class="art-meta">2022 · Graphite & Ink Portrait</span>
