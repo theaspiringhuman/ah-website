@@ -1,6 +1,6 @@
 <div class="art-gallery">
 
-<a class="art-item" href="/art/Reslience">
+<a class="art-item" href="/art/Resilience">
   <img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
   <div class="art-info">
     <span class="art-title">Resilience</span>
@@ -8,7 +8,7 @@
   </div>
 </a>
 
-<a class="art-item" href="/art/Ego%20Death">
+<a class="art-item" href="/art/Ego-Death">
   <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
   <div class="art-info">
     <span class="art-title">Ego Death</span>
@@ -16,7 +16,7 @@
   </div>
 </a>
 
-<a class="art-item" href="/art/Imagine%20Consciousness">
+<a class="art-item" href="/art/Imagine-Consciousness">
   <img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg">
   <div class="art-info">
     <span class="art-title">Imagine Consciousness</span>
