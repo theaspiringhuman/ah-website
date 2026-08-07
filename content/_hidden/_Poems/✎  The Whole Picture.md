@@ -40,7 +40,7 @@ Divided & distracted
 
 We cling
 
-Each to his own piece
+Each to their own piece
 
 Of the puzzle
 
