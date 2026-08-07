@@ -3,7 +3,7 @@ title: Art
 ---
 <div class="art-gallery">
 
-<a class="art-item" href="/art/Resilience">
+<a class="art-item" href="/Art/Resilience">
   <img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
   <div class="art-info">
     <span class="art-title">Resilience</span>
@@ -11,7 +11,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/art/Ego-Death">
+<a class="art-item" href="/Art/Ego-Death">
   <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
   <div class="art-info">
     <span class="art-title">Ego Death</span>
@@ -19,7 +19,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/art/Imagine-Consciousness">
+<a class="art-item" href="/Art/Imagine-Consciousness">
   <img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg">
   <div class="art-info">
     <span class="art-title">Imagine Consciousness</span>
