@@ -5,10 +5,10 @@ Tags: [[illusion]] [[reality]]  #poems
 Source: #Journals [[Gray Cloth]]
 
 ---
+![[copy-of-a-copy.png|400]]
 
-![[living-room.jpg]]
 
-*Living Room*, 2026. Composite Photo. Yours Truly.
+*Illusive Self*, 2026. Composite Photo. Yours Truly.
 
 ---
 #### The Whole Picture
