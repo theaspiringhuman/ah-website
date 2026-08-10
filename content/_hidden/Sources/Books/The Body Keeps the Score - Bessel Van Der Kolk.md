@@ -31,7 +31,7 @@ pg. 18
 
 ---
 
->"[[Healing]]... depends on experiential knowledge: You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions."^quote5
+>"[[healing|Healing]]... depends on experiential knowledge: You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions."^quote5
 
 
 pg. 27
