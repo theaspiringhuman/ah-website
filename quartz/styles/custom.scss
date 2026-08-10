@@ -851,3 +851,8 @@ body:has(.portrait-page) .article-title {
 [saved-theme="dark"] .sidebar-image img {
   filter: invert(1);
 }
+@media (max-width: 700px) {
+  .sidebar-image {
+    display: none;
+  }
+}
