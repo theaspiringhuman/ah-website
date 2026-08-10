@@ -848,11 +848,33 @@ body:has(.portrait-page) .article-title {
   height: auto;
   margin-left: 0.25rem;
 }
+
+/* White logo in dark mode */
 [saved-theme="dark"] .sidebar-image img {
-  filter: invert(1);
+  filter: brightness(0) invert(1);
 }
-@media (max-width: 700px) {
+
+/* MOBILE */
+@media all and (max-width: 800px) {
   .sidebar-image {
-    display: none;
+    display: block !important;
+    width: auto;
+    margin: 0 0.4rem 0;
+    flex-shrink: 0;
+  }
+
+  .sidebar-image img {
+    display: block !important;
+    width: 44px;
+    height: 44px;
+    object-fit: contain;
+    margin: 0;
+  }
+
+  .page-title {
+    font-size: 1.35rem !important;
+    line-height: 1 !important;
+    white-space: nowrap;
+    margin: 0 !important;
   }
 }
