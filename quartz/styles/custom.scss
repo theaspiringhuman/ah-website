@@ -848,3 +848,6 @@ body:has(.portrait-page) .article-title {
   height: auto;
   margin-left: 0.25rem;
 }
+[saved-theme="dark"] .sidebar-image img {
+  filter: invert(1);
+}
