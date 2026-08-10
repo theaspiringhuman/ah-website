@@ -12,9 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+   analytics: {
+  provider: "google",
+  tagId: "G-6T4JRBC3H7",
+},
     locale: "en-US",
     baseUrl: "theaspiringhuman.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
