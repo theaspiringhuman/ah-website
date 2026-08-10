@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [Component.Backlinks()],
 
   left: [
+    Component.SidebarImage(),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({

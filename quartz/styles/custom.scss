@@ -837,3 +837,14 @@ body:has(.portrait-page) .article-title {
     gap: 2rem;
   }
 }
+.sidebar-image {
+  width: 100%;
+  margin-bottom: 0.25rem;
+}
+
+.sidebar-image img {
+  display: block;
+  width: 90px;
+  height: auto;
+  margin: 0 auto;
+}
