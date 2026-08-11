@@ -24,5 +24,5 @@ This hit me as a revelation.
 
 Links to
 
-[[✎ Love is Like Gold]]
+[[Love is Like Gold]]
 
