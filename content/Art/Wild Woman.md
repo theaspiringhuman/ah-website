@@ -16,7 +16,7 @@ date: 2019-02-18
 <img src="/_hidden/site%20images/paintings/wild-woman.png">
 </div>
 
-<blockquote> <p><em> “Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.”</em></p> <cite>— <a href="/_hidden/Sources/Quotes/Kahlil-Gibran">Kahlil Gibran</a></cite> </blockquote>
+<blockquote> <p><em> “The spiritual lands of Wild Woman have, throughout history, been plundered or burnt, dens bulldozed, and natural cycles forced into unnatural rhythms to [[people-pleasing|please others]].”</em></p> <cite>— <a href="/_hidden/Sources/Books/Women-Who-Run-with-the-Wolves---Clarissa-Pinkola-Estes">Clarissa Pinkola Estes</a></cite> </blockquote>
 
 <h2>About This Portrait</h2>
 
@@ -39,13 +39,13 @@ The portrait represents to me the symbol of feminine power & [[embodiment]].
 <div class="portrait-process"> <img src="/_hidden/site%20images/paintings/wild-woman-process.png"> </div> </section> </div>
 
 <div class="portrait-closing-quote"> <blockquote>
-<p>"Wild Woman teaches women when not to act 'nice' about protecting their soulful lives. The wildish nature knows that being 'sweet' in these instances only makes the predator smile.“</p>
+<p>"Because in the beginning of retrieving our relationship with her she can turn to smoke in an instant, by naming her we create for her a territory of thought and feeling within us."</p>
 
 <cite>— <a href="/_hidden/Sources/Books/Women%20Who%20Run%20with%20the%20Wolves%20-%20Clarissa%20Pinkola%20Estes">WomenWho Run with the Wolves - Clarissa Pinkola Estes</a></cite>
 </blockquote> </div>
 
-<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/art/tribal-woman">← Tribal Woman</a> </div>
+<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/Art/Resilience">← Resilience</a> </div>
 
-<div class="portrait-all"> <a href="/art">Art</a> </div>
+<div class="portrait-all"> <a href="/Art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/art/Ego-Death">Ego Death →</a> </div> </div>
+<div class="portrait-next"> <a href="/Art/Ego-Death">Ego Death →</a> </div> </div>
