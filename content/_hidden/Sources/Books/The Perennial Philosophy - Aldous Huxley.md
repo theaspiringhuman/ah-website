@@ -130,3 +130,15 @@ pg. 36
 "The poet's or the painter's vision of the divine in nature, the worshipper's awareness of a holy presence in the sacrament, symbol or image--these are not entirely subjective. True, such perceptions cannot be had by all perceivers, for knowledge is a function of being; but the thing known is independent of the mode and nature of the knower. What the poet and painter see, and try to record for us, is actually there, waiting to be apprehended by anyone who has the right kind of faculties." - Aldous Huxley, *The Perennial Philosophy* ^quote21
 
 pg. 59
+
+---
+
+ "We can only love what we know, and we can never know completely what we do not love. [[love|Love]] is a mode of knowledge, and when the love is sufficiently disinterested and sufficiently intense, the knowledge becomes [[intuition|intuitive]] knowledge and so takes the quality of infallibility." - Aldous Huxley, *The Perennial Philosophy* ^quote22
+
+pg. 81
+
+---
+
+ "Ambiguity in vocabulary leads to confusion of thought." - Aldous Huxley, *The Perennial Philosophy* ^quote23
+
+pg. 83

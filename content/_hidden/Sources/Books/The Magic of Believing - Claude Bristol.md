@@ -28,3 +28,25 @@
 
 
 **pg. 17
+
+---
+
+
+>"What you exhibit outwardly, you are inwardly. You are the product of your own thought. What you [[belief|believe]] yourself to be, you are." ^quote5
+
+
+**pg. 21
+
+---
+
+>"We are molded also by the thoughts of others; by what we hear in our social life, what we read in newspapers, magazines, and books, what we hear in the movies, the theater, and on the radio; even by chance remarks from the conversation of bystanders--and these thoughts bombard us constantly." ^quote7
+
+
+**pg. 23
+
+---
+
+>"El Dorado... Where to find the gold of the All Powerful? One secures the gold of the spirit when he finds himself. When he finds himself, he finds [[freedom]] and all riches, achievement, and prosperity... Men who know themselves know at once that all material things and ideas have a spiritual counterpart or basis." ^quote6
+
+
+**pg. 24
