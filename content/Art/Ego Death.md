@@ -61,8 +61,8 @@ I feel more like an amalgam of experiences and influences than a person with an 
 <cite>— [[The Perennial Philosophy - Aldous Huxley]]</cite>
 </blockquote> </div>
 
-<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/art/tribal-woman">← Tribal Woman</a> </div>
+<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/Art/Wild-Woman">← Wild Woman</a> </div>
 
 <div class="portrait-all"> <a href="/Art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/Art/Dada%20Gunamuktananda">Dada →</a> </div> </div>
+<div class="portrait-next"> <a href="/Art/Imagine-Consciousness">Imagine Consciousness →</a> </div> </div>

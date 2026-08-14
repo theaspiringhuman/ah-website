@@ -40,8 +40,8 @@ His talk was profound but what struck me most was his sincerity. Its so rare to 
 
 <div class="portrait-closing-quote"> <blockquote> <p>“A light bulb is capable of shining light on the room around it but not on the power which illuminates it. In the same way, we’re capable of comprehending the world around us but not the consciousness which animates us.”</p> </blockquote> </div>
 
-<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/art/tribal-woman">← Tribal Woman</a> </div>
+<div class="portrait-navigation"> <div class="portrait-previous"> <a href="/Art/Resilience">← Resilience</a> </div>
 
-<div class="portrait-all"> <a href="/art">Art</a> </div>
+<div class="portrait-all"> <a href="/Art">Art</a> </div>
 
-<div class="portrait-next"> <a href="/art/Ego-Death">Ego Death →</a> </div> </div>
+<div class="portrait-next"> <a href="/Art/Ego-Death">Ego Death →</a> </div> </div>

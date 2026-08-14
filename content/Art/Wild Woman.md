@@ -16,7 +16,7 @@ date: 2019-02-18
 <img src="/_hidden/site%20images/paintings/wild-woman.png">
 </div>
 
-<blockquote> <p><em> “The spiritual lands of Wild Woman have, throughout history, been plundered or burnt, dens bulldozed, and natural cycles forced into unnatural rhythms to [[people-pleasing|please others]].”</em></p> <cite>— <a href="/_hidden/Sources/Books/Women-Who-Run-with-the-Wolves---Clarissa-Pinkola-Estes">Clarissa Pinkola Estes</a></cite> </blockquote>
+<blockquote> <p><em> “The spiritual lands of Wild Woman have, throughout history, been plundered or burnt, dens bulldozed, and natural cycles forced into unnatural rhythms to please others.”</em></p> <cite>— <a href="/_hidden/Sources/Books/Women-Who-Run-with-the-Wolves---Clarissa-Pinkola-Estes">Clarissa Pinkola Estes</a></cite> </blockquote>
 
 <h2>About This Portrait</h2>
 
