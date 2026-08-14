@@ -27,4 +27,12 @@ title: Art
   </div>
 </a>
 
+<a class="art-item" href="/Art/Wild-Woman">
+  <img src="/_hidden/site%20images/paintings/wild-woman.png">
+  <div class="art-info">
+    <span class="art-title">Wild Woman</span>
+    <span class="art-meta">2019 · Graphite & Ink Portrait</span>
+  </div>
+</a>
+
 </div>
