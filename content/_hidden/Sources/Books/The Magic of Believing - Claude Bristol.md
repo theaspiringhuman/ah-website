@@ -50,3 +50,10 @@
 
 
 **pg. 24
+
+---
+
+>"Most people have a general desire to [[success|succeed]], but beyond that, everything is indefinite. They merely go along from day to day, figuring that if they have a job today, they will have it tomorrow--and that somehow, they will be looked after in their old age. They are like corks floating aimlessly on the water, drawn this way and that by various currents, either washing up on shore or becoming water-logged and eventually sinking. Therefore, it is vital that you know exactly what you want out of life. You must know where you are headed, and keep a fixed goal in view." ^quote8
+
+
+**pg. 25
