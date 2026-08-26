@@ -257,7 +257,7 @@
 
 ---
 
-> "Originality then becomes the practice of un-hindering what's already there. This work is essential to belonging because your creative offering is like a holy signal to those who carry a similar vibratory signature. In hearing or seeing what you've created, they will find a sense of belonging with you and, by being found, so will you."
+> "Originality then becomes the practice of un-hindering what's already there. This work is essential to belonging because your creative offering is like a holy signal to those who carry a similar vibratory signature. In hearing or seeing what you've created, they will find a sense of belonging with you and, by being found, so will you." ^quote48
 
 **pg 97**
 

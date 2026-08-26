@@ -55,5 +55,5 @@ Though this winter season has been long & dark, & dry, & empty (at least in the 
 
 #### Links to:
 
-[[✎ The excruciating task of embodying what is within me]]
+[[The excruciating task of embodying what is within me]]
 [[The symbol of the bear as resurrection]]

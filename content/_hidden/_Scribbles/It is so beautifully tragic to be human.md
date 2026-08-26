@@ -24,4 +24,4 @@ It is so beautifully tragic to be human.
 
 #### Links to:
 
-[[✎ At the end of the epic play...]]
+[[At the end of the epic play...]]

@@ -255,7 +255,7 @@
 
 ---
 
-"Basic to every fertility religion is the knowledge that death and sacrifice are prerequisites to [[rebirth]]. This is a basic law of the natural and spiritual worlds."
+"Basic to every fertility [[religion]] is the knowledge that death and sacrifice are prerequisites to [[rebirth]]. This is a basic law of the natural and spiritual worlds."
 
 - pg 126
 
@@ -304,7 +304,7 @@
 
 ---
 
-"Virtue often is used to camouflage cowardice. Much of the appeal of dogma in religion is that it gives its followers rules to follow that rescue them from having to find out who they are and what they really think. Organizational development approaches that offer an easy right answer attract a ready following, as do books that promise instant [[success]] or enlightenment. Similarly, many people are attached to traditional sex and work roles because they provide a surrogate identity that makes the uncertainty of the journey appear unnecessary."
+"**Virtue often is used to camouflage cowardice**. Much of the appeal of dogma in [[religion]] is that it gives its followers rules to follow that rescue them from having to find out who they are and what they really think. Organizational development approaches that offer an easy right answer attract a ready following, as do books that promise instant [[success]] or enlightenment. Similarly, many people are attached to traditional sex and work roles because they provide a surrogate [[identity]] that makes the uncertainty of the journey appear unnecessary."
 
 - pg 157
 

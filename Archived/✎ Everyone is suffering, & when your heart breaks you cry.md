@@ -33,4 +33,4 @@ I would like to make [[content/_hidden/Topics/art]] and travel the world. I woul
 ---
 #### Links to
 
-[[✎ It is so beautifully tragic to be human]]
+[[It is so beautifully tragic to be human]]
