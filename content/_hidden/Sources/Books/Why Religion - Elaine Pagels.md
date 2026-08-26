@@ -46,6 +46,7 @@ Thoughts:
 
 *The journey to enlightenment is a journey inward. When we learn to follow the call of our own intuition, we will be led to the truth of our being. By getting to know ourselves, we get to know God. We are made in the image of God, and are thus marked with a divine imprint. We start with exactly where we are - whatever is coming up for us, however painful or ugly. It is usually the things we don't want to look at that reveal to us the most profound insights. The mystery unfolds as we journey inward, daring to know ourselves as we truly are, without illusions and personas. The raw reality of our being is the divine spark that is one with God.* 
 
+---
 
 Quote:
 
@@ -56,6 +57,7 @@ Thoughts:
 
 *Oh, to arrive at a place where neither praise nor blame matter as much as finding my own voice.* 
 
+---
 
 Quote:
 
@@ -65,6 +67,8 @@ Quote:
 Thoughts:
 
 *I had outsourced my discernment and trusted others to tell me what's true, and I had accepted their interpretations even if they contradicted my own experience.* 
+
+---
 
 Quote:
 
@@ -83,6 +87,7 @@ Thoughts:
 
 *I have definitely internalized this misogyny, believing deep down that women are the inferior sex. I have for this reason been distrusting of my feminine attributes like my intuition and my expressiveness. These biblical passages have always bothered me, but I always sort of brushed passed them, assuming that I was wrong for being bothered, and that one day I would be enlightened enough to understand the truth of those seemingly sexist concepts.* 
 
+---
 
 Quote:
 
@@ -95,6 +100,8 @@ Thoughts:
 
 *It's interesting that in the latter interpretation, Eve represents the awakening of the psyche to divine wisdom. Recognizing and embracing the divine feminine is the completion of the whole human experience. It has always been a troubling mystery to me that God did not want Adam and Eve to eat from the tree of knowledge. But how does this aspect of the story relate to the symbolism of Eve? The author seems to jump to a new point without completing her first thought on the tyrant God. To me, the character of God has always been of utmost importance, and it's what I've sought to understand for many years. I have always felt God communicating with me, always with Love, and yet I have not been able to reconcile the God I know with the God of the Bible, for reasons like this here - He seems to me such a tyrant.* 
 
+---
+
 Quote:
 
 "Only much later did I realize the truth: I'd rather feel guilty than helpless. For guilt, however painful, often masks a deeper agony, even more unbearable."
@@ -104,6 +111,8 @@ Thoughts:
 
 *I had a sort of revelation about this quote this morning while I was meditating on my affirmations. "I now release the need to hold onto guilt," I said in the affirmation recording I made the other day. And it hit me that I have clung to guilt as a sort of shield from this "more unbearable" thing - the fact that I have no control over the suffering of those I love. I have taken on guilt for my mom's illness, for the struggles of my family members, etc. because it has been too painful to just watch it happen and feel powerless over it all.* 
 
+---
+
 Quote:
 
 "Standing there, I seemed to see the whole scene embraced by a huge net made of ropes, with enormous spaces between the knots, through which we could be swept away at any moment, out of the world. I did not want to die, but desperately wanted to be anywhere but there; the pain was unbearable. Yet in that vision, or whatever it was, I felt that the intertwined knots were the connections with the people we loved, and that nothing else could have kept us in this world."
@@ -112,6 +121,8 @@ Quote:
 Thoughts:
 
 *In unbearable suffering, the warmth of connection with others is as vital as a womb to an unborn child. We feel just as vulnerable as an infant, and we need just as much tender loving care.* *Love is what anchors us to reality at times when the pain feels unreal, and we cannot make sense of what is happening to us.*
+
+---
 
 Quote:
 
