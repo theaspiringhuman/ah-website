@@ -21,4 +21,4 @@ Pan is my friend Pan is my friend Pan is my friend 😵‍💫
 
 #### Links to
 
-[[✎ Externalizing Archetypes]]
+[[Externalizing Archetypes]]

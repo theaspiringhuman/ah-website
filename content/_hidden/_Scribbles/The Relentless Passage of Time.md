@@ -38,4 +38,4 @@ I have complicated everything.
 ---
 #### Links to
 
-[[✎ How do I define failure & when did I become so afraid to make mistakes]]
+[[How do I define failure & when did I become so afraid to make mistakes]]

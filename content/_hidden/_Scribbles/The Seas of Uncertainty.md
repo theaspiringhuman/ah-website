@@ -14,7 +14,7 @@ When I consider the fact that some of these precepts are not in resonance with m
 And on what grounds has this [[truth]] been established? 
 I am told that it is on the basis that a certain book has been written by the hand of [[God]] and thus delivered to humanity as the infallible and ultimate law and expression of our Creator. 
 
-My life has been an exploration into the validity of this claim, and this venture has required that I "lose sight of the shore" of the axioms on which I once stood with such [[◉ The Need for Certainty|certainty]]. 
+My life has been an exploration into the validity of this claim, and this venture has required that I "lose sight of the shore" of the axioms on which I once stood with such [[The Need for Certainty|certainty]]. 
 
 In these last few years I have wandered further than ever before, and have faced some of my deepest [[fear|fears]] along the way. I have experienced profound doubt in the quest itself, ever called back to the shore, where at least I was certain of some things. Now I wander into the unknown, a deeply destabilizing place to be. 
 

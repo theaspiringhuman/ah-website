@@ -53,4 +53,4 @@ To become conscious of our patterns so that we can be more whole, more conscious
 
 #### Links to
 
- [[✎ Autonomy versus Autopilot]]
+ [[Autonomy versus Autopilot]]

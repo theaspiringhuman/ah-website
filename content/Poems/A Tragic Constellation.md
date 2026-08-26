@@ -24,6 +24,6 @@ when we'd finally see the bigger picture of our collective anguish?
 
 #### Links to
 
-[[✎ Everyone is suffering, & when your heart breaks you cry]]
+[[Everyone is suffering, & when your heart breaks you cry]]
 
 [[It is so beautifully tragic to be human]]

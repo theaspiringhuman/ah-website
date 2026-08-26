@@ -22,5 +22,5 @@ But we have been deafened by this digital age.
 
 #### Links to
 
-[[✎ The Illusory Matrix]]
+[[The Illusory Matrix]]
 

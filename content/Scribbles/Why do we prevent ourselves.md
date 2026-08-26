@@ -28,4 +28,4 @@ And how do we get past these gatekeepers? That is, if we are brave enough to fac
 
 Links to:
 
-[[✎ Fear Prevents us From the Fulness of Life]]
+[[Fear Prevents us From the Fulness of Life]]

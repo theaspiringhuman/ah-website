@@ -23,7 +23,7 @@ I want to be free to express myself.
 
 I want to bring my inner world out and share myself with others. 
 
-I want this, but I'm also [[fear|terrified]] of it at the same time. [[◉ Pan as an Archetype for Fear|I'm terrified to be seen]]. Terrified to let people in. 
+I want this, but I'm also [[fear|terrified]] of it at the same time. [[Pan as an Archetype for Fear|I'm terrified to be seen]]. Terrified to let people in. 
 
 My inner world is my sacred place, my sanctuary, my refuge from all that is untrue, and as of yet my sanctuary has been completely untouched by the outer world. 
 
@@ -35,5 +35,5 @@ I have been alone in my little castle for so long...
 
 #### Links to
 
-[[◉ Broadcasting my signal]]
+[[Broadcasting my signal]]
 

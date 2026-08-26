@@ -36,7 +36,7 @@ I float and I drift and I fall from great heights, but I cannot seem to find any
 Who am I? 
 Is there an "I"? 
 
-I feel more like an amalgam of experiences and influences than a person with an [[identity]]. [[✎ More of a Fluid than a Solid|More of a fluid than a solid]].
+I feel more like an amalgam of experiences and influences than a person with an [[identity]]. [[More of a Fluid than a Solid|More of a fluid than a solid]].
 
 - June, 2023
 
