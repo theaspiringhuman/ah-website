@@ -25,7 +25,7 @@ We're constantly being encouraged to extract & share whatever [[value]] we may f
 
 We see only what Capitalism deems as valuable. 
 
-[[Charles Eisenstein]] talks about how the monetization of aspects of human life that were once intrinsic to [[community]] living (and thus free) continues to expand into deeper and more intimate aspects of life. Has it encroached on our inner worlds as we seek to find ways to extract “value” from ourselves so we can serve it up on the market? 
+[[Charles Eisenstein]] talks about how the monetization of aspects of human life that were once intrinsic to [[community]] living (& thus free) continues to expand into deeper and more intimate aspects of life. Has it encroached on our inner worlds as we seek to find ways to extract “value” from ourselves so we can serve it up on the market? 
 
 If we've become so comfortable with stripping our forests (earth's natural resources), who's to say we won't do the same to our minds, our souls?
 
