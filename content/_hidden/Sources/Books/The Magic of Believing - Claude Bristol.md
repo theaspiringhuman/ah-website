@@ -57,3 +57,53 @@
 
 
 **pg. 25
+
+---
+
+>"It was Job who said, 'For the thing which I greatly [[fear|feared]] is come upon me.' Our fearful thoughts are just as creative and magnetic in attracting troubles to us as are the constructive and positive thoughts in attracting welcome results." ^quote9
+
+
+**pg. 27
+
+---
+
+>"While thoughts do create and exercise control far beyond any limits yet known to man, I cling to the theory that they create only according to their pitch, intensity, emotional quality, depth of feeling, or vibratory plane. In other words, thoughts have a creative or controlling force in the exact ratio of their constancy, intensity, and power--comparable to the wave length and wattage of a broadcasting station." ^quote10
+
+
+**pg. 28
+
+---
+
+>"Hermes Trismegistus and the ancient Hermetic philosophers all taught the theory of vibration. Pythagoras, the great geometrician and philosopher who lived in the sixth century before Christ, held that everything that exists is a vibration..." ^quote11
+
+
+**pg. 29
+
+---
+
+>"Sigmund Freud... brought forth the hypothesis that a powerful force within us, an [[unconscious|unilluminated part of the mind]]--separate from the conscious mind--is constantly at work molding our thoughts, feelings, and actions... The ancients often referred to it as the 'spirit.' Paracelsus called it the will, others have called it the mind, creator of the 'still, small voice within.' Others have called this division of our mental existence the soul, and some metaphysical teachers claim that it is located in the solar plexus. Others call it the super-ego, the inner power, the super-consciousness, the [[unconscious]], the subconscious, and various other names. Still others have asserted that it is a part of the Supreme Intelligence to which we are all linked. Hence the name Universal Mind...
+>
+>No matter what we call it... it is recognized as the essence of life, and the limits of its power are unknown. It never sleeps. It comes to our support in times of great trouble, it warns us of impeding danger, it often aids us to do what seems impossible. It guides us in many ways and when properly employed, performs so-called miracles." ^quote12
+
+
+**pg. 35
+
+---
+
+
+>"No artist, man of science, or writer of any distinction, however little disposed to self-analysis, is not aware by personal experience of the unequalled importance of the [[unconscious|subconscious]]..." ^quote12
+
+
+**pg. 39
+
+---
+
+
+>"...Now and then, when the solution is not forthcoming, we become exhausted with continued trying. We begin to lose confidence in ourselves, and we often resign ourselves to the idea that we have failed and that nothing can be done about it. Here is where the [[unconscious|subconscious]] mind comes in--to help renew our [[belief]] in ourselves, to assist us to overcome our difficulty, and to put us on the road to achievement and [[success]]...
+>
+>... The subconscious mind is not only a mighty storehouse of ever-ready material that can be placed at the disposal of the conscious mind, but also a powerhouse of energy with which the individual can be charged, thus enabling him to recover his [[strength]], [[courage]], and [[faith]] in himself. Such is the power of your subconscious mind...
+>
+>[[Ralph Waldo Emerson|Emerson]], though he wrote of 'instinct,' endowed it with so many superior attributes that he undoubtedly was thinking of the subconscious mind when he wrote, 'All true [[wisdom]] of thought and of action comes of deference to this instinct, [[patience]] with its delays. To make practical use of this instinct in every part of life constitutes true wisdom, and we must form the habit of preferring in all cases it guidance, which is given as it is used.'" ^quote12
+
+
+**pg. 43
