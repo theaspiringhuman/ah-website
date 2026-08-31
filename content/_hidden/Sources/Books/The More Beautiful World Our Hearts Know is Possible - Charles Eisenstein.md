@@ -56,8 +56,6 @@
 
 ---
 
-#### Footnotes
-
 [^1]: [[Collective Plague as Analogous to Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
