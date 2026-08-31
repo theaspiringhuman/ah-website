@@ -5,14 +5,14 @@
 #### Highlights:
 
 
-"...Human cultural evolution [is] a story of [[growth]], followed by crisis, followed by breakdown, followed by a renaissance: the emergence of a new kind of civilization, an Age of Reunion to follow the Age of Separation. Perhaps profound [[change]] happens only through collapse. Certainly that is true for many on a personal level.^[1]" ^quote1
+"...Human cultural evolution [is] a story of [[growth]], followed by crisis, followed by breakdown, followed by a renaissance: the emergence of a new kind of civilization, an Age of Reunion to follow the Age of Separation. Perhaps profound [[change]] happens only through collapse. Certainly that is true for many on a personal level.[^1]" ^quote1
 
 
 **pg. 3
 
 ---
 
-"What... is sacred?^[2] Since the blind, ruthless pursuit of self interest is antisocial, it is important to overcome our biological programming and pursue 'higher things.' A holy person doesn't succumb to the [[desire|desires]] of the flesh. He or she takes the path of self-denial, of discipline, ascending into the realm of spirit or, in the secular version of this quest, into the realm of reason and the mind, principles and ethics. For the religious, to be sacred is to be otherworldly; the soul is separate from the body, and [[God]] lives high above the earth. Despite their superficial opposition, science and [[religion]] have agreed: the sacred is not of this world." ^quote2
+"What... is sacred?[^2] Since the blind, ruthless pursuit of self interest is antisocial, it is important to overcome our biological programming and pursue 'higher things.' A holy person doesn't succumb to the [[desire|desires]] of the flesh. He or she takes the path of self-denial, of discipline, ascending into the realm of spirit or, in the secular version of this quest, into the realm of reason and the mind, principles and ethics. For the religious, to be sacred is to be otherworldly; the soul is separate from the body, and [[God]] lives high above the earth. Despite their superficial opposition, science and [[religion]] have agreed: the sacred is not of this world." ^quote2
 
 
 **pg. 5
@@ -28,7 +28,7 @@
 
 ---
 
-"The breakdown of the old story is kind of a [[healing]] process that uncovers the old wounds hidden under its fabric and exposes them to the healing light of awareness. I am sure many people reading this have gone through such a time, when the cloaking [[illusion|illusions]] fell away: all the old justifications and rationalizations, the the old stories.^[3]" ^quote4
+"The breakdown of the old story is kind of a [[healing]] process that uncovers the old wounds hidden under its fabric and exposes them to the healing light of awareness. I am sure many people reading this have gone through such a time, when the cloaking [[illusion|illusions]] fell away: all the old justifications and rationalizations, the the old stories.[^3]" ^quote4
 
 
 **pg. 13
