@@ -56,6 +56,99 @@
 
 ---
 
+"**I wish I could rely on evidence to choose my [[belief]].** But I cannot... Absent conclusive evidence, you will have to decide on some other basis, such as 'Which story is most aligned with who you truly are, and who you truly want to be?' 'Which story gives you the most [[joy]]?' 'From which story are you most effective as an agent of [[change]]?'" ^quote8
+
+
+**pg. 27
+
+---
+
+"We like to think that we base our [[belief|beliefs]] on evidence, but far more often we arrange the evidence to fit our beliefs, surrounding ourselves with others who share them." ^quote9
+
+
+**pg. 28
+
+---
+
+#### "If your life's work does not contribute to the conversion of [[nature]] into products and relationships into services, you may often find that there isn't much money to be made doing it." ^quote10
+
+
+**pg. 28
+
+---
+
+"As things fall apart and the old story releases its thralls into the space between stories, the beautiful music of our choir will beckon, and they will come join us in song. We have been doing important work, first in [[loneliness]], then in small, marginal groups. The time is upon us for the new Story of the People to leave the incubator. When things fall apart, the hopelessly radical becomes common sense." ^quote11
+
+
+**pg. 31
+
+---
+
+"The same interbeingness that makes us so immensely [[vulnerability|vulnerable]] also makes us so immensely powerful. Remember this! Indeed the vulnerability and the power go hand in hand, because only by relaxing the guard of the separate self can we tap into power beyond its ken. Only then can we accomplish things that are, to the separate self, impossible. Put another way, we become capable of things we don't know how to 'make' happen." ^quote12
+
+
+**pg. 32
+
+---
+
+"Our customary understanding of what is practical is grounded in a worldview, a mythos, that is rapidly becoming obsolete. Furthermore, that obsolescing worldview is precisely the one underlying the old world we strive to change. *In other words, the crisis of civilization and the despair over the crisis share a common source...* The old story has finally reached the end of its telling, and the space is clear for a new story to emerge. This cannot happen while the old story still carries [[hope]]. If anything in the old world's 'practical' still has any hope of succeeding, that means the old story has life in it still." ^quote13
+
+
+**pg. 38
+
+---
+
+"We only keep performing the tasks that keep the world-devouring machine running by quelling that feeling of significance. We steel ourselves to do what some abstract reasoning tells us we must do, in the interests of practicality. Occasionally, this 'practicality' means 'what will help heal the ecosystem, bring about social justice, and enable the survival of our species,' but for most people, most of the time, practicality involves money or other means of security and comfort. And money, in our current system, generally comes through our participation in the conversion of [[nature]] into products, communities into markets, citizens into consumers, and relationships into services. If your hear isn't in all that, you will find that practicality often contradicts the urging of the heart. " ^quote14
+
+
+**pg. 53
+
+---
+
+"I think it is better not to obscure the despair, because real [[hope]] lies only on its other side. Despair is part of the territory we must traverse... **True optimism comes from having traversed the territory of despair and taken its measure.**" ^quote15
+
+
+**pg. 55
+
+---
+
+"So many people squelch the expression of their gifts by thinking that they must do something big with them. One's own actions are not enough--one must write a book that reaches millions. How quickly this turns into a competition over whose ideas get heard. How it invalidates the small, beautiful strivings of the bulk of humanity; invalidates, paradoxically, the very things that we must start doing en masse to sustain a livable planet." ^quote16
+
+
+**pg. 59 
+
+---
+
+#### Morphic Resonance
+
+"One of the ways that your project, your personal [[healing]], or your social invention can [[change]] the world is through story. But even if no one ever learns of it, even if it is invisible to every human on Earth, it will have no less of an effect... I am not suggesting that we therefore repudiate conventional means for the propagation of our work. I am advocating a kind of confidence in the significance of all that we do, even when our vision cannot penetrate the mysterious, meandering paths through which our actions arrive in the larger world... Please don't think you 'have to write a book about it' for your experiences to have a large effect." ^quote17
+
+
+**pg. 62-63
+
+---
+
+"The book may come, the peacebuilding project documentary might come, but usually there must first be a latency, a time of doing something for its own sake, a time of inward focus on the goal and not the 'meta' goal. The magic comes from that place. From there, the synchronicities flow; there is no sense of forcing, only of participating in a larger happening that seems to have an intelligence of its own." ^quote18
+
+
+**pg. 64
+
+---
+
+"So many voices lobby us to forget love, forget humanity, sacrifice the present and the real for the sake of what seems more practical. Herein lies the medicine of despair: by evacuating our [[illusion|illusions]] and practicality, it reconnects us to the present needs at hand and allows those senseless, impractical acts that generate miracles." ^quote19
+
+
+**pg. 64
+
+---
+
+"The universe calls forth different of our gifts at different moments. When the call is for the small and personal, let us heed that, so that we develop the habit of heeding it when it is big and public. Let's cease listening to the logic of Separation, which would devalue the small and personal." ^quote20
+
+
+**pg. 65
+
+---
+
 [^1]: [[Collective Plague as Analogous to Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
