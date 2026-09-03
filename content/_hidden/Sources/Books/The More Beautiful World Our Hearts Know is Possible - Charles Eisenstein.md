@@ -149,8 +149,85 @@
 
 ---
 
+
+"Only when someone believes 'I can do it,' will they even try. When our [[belief|beliefs]] change, so do our motivations and perceptions. We do new things and see new opportunities." ^quote21
+
+
+**pg. 77
+
+---
+
+"It is not ours to decide what is [[truth|true]] or possible. Some teachings ask us to start by creating a visions, but this is mistaken; the proper way to start is to [[receiving|receive]] a vision. I call it 'The vision of that which wants to be born.'[^4] Not having invented it ourselves, we sense that it has a beingness of its own. [[doubt|Doubts]] may still assail us, but underneath the doubts there will be a knowing that comes from having seen something." ^quote22
+
+
+**pg. 78
+
+---
+
+"The first step in creating [[change]], then, is to [[receiving|receive]] a vision that feels true. The seconds step is to [[healing|heal]] the wounds and [[doubt|doubts]] that vision illuminates. Without doing that, we will be conflicted, simultaneously enacting both the new story and the old one that accompanies the wounds. The third step is to bow in service to what wants to be born. This process is not linear. Usually, the vision comes more and more into focus as we [[healing|heal]] the [[doubt|doubts]] that obscure it; that, in turn, brings up new dimensions of the vision along with deeper wounds. **The path of service is a path of [[self-discovery|self-realization]].**" ^quote23
+
+
+**pg. 78
+
+---
+
+#### "When we are in service to something real, when we speak of it our words have power. Others can feel its [[reality]] too." ^quote24
+
+
+**pg. 78
+
+---
+
+"To be fully in service to something one has experienced as real is the essence of leadership in a nonhierarchical age. A leader is the holder of a story, someone whose experience of its [[reality]] is deep enough so that she can hold the [[belief]] on behalf of others." ^quote25
+
+
+**pg. 79
+
+---
+
+"The deeper the service to that which wants to be born, the more it is able to arrange the synchronistic encounters and fortuitous events that allow us to accomplish that which lies beyond our understanding of cause and effect. We might say that the primary 'technology' of the Age of Reunion is service. We offer our time, energy, skills, and lives as gifts, stepping into [[trust]], letting go of the habit of looking first and foremost after one's self. Only then can we fully align with the vision. From that alignment, a tremendous force is born. Our expanded selves are far more powerful and less [[fear|fearful]] than the discrete, separate individual who, separate from the world, can only manipulate it by force, and looks with wariness and [[wonder]] at the amazing coincidences that line up as it lets go and plunges into service. Obviously, since these are not things that we know how to 'make' happen, they happen as gifts, confirming the universal principle of the gift: that giving and [[receiving]] always come into balance in the end." ^quote26
+
+
+**pg. 79
+
+---
+
+"Why are we so desperate to escape the material world? Is it really so bleak? Or could it be, rather, that we have *made* it bleak: obscured its vibrant mystery with our ideological blinders, severed its infinite [[connection|connectedness]] with our categories, suppressed its spontaneous order with our pavement, reduced its infinite variety with our commodities, shattered its eternity with our time-keeping, and denied its [[abundance]] with our money system? If so, then we are misguided if we appeal to a non-material spiritual realm for our salvation from the prison of materiality." ^quote27
+
+
+**pg. 83
+
+---
+
+"Evidence and logic are tools we use to justify and flesh out our [[belief|beliefs]], but we are deceiving ourselves to think that they are the source of our beliefs." ^quote28
+
+
+**pg. 94
+
+---
+
+"There is a time to act, and a time to wait, to listen, to observe. Then understanding and [[clarity]] can grow. From understanding, action arises that is purposeful, firm, and powerful." ^quote29
+
+
+**pg. 105
+
+---
+
+"It is not that we spend half our lives in benighted impotence until we awaken to [[truth|true]] understanding, purpose, and [[creativity|creative]] power. Instead, we go through phases when we believe in what we are doing, when life more or less makes sense, and when we [[hope]] and expect our efforts to bear fruit. And they do, for a time, but as we grow in that world we begin to question our assumptions. Our tools don't work as well anymore; we cease believing in our goals or in the possibility of achieving them. We approach a [[rest|resting]] phase, an empty phase.[^5] Immersed in a system that never lets us rest, that condemns laziness and pushes us toward ever-increasing busyness through economic pressure, we have trouble accepting this phase. We tell ourselves we must always be doing something. Time's a-wastin'!" ^quote30
+
+
+**pg. 106
+
+---
+
 [^1]: [[Collective Plague as Analogous to Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
 
 [^3]: [[Is it darkness swallowing me, or am I squinting at an unfamiliar light]]
+
+[^4]: [[Deep Rest + Waiting + Receiving]]
+
+[^5]: [[On the 'interval of poverty' - the void between the old and the new self.]]
+
+[^6]: ![[Henry David Thoreau#^quote19]]
