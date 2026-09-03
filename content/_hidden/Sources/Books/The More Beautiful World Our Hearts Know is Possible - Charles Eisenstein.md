@@ -192,7 +192,7 @@
 
 ---
 
-"Why are we so desperate to escape the material world? Is it really so bleak? Or could it be, rather, that we have *made* it bleak: obscured its vibrant mystery with our ideological blinders, severed its infinite [[connection|connectedness]] with our categories, suppressed its spontaneous order with our pavement, reduced its infinite variety with our commodities, shattered its eternity with our time-keeping, and denied its [[abundance]] with our money system? If so, then we are misguided if we appeal to a non-material spiritual realm for our salvation from the prison of materiality." ^quote27
+"Why are we so desperate to escape the [[materialism|material]] world? Is it really so bleak? Or could it be, rather, that we have *made* it bleak: obscured its vibrant mystery with our ideological blinders, severed its infinite [[connection|connectedness]] with our categories, suppressed its spontaneous order with our pavement, reduced its infinite variety with our commodities, shattered its eternity with our time-keeping, and denied its [[abundance]] with our money system? If so, then we are misguided if we appeal to a non-material spiritual realm for our salvation from the prison of materiality." ^quote27
 
 
 **pg. 83
