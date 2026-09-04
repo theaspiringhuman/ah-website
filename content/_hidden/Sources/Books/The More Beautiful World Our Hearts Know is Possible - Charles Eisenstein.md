@@ -220,7 +220,16 @@
 
 ---
 
-[^1]: [[Collective Plague as Analogous to Psychological Thresholds]]
+"You will notice that many of the habits of separation are familiar. Injunctions against them abound in mainstream [[religion|religious]] teachings as well as popular morality. That is because [[religion]] and culture both carry seeds of reunion. But we find these teachings hard to live up to because they are inconsistent with the dominant myths and structures of [[society|civilization]]. Thus they become rules: prohibitions, prescriptions, etc., and therefore agents of a prime habit of separation, which is to conquer the self...
+
+No wonder, trying to reconcile the rules with the world we have lived in, religious authorities divide the universe into two realms, the earthly and the heavenly, the [[materialism|material]] and the spiritual. Yes, they conceded, the material world is sinful, and our bodies, being of that world, are sinful as well, but there is something else, another world with different rules. To live according to those, we have to resist the ways of the material world and the flesh." ^quote31
+
+**pg. 110-111
+
+
+---
+
+[^1]: [[Collective Plague as Analogous to Markers of Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
 
@@ -228,6 +237,6 @@
 
 [^4]: [[Deep Rest + Waiting + Receiving]]
 
-[^5]: [[On the 'interval of poverty' - the void between the old and the new self.]]
+[^5]: [[On the interval of poverty]]
 
 [^6]: ![[Henry David Thoreau#^quote19]]
