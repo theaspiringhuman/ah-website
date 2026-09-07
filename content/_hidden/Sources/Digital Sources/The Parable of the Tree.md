@@ -8,7 +8,7 @@ Source: "[Marcus Aurelius: Stop Caring What People Think](https://www.youtube.co
 "But how do I make something of value?"
 
 **Teacher:**
-"That's like asking how the tee makes its fruit. I'll put it to you like this: A tree is imprisoned by a lack of water, sunlight, & competition. 
+"That's like asking how the tree makes its fruit. I'll put it to you like this: A tree is imprisoned by a lack of water, sunlight, & competition. 
 
 When the tee breaks out of these prisons, when it becomes completely free, the fruit is naturally the outcome.
 

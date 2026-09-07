@@ -73,3 +73,7 @@ pg. 64
 >"Our self-experience is the product of the balance between our rational and our emotional brains... The neuroscientist Paul MacLean... compared the relationship between the rational brain and the emotional brain to that between a more or less competent rider and his unruly horse. As long as the weather is calm and the path is smooth, the rider can feel in excellent control. But unexpected sounds or threats from other animals can make the horse bolt, forcing the rider to hold on for dear life." ^quote12
 
 pg. 64
+
+---
+
+
