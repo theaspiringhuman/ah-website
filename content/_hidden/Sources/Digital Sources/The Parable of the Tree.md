@@ -10,7 +10,7 @@ Source: "[Marcus Aurelius: Stop Caring What People Think](https://www.youtube.co
 **Teacher:**
 "That's like asking how the tree makes its fruit. I'll put it to you like this: A tree is imprisoned by a lack of water, sunlight, & competition. 
 
-When the tee breaks out of these prisons, when it becomes completely free, the fruit is naturally the outcome.
+When the tee breaks out of these prisons, when it becomes completely [[freedom|free]], the fruit is naturally the outcome.
 
 It's not about how you can produce something of value, but how you can become free.
 
