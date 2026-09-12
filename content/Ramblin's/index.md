@@ -57,7 +57,7 @@ title: Ramblin's
 </div>
 </a>
 
-<a class="ramblin-item" href="/_hidden/_Ramblin's/Life-is-not-a-Problem-to-be-Solved">
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Life-is-Not-a-Problem-to-be-Solved">
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-love-story.png">
 <div class="ramblin-info">
 <span class="ramblin-title">Life is Not a Problem to be Solved</span>
