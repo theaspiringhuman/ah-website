@@ -65,4 +65,12 @@ title: Ramblin's
 </div>
 </a>
 
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Art-is-not-an-answer">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-art.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Art is not an Answer</span>
+<span class="ramblin-meta">It's a resonance.</span>
+</div>
+</a>
+
 </div>

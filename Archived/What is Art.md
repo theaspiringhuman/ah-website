@@ -70,4 +70,4 @@ This insight hit me with such profundity that it made its way into [[Dream - Int
 
 [[Lighthouses of Connection]]
 
-[[Art is not an answer, it's a resonance]]
+[[Art is not an answer]]
