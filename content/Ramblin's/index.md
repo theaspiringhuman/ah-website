@@ -5,10 +5,10 @@ title: Ramblin's
 <div class="ramblins-gallery">
 
 <a class="ramblin-item" href="/_hidden/_Ramblin's/Broadcasting-my-signal">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-broadcasting.jpg">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-broadcasting.png">
 <div class="ramblin-info">
 <span class="ramblin-title">Broadcasting my signal</span>
-<span class="ramblin-meta">On expression, transmission, and sending something of ourselves out into the world.</span>
+<span class="ramblin-meta">On finding my tribe.</span>
 </div>
 </a>
 
@@ -17,7 +17,7 @@ title: Ramblin's
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-being-seen.png">
 <div class="ramblin-info">
 <span class="ramblin-title">On Being Seen</span>
-<span class="ramblin-meta">Thoughts on visibility, vulnerability, and the strange courage required to let ourselves be known.</span>
+<span class="ramblin-meta">Vulnerability is my Achilles heel.</span>
 </div>
 </a>
 
@@ -26,7 +26,7 @@ title: Ramblin's
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-self-mastery.png">
 <div class="ramblin-info">
 <span class="ramblin-title">On Self Mastery</span>
-<span class="ramblin-meta">Reflections on discipline, inner authority, and becoming more deliberate about who we are.</span>
+<span class="ramblin-meta">Not as easy as I thought.</span>
 </div>
 </a>
 
@@ -35,7 +35,7 @@ title: Ramblin's
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-death-of-ambition.png">
 <div class="ramblin-info">
 <span class="ramblin-title">On the Death of Ambition</span>
-<span class="ramblin-meta">What remains when striving loosens its grip and an old definition of success begins to fall away.</span>
+<span class="ramblin-meta">I've lost all ambition to be "something."</span>
 </div>
 </a>
 
@@ -44,7 +44,7 @@ title: Ramblin's
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-pan.png">
 <div class="ramblin-info">
 <span class="ramblin-title">Pan as an Archetype for Fear</span>
-<span class="ramblin-meta">Following fear through mythology, instinct, panic, and the unruly parts of human nature.</span>
+<span class="ramblin-meta">On befriending fear.</span>
 </div>
 </a>
 
@@ -53,7 +53,15 @@ title: Ramblin's
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-certainty.png">
 <div class="ramblin-info">
 <span class="ramblin-title">The Need for Certainty</span>
-<span class="ramblin-meta">On our desire to know what comes next—and what becomes possible when we stop demanding that we do.</span>
+<span class="ramblin-meta">Being okay with not knowing.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Life-is-not-a-Problem-to-be-Solved">
+<img src="/_hidden/site%20images/ramblins%20images/love-story.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Life is Not a Problem to be Solved</span>
+<span class="ramblin-meta">Everyone's story is a love story.</span>
 </div>
 </a>
 

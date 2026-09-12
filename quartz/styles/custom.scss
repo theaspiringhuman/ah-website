@@ -903,8 +903,6 @@ body:has(.portrait-page) .article-title {
 .ramblin-item img {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
   margin: 0;
   border-radius: 0;
   transition:
