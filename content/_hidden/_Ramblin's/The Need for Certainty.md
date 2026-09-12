@@ -14,4 +14,4 @@ Tags: [[video journals]]
 
 ---
 
-I am learning to reside in the unknown, to embrace uncertainty, and to allow myself to revel in the journey itself. 
+I suppose the people I find most admirable are those who are still uncertain, who don't claim to have found "the way", who are always searching and have yet managed to find some kind of peace. - [[Admiring uncertainty, following my own path, fear of my own metamorphosis]]
