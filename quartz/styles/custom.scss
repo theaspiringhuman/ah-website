@@ -984,3 +984,7 @@ body:has(.portrait-page) .article-title {
     line-height: 1.35;
   }
 }
+/* Hide dropdown arrow next to Ramblin's in Explorer */
+.explorer .folder-container:has(a[href="/Ramblin's"]) .folder-icon {
+  display: none !important;
+}
