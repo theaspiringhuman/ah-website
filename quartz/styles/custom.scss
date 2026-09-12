@@ -903,9 +903,12 @@ body:has(.portrait-page) .article-title {
 .ramblin-item img {
   display: block;
   width: 100%;
+  height: auto;
   margin: 0;
   border-radius: 0;
+  filter: grayscale(100%);
   transition:
+    filter 0.4s ease,
     transform 0.4s ease,
     opacity 0.4s ease;
 }
@@ -933,6 +936,7 @@ body:has(.portrait-page) .article-title {
 }
 
 .ramblin-item:hover img {
+  filter: grayscale(0%);
   transform: translateY(-3px);
   opacity: 0.92;
 }
@@ -983,12 +987,4 @@ body:has(.portrait-page) .article-title {
     font-size: 0.65rem;
     line-height: 1.35;
   }
-}
-/* Make Ramblin's look like a normal Explorer link */
-.folder-container[data-folderpath="Ramblin's"] .folder-icon {
-  display: none !important;
-}
-
-.folder-container[data-folderpath="Ramblin's"] + .folder-outer {
-  display: none !important;
 }
