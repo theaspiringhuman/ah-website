@@ -5,7 +5,7 @@ title: Ramblin's
 <div class="ramblins-gallery">
 
 <a class="ramblin-item" href="/_hidden/_Ramblin's/Broadcasting-my-signal">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-broadcasting.png">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-beacon.png">
 <div class="ramblin-info">
 <span class="ramblin-title">Broadcasting my signal</span>
 <span class="ramblin-meta">On finding my tribe.</span>
@@ -58,7 +58,7 @@ title: Ramblin's
 </a>
 
 <a class="ramblin-item" href="/_hidden/_Ramblin's/Life-is-not-a-Problem-to-be-Solved">
-<img src="/_hidden/site%20images/ramblins%20images/love-story.png">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-love-story.png">
 <div class="ramblin-info">
 <span class="ramblin-title">Life is Not a Problem to be Solved</span>
 <span class="ramblin-meta">Everyone's story is a love story.</span>
