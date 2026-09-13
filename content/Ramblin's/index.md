@@ -73,4 +73,12 @@ title: Ramblin's
 </div>
 </a>
 
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Getting-real-honest-with-myself">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-getting-real.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Getting real honest with myself</span>
+<span class="ramblin-meta">& letting go completely.</span>
+</div>
+</a>
+
 </div>
