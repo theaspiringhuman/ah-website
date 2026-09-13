@@ -906,7 +906,7 @@ body:has(.portrait-page) .article-title {
   height: auto;
   margin: 0;
   border-radius: 0;
-  filter: grayscale(100%);
+  filter: grayscale(50%);
   transition:
     filter 0.4s ease,
     transform 0.4s ease,
