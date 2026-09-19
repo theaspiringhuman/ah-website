@@ -29,7 +29,7 @@ My inner world is my sacred place, my sanctuary, my refuge from all that is untr
 
 Like lovers face to face and yet separated by a thick wall of glass, my inner and outer worlds have known each other, longed for each other, yet never touched...
 
-I have been alone in my little castle for so long...
+*I have been alone in my little castle for so long...*
 
 ---
 

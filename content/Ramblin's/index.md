@@ -81,4 +81,12 @@ title: Ramblin's
 </div>
 </a>
 
+<a class="ramblin-item" href="/_hidden/_Ramblin's/The-illusion-of-arriving">
+<img src="/_hidden/site%20images/ramblins%20images/illusion-of-arriving.png">
+<div class="ramblin-info">
+<span class="ramblin-title">The illusion of arriving</span>
+<span class="ramblin-meta">Don't think we ever "make it."</span>
+</div>
+</a>
+
 </div>

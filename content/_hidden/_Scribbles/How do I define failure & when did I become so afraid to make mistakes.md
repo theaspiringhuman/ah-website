@@ -6,9 +6,7 @@ Source: #Journals [[Tree of Life]]
 
 ---
 
-It's time for me to go home. 
-I've said this so many times, but I end up changing my mind. Why?
-Because I'm afraid of going backward. Afraid of starting over. But why?
+I'm afraid of going backward. Afraid of starting over. But why?
 I'm a master at starting over. 
 & what is failure anyway?
 How do I define it?
