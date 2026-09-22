@@ -226,6 +226,12 @@ No wonder, trying to reconcile the rules with the world we have lived in, religi
 
 **pg. 110-111
 
+---
+
+"Before they are able to enter a new story, most people--and probably most [[society|societies]] as well--must first navigate the passage out of the old.[^6] In between the old and the new there is an empty space. It is a time when the lessons and learnings of the old story are integrated. Only when that work has been done is the old story really complete. Then, there is nothing, the pregnant emptiness from which all being arises.[^7] **Returning to essence, we regain the ability to act from essence**. Returning to the space between stories, we can choose from [[freedom]] and not from habit. " ^quote35
+
+**pg. 121
+
 
 ---
 
@@ -239,4 +245,6 @@ No wonder, trying to reconcile the rules with the world we have lived in, religi
 
 [^5]: [[On the interval of poverty]]
 
-[^6]: ![[Henry David Thoreau#^quote19]]
+[^6]: [[After tyranny it isn't immediate freedom. It's a desert.]]
+
+[^7]: [[On the interval of poverty]]
