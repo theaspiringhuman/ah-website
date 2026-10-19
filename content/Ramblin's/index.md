@@ -89,4 +89,12 @@ title: Ramblin's
 </div>
 </a>
 
+<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Quitting-Social-Media">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-on-quitting-social-media.png">
+<div class="ramblin-info">
+<span class="ramblin-title">On Quitting Social Media</span>
+<span class="ramblin-meta">I prefer life without it.</span>
+</div>
+</a>
+
 </div>
