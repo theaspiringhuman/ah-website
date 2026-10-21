@@ -4,80 +4,19 @@ title: Ramblin's
 
 <div class="ramblins-gallery">
 
-<a class="ramblin-item" href="/_hidden/_Ramblin's/Broadcasting-my-signal">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-beacon.png">
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Source-of-Love">
+<img src="/_hidden/site%20images/ramblins%20images/source-of-love.png">
 <div class="ramblin-info">
-<span class="ramblin-title">Broadcasting my signal</span>
-<span class="ramblin-meta">On finding my tribe.</span>
+<span class="ramblin-title">Source of Love</span>
+<span class="ramblin-meta">Love is effortless when connected to the Source.</span>
 </div>
 </a>
 
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Being-Seen">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-being-seen.png">
+<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Quitting-Social-Media">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-on-quitting-social-media.png">
 <div class="ramblin-info">
-<span class="ramblin-title">On Being Seen</span>
-<span class="ramblin-meta">Vulnerability is my Achilles heel.</span>
-</div>
-</a>
-
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Self-Mastery">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-self-mastery.png">
-<div class="ramblin-info">
-<span class="ramblin-title">On Self Mastery</span>
-<span class="ramblin-meta">Not as easy as I thought.</span>
-</div>
-</a>
-
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/On-the-Death-of-Ambition">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-death-of-ambition.png">
-<div class="ramblin-info">
-<span class="ramblin-title">On the Death of Ambition</span>
-<span class="ramblin-meta">I've lost all ambition to be "something."</span>
-</div>
-</a>
-
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/Pan-as-an-Archetype-for-Fear">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-pan.png">
-<div class="ramblin-info">
-<span class="ramblin-title">Pan as an Archetype for Fear</span>
-<span class="ramblin-meta">On befriending fear.</span>
-</div>
-</a>
-
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/The-Need-for-Certainty">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-certainty.png">
-<div class="ramblin-info">
-<span class="ramblin-title">The Need for Certainty</span>
-<span class="ramblin-meta">Being okay with not knowing.</span>
-</div>
-</a>
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/Life-is-Not-a-Problem-to-be-Solved">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-love-story.png">
-<div class="ramblin-info">
-<span class="ramblin-title">Life is Not a Problem to be Solved</span>
-<span class="ramblin-meta">Everyone's story is a love story.</span>
-</div>
-</a>
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/Art-is-not-an-answer">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-art.png">
-<div class="ramblin-info">
-<span class="ramblin-title">Art is not an Answer</span>
-<span class="ramblin-meta">It's a resonance.</span>
-</div>
-</a>
-
-<a class="ramblin-item" href="/_hidden/_Ramblin's/Getting-real-honest-with-myself">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-getting-real.png">
-<div class="ramblin-info">
-<span class="ramblin-title">Getting real honest with myself</span>
-<span class="ramblin-meta">& letting go completely.</span>
+<span class="ramblin-title">On Quitting Social Media</span>
+<span class="ramblin-meta">I prefer life without it.</span>
 </div>
 </a>
 
@@ -89,11 +28,75 @@ title: Ramblin's
 </div>
 </a>
 
-<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Quitting-Social-Media">
-<img src="/_hidden/site%20images/ramblins%20images/thumbnail-on-quitting-social-media.png">
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Getting-real-honest-with-myself">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-getting-real.png">
 <div class="ramblin-info">
-<span class="ramblin-title">On Quitting Social Media</span>
-<span class="ramblin-meta">I prefer life without it.</span>
+<span class="ramblin-title">Getting real honest with myself</span>
+<span class="ramblin-meta">& letting go completely.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Art-is-not-an-answer">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-art.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Art is not an Answer</span>
+<span class="ramblin-meta">It's a resonance.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Life-is-Not-a-Problem-to-be-Solved">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-love-story.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Life is Not a Problem to be Solved</span>
+<span class="ramblin-meta">Everyone's story is a love story.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/The-Need-for-Certainty">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-certainty.png">
+<div class="ramblin-info">
+<span class="ramblin-title">The Need for Certainty</span>
+<span class="ramblin-meta">Being okay with not knowing.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Pan-as-an-Archetype-for-Fear">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-pan.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Pan as an Archetype for Fear</span>
+<span class="ramblin-meta">On befriending fear.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/On-the-Death-of-Ambition">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-death-of-ambition.png">
+<div class="ramblin-info">
+<span class="ramblin-title">On the Death of Ambition</span>
+<span class="ramblin-meta">I've lost all ambition to be "something."</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Self-Mastery">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-self-mastery.png">
+<div class="ramblin-info">
+<span class="ramblin-title">On Self Mastery</span>
+<span class="ramblin-meta">Not as easy as I thought.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/On-Being-Seen">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-being-seen.png">
+<div class="ramblin-info">
+<span class="ramblin-title">On Being Seen</span>
+<span class="ramblin-meta">Vulnerability is my Achilles heel.</span>
+</div>
+</a>
+
+<a class="ramblin-item" href="/_hidden/_Ramblin's/Broadcasting-my-signal">
+<img src="/_hidden/site%20images/ramblins%20images/thumbnail-beacon.png">
+<div class="ramblin-info">
+<span class="ramblin-title">Broadcasting my signal</span>
+<span class="ramblin-meta">On finding my tribe.</span>
 </div>
 </a>
 
