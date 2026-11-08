@@ -1,5 +1,5 @@
 ---
-title: Artwork Title
+title: Tribal Space Man
 description: Having a lil fun with linework & colored pencils
 tags:
   - art
@@ -29,6 +29,8 @@ date: "2017"
 <div class="portrait-mobile-hero">
 <img src="/_hidden/site%20images/paintings/tribal-space-man.png" alt="Finished portrait of SUBJECT">
 </div>
+
+<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/tribal-space-man.png">
 
 </section>
 
