@@ -5,6 +5,7 @@ tags:
   - art
 date: "2017"
 ---
+---
 
 <div class="portrait-page">
 
@@ -17,26 +18,29 @@ date: "2017"
 <p class="portrait-role">An experimental portrait of a tribal man with an epic lip plate.</p>
 
 <div class="portrait-mobile-hero">
-<img src="/_hidden/site%20images/paintings/tribal-space-man.png">
+<img src="/_hidden/site%20images/paintings/tribal-space-man.png" alt="Tribal Space Man">
 </div>
 
 <h2>Details</h2>
 
-<p> <strong>Medium</strong><br> Ink &amp; colored pencil </p>
+<p><strong>Medium</strong><br>
+Ink &amp; colored pencil</p>
 
-<p> <strong>Surface</strong><br> Paper </p>
+<p><strong>Surface</strong><br>
+Paper</p>
 
-<p> <strong>Dimensions</strong><br>5.75" x 8.6"</p>
+<p><strong>Dimensions</strong><br>
+5.75" x 8.6"</p>
 
-<p> <strong>Completed</strong><br> 2017 </p>
-
-<section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/tribal-space-man.png">
+<p><strong>Completed</strong><br>
+2017</p>
 
 </section>
 
+<section class="portrait-gallery">
 
-</div>
+<img src="/_hidden/site%20images/paintings/tribal-space-man.png" alt="Tribal Space Man">
 
-<div class="portrait-closing-quote">
+</section>
 
 </div>
