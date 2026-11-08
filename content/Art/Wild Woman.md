@@ -36,7 +36,13 @@ The portrait represents to me the symbol of feminine power & [[embodiment]].
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/wild-woman.png">
 
-<div class="portrait-process"> <img src="/_hidden/site%20images/paintings/wild-woman-process.png"> </div> </section> </div>
+<div class="portrait-process">
+
+<img class="process-full" src="/_hidden/site%20images/paintings/wild-woman-process.png" alt="Process image">
+
+</div>
+
+</section> </div>
 
 <div class="portrait-closing-quote"> <blockquote>
 <p>"Because in the beginning of retrieving our relationship with her she can turn to smoke in an instant, by naming her we create for her a territory of thought and feeling within us."</p>
