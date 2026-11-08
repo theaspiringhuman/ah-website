@@ -27,7 +27,7 @@ date: "2017"
 Ink &amp; colored pencil</p>
 
 <p><strong>Surface</strong><br>
-Paper</p>
+Strathmore 400 Gray Toned</p>
 
 <p><strong>Dimensions</strong><br>
 5.75" x 8.6"</p>

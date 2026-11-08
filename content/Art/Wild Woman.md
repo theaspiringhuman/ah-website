@@ -28,7 +28,7 @@ The portrait represents to me the symbol of feminine power & [[embodiment]].
 
 <p> <strong>Medium</strong><br> Ink &amp; colored pencil </p>
 
-<p> <strong>Surface</strong><br> Paper? </p>
+<p> <strong>Surface</strong><br> Strathmore 400 Gray Toned</p>
 
 <p> <strong>Dimensions</strong><br> 8 × 10" </p>
 
