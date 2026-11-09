@@ -72,7 +72,7 @@ title: Ramblin's
 <img src="/_hidden/site%20images/ramblins%20images/thumbnail-death-of-ambition.png">
 <div class="ramblin-info">
 <span class="ramblin-title">On the Death of Ambition</span>
-<span class="ramblin-meta">I've lost all ambition to be "something."</span>
+<span class="ramblin-meta">I've lost all ambition to be "someone."</span>
 </div>
 </a>
 
