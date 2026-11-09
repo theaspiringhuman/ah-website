@@ -46,7 +46,7 @@ Strathmore 400 Gray Toned</p>
 
 <div class="portrait-process">
 
-<img class="process-full" src="/_hidden/site%20images/paintings/octopus-process.png" alt="Process image">
+<img class="process-full" src="/_hidden/site%20images/paintings/octopus-process.jpg" alt="Process image">
 
 </div>
 

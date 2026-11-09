@@ -43,4 +43,12 @@ title: Art
   </div>
 </a>
 
+<a class="art-item" href="/Art/Octopus">
+  <img src="/_hidden/site%20images/paintings/octopus.png">
+  <div class="art-info">
+    <span class="art-title">Octopus</span>
+    <span class="art-meta">2016 · Graphite & Colored Pencil Portrait</span>
+  </div>
+</a>
+
 </div>
