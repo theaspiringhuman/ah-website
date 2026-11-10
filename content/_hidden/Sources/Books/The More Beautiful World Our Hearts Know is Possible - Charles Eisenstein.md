@@ -232,6 +232,61 @@ No wonder, trying to reconcile the rules with the world we have lived in, religi
 
 **pg. 121
 
+---
+
+"If we are stuck and do not choose to visit this empty place, eventually we will end up there anyway. You may be familiar with this process on a personal level. The old world falls apart, but the new has not emerged. Everything that once seemed permanent and [[reality|real]] is revealed as a kind of hallucination. You don't know what to think, what to do; you don't know what anything [[meaning|means]] anymore. The life trajectory you had plotted out seems absurd, and you can't imagine another one. Everything is uncertain. Your time frame shrinks from years to this month, this week, today, or maybe even the present moment. Without the mirages of order that once seemed to protect you and filter [[reality]], you feel naked and [[vulnerability|vulnerable]], but also a kind if [[freedom]]. Possibilities that didn't even exist in the old story lie before you, even if you have no idea how to get there. The challenge in our [[society|culture]] is to allow yourself to be in that space, to [[trust]] that the next [[narrative|story]] will emerge when the time in between has ended, and that you will recognize it. Our culture wants us to move on, to do. The old story we leave behind, which is usually part of the consensus Story of the People, releases us with great reluctance. So please, if you are in the sacred space between stories, allow yourself to be there. It is [[fear|frightening]] to [[loss|lose]] the old structures of security, but you will find that even as you might lose things that were unthinkable to lose, you will be okay. There is a kind of [[grace]] that protects us in the space between stories. It is not that you won't lose your marriage, your [[money]], your [[work|job]], or your health. In fact, it is very likely that you will lose one of these things. It is that you will discover that even having lost that, you are still okay. You will find yourself in closer contact to something much more precious, something that fires cannot burn and thieves cannot steal, something that no one can take and cannot be [[loss|lost]]. We might lose sight of it sometimes, but it is always there waiting for us. This is the [[rest|resting]] place we return to when the old story falls apart. Clear of its fog, we can now [[receiving|receive]] a true vision of the next world, the next [[narrative|story]], the next phase of life. From the marriage of this vision and this emptiness, a great [[power]] is born." ^quote36
+
+**pg. 122
+
+---
+
+"All things return to their root.
+Returning to the root, there is stillness.
+In stillness, true purpose returns.
+This is what is [[reality|real]]
+Knowing the real, there is [[clarity]].
+Not knowing the real, foolish action brings disaster.
+From knowing the real comes spaciousness,
+From spaciousness comes impartiality
+From impartiality comes sovereignty,
+From sovereignty comes what is natural.
+What comes naturally, is the Tao.
+From the Tao comes what is lasting,
+Persisting beyond one's self." ^quote37
+
+**pg. 125 (A translation from the [Tao de Ching](https://www.with.org/tao_te_ching_en.pdf))
+
+---
+
+"The question I am asking is 'How can the body politic, the human species as a whole, [[change]] its destructive habits?' I investigate the question on the individual level, therefore, because it might have a metaphorical or more than metaphorical bearing on the collective level--as one would expect in a universe where self and other, macrocosm and microcosm, part and whole mirror each other." ^quote38
+
+**pg. 130
+
+---
+
+"We are not here to become better and better people. 'Being good' is part of the old [[narrative|story]]. It reflects an internalized approval-seeking originating in modern parenting, schooling, and [[religion]]. The quest to be good is part of the war against the self and the war against [[nature]] that it reflects." ^quote39
+
+**pg. 132
+
+---
+
+"Be wary of those who strive for humility--usually what they achieve is a counterfeit of it that, in the end, fools no one but themselves. It might actually be more humble to be cheerfully immodest. 
+If you do notice the habit of self-righteousness, you know what to do: give it attention. Give attention to any feelings of [[shame|embarrassment]] or frustration, *without intending to stop those feelings*. Let the attention you give to your habits and the underlying feelings be as gentle as you can make it: [[love|loving]], [[forgiveness|forgiving]], [[peace|peaceful]]. You can even thank the habit for having done its job for so long, knowing that it is in a late stage of its life span and will soon pass on." ^quote40
+
+**pg. 133
+
+---
+
+**"And there is a time to do nothing,[^8] but sooner or later, from nothing doing comes, a natural impulse backed by one's full unconflicted energy." ^quote41**
+
+**pg. 133
+
+---
+
+"Sit for a moment with the thought, 'I don't have to do anything. The [[change]] I seek is already happening.' Does that bring up the same feelings in you as it does in me? Feelings of scorn a kind of swelling outrage, and a secret longing as for something too good to be true. The scorn and outrage say, 'This is a recipe for complacency and therefore for disaster. If I give up my efforts, however feeble they admittedly are, then there is no [[hope]] whatever.' They also tap into the deep unease that comes from a worldview that casts us into a purposeless, insentient universe. In that world of force, if you don't *make* something happen, nothing will happen. You can never let go and [[trust]]. Yet there is that secret longing too, that wants to do just that. Will it be okay? Or will the hostility of the universe that our ideology has taught us and that our [[society]] has reified once again exploit our [[vulnerability]]?" ^quote42
+
+**pg. 134
+
 
 ---
 
@@ -248,3 +303,5 @@ No wonder, trying to reconcile the rules with the world we have lived in, religi
 [^6]: [[After tyranny it isn't immediate freedom. It's a desert.]]
 
 [^7]: [[On the interval of poverty]]
+
+[^8]: [[The in-between.canvas]]

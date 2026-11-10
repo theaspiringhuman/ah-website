@@ -64,9 +64,30 @@
 
 >"The woman who is in touch with her inner virgin has passed the frontier of the anima woman operating out of a male psychology. She finds herself saying things she never said before, verbalizing questions she never asked before. She tries to speak from her feminine [[reality]] while at the same time aware of the masculine standpoint. Often she is caught between two conflicting points of view: the rational, goal-oriented and just, versus the irrational, cyclic, relating. Her taks is not to choose one or the other, but to [[the transcendent function|hold the tension]] between them
 >A woman who has devoted her life to examinations and scholarship, or politics or the business world, knows how to organize her mind in obedience to the laws of unity, coherence, and emphasis. What she too often has lost in such training is [[faith]] in the values that come from the [[heart]]. When she attempts to speak from that place, she contacts her [[abandonment|abandoned]] soul. [[fear|Fearful]] of appearing 'childish and stupid,' she feels her face going red, clutches at her neck to try to get the words out; breathlessly she plummets on, hoping she won't be stopped, hoping she won't lose her vocabulary and collapse in [[confusion]]. She is trying desperately to articulate her feminine Being, trying to transcend the either/or prison that locks her into contradiction.
->The either/or model is now as untenable as Newtonian physics. Just as the world of science has come to accept that light is at once both wave and particle--depending on the experiment used to determine its nature--so women must learn to live in a world of paradox, a world where two mutually exclusive views of [[reality]] may be held at the same time. The rhythms there are circuitous, slow, born of the feeling that comes from the thinking [[heart]]. Many people [[intuition|intuitively]] know that such a place exists; few have the confidence to talk or walk from that center."^quote9
+>The either/or model is now as untenable as Newtonian physics. Just as the world of science has come to accept that light is at once both wave and particle--depending on the experiment used to determine its nature--so women must learn to live in a world of paradox, a world where two mutually exclusive views of [[reality]] may be held at the same time. The rhythms there are circuitous, slow, born of the feeling that comes from the thinking heart. Many people [[intuition|intuitively]] know that such a place exists; few have the confidence to talk or walk from that center."^quote9
 
 
 **pg. 51
+
+---
+
+>"As we mature, we are astonished at the accuracy with which Fate uses one situation to develop the attributes necessary for another. From the soul's standpoint, it is possible that life as we know it now is a uterus in which the subtle body is preparing itself for the world into which it will be born when our physical body dies. Many of us, at one time or another, have felt a propensity for wings."^quote10
+
+
+**pg. 73
+
+---
+
+>"The purpose of ritual is to bring the individual, through intense concentration, to a point of psychological intensity where the [[archetypes|archetype]] will burst through to consciousness, manifesting an image that releases powerful energy (primitive man creating the essence of the animal on the cave wall). The places in which the image appears are thereafter revered as holy places and religiously maintained as sanctuaries where the divine might again intersect the human."^quote11
+
+
+**pg. 74
+
+---
+
+>"Sorting the seeds is a daily process of ruthless [[honesty]] that allows us grain by grain to discover our Being. The Latin verb *esse* means 'to be'; this in discovering our Being we are discovering our essence. This is a monumental task when we have spent our lives Doing, especially when Doing has become an escape from Being because Being is experienced as nothingness."^quote12
+
+
+**pg. 78
 
 ---
