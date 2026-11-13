@@ -19,5 +19,5 @@ I still feel lost in many ways. Broken. Afraid. Afraid to bloom and watch the wo
 
 ### Links to
 
-[[After tyranny it isn't immediate freedom--it's a desert]]
+[[After tyranny it isn't immediate freedom. It's a desert.]]
 [[Creativity is a natural path to self-actualization]]

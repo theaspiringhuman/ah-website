@@ -287,6 +287,12 @@ If you do notice the habit of self-righteousness, you know what to do: give it a
 
 **pg. 134
 
+---
+
+"Our discomfort with a teaching like 'You don't have to do anything' comes in part from our thorough indoctrination into the [[work]] ethic, which holds that without the discipline of doing, nothing gets done. If there were no grades hanging over their heads, no paycheck at the end of the week, and no internalized habit of work such devices have created, then most people wouldn't keep doing what they do. Only those who work for the [[love]] of it would continue--only those whose [[work]] gave them a palpable sense of services, of contribution, or of [[meaning]]. In preparation for such a world, and to prepare such a world, let us cultivate the corresponding habit: in whatever way makes sense, let us practice trusting the impulse to work, and when it is not present, let us hold each other through the [[panic]], uncertainty, and [[guilt]] that may arise." ^quote43
+
+**pg. 135
+
 
 ---
 
