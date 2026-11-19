@@ -35,4 +35,12 @@ title: Poems
   </div>
 </a>
 
+<a class="art-item" href="/Poems/The-Field">
+  <img src="/_hidden/site%20images/misc%20images/the-field.jpg">
+  <div class="art-info">
+    <span class="art-title">The Field</span>
+    <span class="art-meta">2011</span>
+  </div>
+</a>
+
 </div>
