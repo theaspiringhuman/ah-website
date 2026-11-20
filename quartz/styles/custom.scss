@@ -998,22 +998,21 @@ body:has(.portrait-page) .article-title {
   }
 }
 /* ==========================================
-   POETRY GALLERY
+   POETRY MASONRY GALLERY
    ========================================== */
 
 .poetry-gallery {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  grid-auto-rows: 70px;
-  gap: 0.65rem;
+  column-count: 3;
+  column-gap: 0.75rem;
   margin: 3rem 0 5rem;
   width: 100%;
 }
 
 .poetry-item {
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 1rem;
+  break-inside: avoid;
   color: inherit;
   text-decoration: none;
   background: none;
@@ -1022,9 +1021,9 @@ body:has(.portrait-page) .article-title {
 .poetry-item img {
   display: block;
   width: 100%;
-  height: 100%;
-  min-height: 0;
-  object-fit: cover;
+  height: auto;
+  margin: 0;
+  object-fit: contain;
   border-radius: 0;
   transition:
     transform 0.4s ease,
@@ -1033,7 +1032,6 @@ body:has(.portrait-page) .article-title {
 
 .poetry-info {
   margin-top: 0.45rem;
-  flex-shrink: 0;
 }
 
 .poetry-title {
@@ -1069,40 +1067,12 @@ body:has(.portrait-page) .article-title {
 }
 
 
-/* Different collage sizes */
-
-.poetry-item.small {
-  grid-column: span 2;
-  grid-row: span 3;
-}
-
-.poetry-item.medium {
-  grid-column: span 3;
-  grid-row: span 4;
-}
-
-.poetry-item.tall {
-  grid-column: span 2;
-  grid-row: span 5;
-}
-
-.poetry-item.wide {
-  grid-column: span 4;
-  grid-row: span 3;
-}
-
-.poetry-item.large {
-  grid-column: span 4;
-  grid-row: span 5;
-}
-
-
 /* TABLET */
 
 @media (max-width: 900px) {
   .poetry-gallery {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    grid-auto-rows: 65px;
+    column-count: 2;
+    column-gap: 0.75rem;
   }
 }
 
@@ -1111,10 +1081,13 @@ body:has(.portrait-page) .article-title {
 
 @media (max-width: 550px) {
   .poetry-gallery {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    grid-auto-rows: 55px;
-    gap: 0.45rem;
+    column-count: 2;
+    column-gap: 0.5rem;
     margin-top: 2rem;
+  }
+
+  .poetry-item {
+    margin-bottom: 0.8rem;
   }
 
   .poetry-title {
