@@ -1098,3 +1098,9 @@ body:has(.portrait-page) .article-title {
     font-size: 0.62rem;
   }
 }
+/* Hide Quartz's automatic folder listing on custom index/gallery pages only */
+body:has(.art-gallery) .page-listing,
+body:has(.poetry-gallery) .page-listing,
+body:has(.ramblins-gallery) .page-listing {
+  display: none !important;
+}
