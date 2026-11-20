@@ -997,3 +997,131 @@ body:has(.portrait-page) .article-title {
     line-height: 1.35;
   }
 }
+/* ==========================================
+   POETRY GALLERY
+   ========================================== */
+
+.poetry-gallery {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  grid-auto-rows: 70px;
+  gap: 0.65rem;
+  margin: 3rem 0 5rem;
+  width: 100%;
+}
+
+.poetry-item {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+  background: none;
+}
+
+.poetry-item img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  object-fit: cover;
+  border-radius: 0;
+  transition:
+    transform 0.4s ease,
+    opacity 0.4s ease;
+}
+
+.poetry-info {
+  margin-top: 0.45rem;
+  flex-shrink: 0;
+}
+
+.poetry-title {
+  display: block;
+  font-family: var(--headerFont);
+  font-size: 0.9rem;
+  line-height: 1.25;
+  color: var(--dark);
+}
+
+.poetry-year {
+  display: block;
+  margin-top: 0.15rem;
+  font-family: var(--bodyFont);
+  font-size: 0.68rem;
+  color: var(--gray);
+  opacity: 0.75;
+}
+
+.poetry-item:hover img {
+  transform: translateY(-3px);
+  opacity: 0.92;
+}
+
+.poetry-item:hover .poetry-title {
+  color: var(--secondary);
+}
+
+.poetry-gallery a,
+.poetry-gallery a:hover {
+  background: none;
+  text-decoration: none;
+}
+
+
+/* Different collage sizes */
+
+.poetry-item.small {
+  grid-column: span 2;
+  grid-row: span 3;
+}
+
+.poetry-item.medium {
+  grid-column: span 3;
+  grid-row: span 4;
+}
+
+.poetry-item.tall {
+  grid-column: span 2;
+  grid-row: span 5;
+}
+
+.poetry-item.wide {
+  grid-column: span 4;
+  grid-row: span 3;
+}
+
+.poetry-item.large {
+  grid-column: span 4;
+  grid-row: span 5;
+}
+
+
+/* TABLET */
+
+@media (max-width: 900px) {
+  .poetry-gallery {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-rows: 65px;
+  }
+}
+
+
+/* MOBILE */
+
+@media (max-width: 550px) {
+  .poetry-gallery {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-rows: 55px;
+    gap: 0.45rem;
+    margin-top: 2rem;
+  }
+
+  .poetry-title {
+    font-size: 0.78rem;
+  }
+
+  .poetry-year {
+    font-size: 0.62rem;
+  }
+}
