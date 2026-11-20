@@ -1208,3 +1208,12 @@ body:has(.ramblins-gallery) .page-listing,
 body:has(.scribbles-gallery) .page-listing {
   display: none !important;
 }
+/* Hide the Explorer heading */
+.explorer .title-button {
+  display: none !important;
+}
+
+/* Hide all folder dropdown arrows */
+.explorer .folder-icon {
+  display: none !important;
+}
