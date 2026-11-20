@@ -2,7 +2,15 @@ Date: 10-28-2021
 
 Tags [[truth]] [[self-trust]] [[reality]] [[community]]
 
-*This was an essay I wrote while visiting my grandma in California. It took me ages to articulate my thoughts here because I had just begun learning about these issues. I've since learned a lot more that has refined some of my understanding, but I still stand by what I wrote... & I still have mad respect for Vaclav Havel.*
+![[truth-and-love.png]]
+
+<p class="image-caption">
+  <em>Vaclav Havel | Journal entry</em>, 2021. Yours Truly.
+</p>
+
+---
+
+*Below is an essay I wrote while visiting my grandma in California. It took me ages to articulate my thoughts here because I had just begun learning about these issues. I've since learned a lot more that has refined some of my understanding, but I still stand by what I wrote... & I still have mad respect for Vaclav Havel.*
 
 ---
 
