@@ -1224,39 +1224,16 @@ body:has(.scribbles-gallery) .page-listing {
 /* Float images to the right */
 img[alt*="float-right"] {
   float: right;
-  max-width: 45%;
+  max-width: 32%;
   height: auto;
-  margin: 0 0 20px 25px;
+  margin: 0 0 1.5rem 2rem;
 }
 
-/* Scribble intro: text left, image right */
-.scribble-intro-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1.4fr) minmax(180px, 0.6fr);
-  gap: 1.25rem;
-  align-items: start;
-  margin: 2rem 0;
-}
-
-.scribble-intro-text {
-  min-width: 0;
-}
-
-.scribble-intro-image {
-  min-width: 0;
-}
-
-.scribble-intro-image img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0;
-}
-
-/* Keep text left / image right on mobile too */
+/* Mobile */
 @media (max-width: 700px) {
-  .scribble-intro-layout {
-    grid-template-columns: minmax(0, 1.3fr) minmax(120px, 0.7fr);
-    gap: 0.75rem;
+  img[alt*="float-right"] {
+    max-width: 38%;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
   }
 }
