@@ -1183,13 +1183,17 @@ body:has(.portrait-page) .article-title {
 /* MOBILE */
 
 @media (max-width: 550px) {
+  .scribble-item img {
+    max-height: 260px;
+  }
+
   .scribbles-gallery {
     column-count: 2;
     column-gap: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 4rem;
   }
-
+}
   .scribble-item {
     margin-bottom: 0.8rem;
   }
