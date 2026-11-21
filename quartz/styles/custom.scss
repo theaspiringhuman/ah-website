@@ -1124,6 +1124,7 @@ body:has(.portrait-page) .article-title {
   width: 100%;
   height: auto;
   margin: 0;
+  max-height: 420px;
   object-fit: contain;
   border-radius: 0;
   transition:
