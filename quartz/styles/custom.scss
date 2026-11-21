@@ -1228,3 +1228,35 @@ img[alt*="float-right"] {
   height: auto;
   margin: 0 0 20px 25px;
 }
+
+/* Scribble intro: text left, image right */
+.scribble-intro-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(180px, 0.6fr);
+  gap: 1.25rem;
+  align-items: start;
+  margin: 2rem 0;
+}
+
+.scribble-intro-text {
+  min-width: 0;
+}
+
+.scribble-intro-image {
+  min-width: 0;
+}
+
+.scribble-intro-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+/* Keep text left / image right on mobile too */
+@media (max-width: 700px) {
+  .scribble-intro-layout {
+    grid-template-columns: minmax(0, 1.3fr) minmax(120px, 0.7fr);
+    gap: 0.75rem;
+  }
+}
