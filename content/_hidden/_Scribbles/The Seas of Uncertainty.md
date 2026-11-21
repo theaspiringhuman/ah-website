@@ -4,13 +4,25 @@ Tags: [[self-trust]] [[religion]]
 
 ---
 
-![[stoic.png|float-right|250]]
+<div class="scribble-intro-layout">
 
----
+<div class="scribble-intro-text">
 
-From my early twenties and into my thirties, I have dared, to varying degrees in different seasons, to wander away from the shores of all that I thought I knew to be true. Given that I was heavily indoctrinated as a child to believe in fundamental [[Christianity]] as the ultimate [[reality]], and that the consequence for rejecting that axiom is eternal torture and damnation, this exploration has been one of intense trepidation and ambivalence. 
-To wander from the shores of [[belief]] is, after all, the ultimate sin. 
-#### However, I have never been able to deny the unease I have felt in the depths of me in my attempts to digest the doctrines I've been handed. 
+From my early twenties and into my thirties, I have dared, to varying degrees in different seasons, to wander away from the shores of all that I thought I knew to be true. Given that I was heavily indoctrinated as a child to believe in fundamental [[Christianity]] as the ultimate [[reality]], and that the consequence for rejecting that axiom is eternal torture and damnation, this exploration has been one of intense trepidation and ambivalence.
+
+To wander from the shores of [[belief]] is, after all, the ultimate sin.
+
+#### However, I have never been able to deny the unease I have felt in the depths of me in my attempts to digest the doctrines I've been handed.
+
+</div>
+
+<div class="scribble-intro-image">
+
+![[stoic.png]]
+
+</div>
+
+</div>
 
 On what grounds can I attribute to them validity as ultimate truths? 
 When I consider the fact that some of these precepts are not in resonance with my own constitution, and some are downright offensive to my soul, I'm compelled to make a choice between [[self-trust|trusting myself]] or trusting what I have been told is true. 
