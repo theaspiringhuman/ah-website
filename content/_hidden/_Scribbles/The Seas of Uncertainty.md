@@ -1,6 +1,10 @@
-Date: I can't remember
+Date: 2019
 
-Tags: [[self-trust]] 
+Tags: [[self-trust]] [[religion]]
+
+---
+
+![[stoic.png|float-right|250]]
 
 ---
 

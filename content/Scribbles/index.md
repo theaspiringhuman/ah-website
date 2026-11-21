@@ -11,4 +11,12 @@ title: Scribbles
   </div>
 </a>
 
+<a class="scribble-item" href="/_hidden/_Scribbles/The-Seas-of-Uncertainty">
+  <img src="/_hidden/site%20images/entry-images/stoic.png">
+  <div class="scribble-info">
+    <span class="scribble-title">The Seas of Uncertainty</span>
+    <span class="scribble-meta">2019</span>
+  </div>
+</a>
+
 </div>

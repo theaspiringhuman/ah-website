@@ -1217,3 +1217,10 @@ body:has(.scribbles-gallery) .page-listing {
 .explorer .folder-icon {
   display: none !important;
 }
+/* Float images to the right */
+img[alt*="float-right"] {
+  float: right;
+  max-width: 45%;
+  height: auto;
+  margin: 0 0 20px 25px;
+}
