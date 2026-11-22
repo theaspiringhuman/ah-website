@@ -76,4 +76,32 @@ pg. 64
 
 ---
 
+"The challenge is not so much learning to accept the terrible things that have happened but learning how to gain mastery over one's internal sensations and emotions. Sensing, naming, and identifying what is going on inside is the first step to recovery." ^quote13
 
+pg. 68
+
+---
+
+"People with PTSD have their floodgates wide open. Lacking a filter, they are on constant sensory overload. In order to cope, they try to shut themselves down and develop tunnel vision and hyperfocus... Numbing is the other side of the coin in PTSD... Desensitization may make you less reactive, but if you cannot feel satisfaction in ordinary everyday things like taking a walk, cooking a meal, or playing with your kids, life will pass you by." ^quote14
+
+pg. 70-73
+
+---
+
+"" ^quote
+
+pg.
+
+---
+
+"" ^quote
+
+pg.
+
+---
+
+"" ^quote
+
+pg.
+
+---
