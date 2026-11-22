@@ -293,6 +293,11 @@ If you do notice the habit of self-righteousness, you know what to do: give it a
 
 **pg. 135
 
+---
+
+"... A paradox: You don't have to do anything--why? Not because nothing needs to be done. It is that you don't *have* to do because you *will* do. The unstoppable compulsion to act, in bigger and wiser ways than you knew possible, has already been set in motion. I am urging you to [[trust]] in that. You needn't contrive to motivate yourself, [[guilt]] yourself, or goad yourself into action. Actions taken from that place will be less powerful than the ones that arise unbidden. [[self-trust|Trust yourself]] that you will know what to do, and that you will know when to do it." ^quote44
+
+**pg. 136
 
 ---
 
