@@ -51,7 +51,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/Art/Privilege-of-a-Lifetime">
+<a class="art-item" href="/_Art/Privilege-of-a-Lifetime">
   <img src="/_hidden/site%20images/paintings/cosmic-skull.png">
   <div class="art-info">
     <span class="art-title">Privilege of a Lifetime</span>
