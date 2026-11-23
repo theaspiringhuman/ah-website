@@ -28,3 +28,9 @@ I painted this for my sister. I originally designed it digitally & then decided 
 <p> <strong>Completed</strong><br> 2025 </p> </section>
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/cosmic-skull.png">
+
+<div class="portrait-process">
+
+<img class="process-full" src="/_hidden/site%20images/paintings/skull-framed.png" alt="Process image">
+
+</div>
