@@ -51,4 +51,12 @@ title: Art
   </div>
 </a>
 
+<a class="art-item" href="/Art/Privilege-of-a-Lifetime">
+  <img src="/_hidden/site%20images/paintings/cosmic-skull.png">
+  <div class="art-info">
+    <span class="art-title">Privilege of a Lifetime</span>
+    <span class="art-meta">2025 · Watercolor</span>
+  </div>
+</a>
+
 </div>
