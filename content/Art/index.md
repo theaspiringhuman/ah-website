@@ -3,7 +3,7 @@ title: Art
 ---
 <div class="art-gallery">
 
-<a class="art-item" href="/Art/Ego-Death">
+<a class="art-item" href="/_hidden/_Art/Ego-Death">
   <img src="/_hidden/site%20images/paintings/ego-death-portrait.png">
   <div class="art-info">
     <span class="art-title">Ego Death</span>
@@ -11,7 +11,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/Art/Imagine-Consciousness">
+<a class="art-item" href="/_hidden/_Art/Imagine-Consciousness">
   <img src="/_hidden/site%20images/paintings/Dada-Gunamuktananda.jpg">
   <div class="art-info">
     <span class="art-title">Imagine Consciousness</span>
@@ -19,7 +19,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/Art/Resilience">
+<a class="art-item" href="/_hidden/_Art/Resilience">
   <img src="/_hidden/site%20images/paintings/intrinsic-resilience.png">
   <div class="art-info">
     <span class="art-title">Resilience</span>
@@ -27,7 +27,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/Art/Wild-Woman">
+<a class="art-item" href="/_hidden/_Art/Wild-Woman">
   <img src="/_hidden/site%20images/paintings/wild-woman.png">
   <div class="art-info">
     <span class="art-title">Wild Woman</span>
@@ -35,7 +35,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/Art/Tribal-Space-Man">
+<a class="art-item" href="/_hidden/_Art/Tribal-Space-Man">
   <img src="/_hidden/site%20images/paintings/tribal-space-man.png">
   <div class="art-info">
     <span class="art-title">Tribal Space Man</span>
@@ -43,7 +43,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/Art/Octopus">
+<a class="art-item" href="/_hidden/_Art/Octopus">
   <img src="/_hidden/site%20images/paintings/octopus.png">
   <div class="art-info">
     <span class="art-title">Octopus</span>
@@ -51,7 +51,7 @@ title: Art
   </div>
 </a>
 
-<a class="art-item" href="/_Art/Privilege-of-a-Lifetime">
+<a class="art-item" href="/_hidden/_Art/Privilege-of-a-Lifetime">
   <img src="/_hidden/site%20images/paintings/cosmic-skull.png">
   <div class="art-info">
     <span class="art-title">Privilege of a Lifetime</span>
