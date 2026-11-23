@@ -59,4 +59,21 @@ title: Art
   </div>
 </a>
 
+<a class="art-item" href="/_hidden/_Art/Butterfly">
+  <img src="/_hidden/site%20images/paintings/butterfly.png">
+  <div class="art-info">
+    <span class="art-title">Butterfly</span>
+    <span class="art-meta">2024 · Watercolor</span>
+  </div>
+</a>
+
+<a class="art-item" href="/_hidden/_Art/Purple-Iris">
+  <img src="/_hidden/site%20images/paintings/purple-iris.png">
+  <div class="art-info">
+    <span class="art-title">Purple Iris</span>
+    <span class="art-meta">2025 · Watercolor</span>
+  </div>
+</a>
+
+
 </div>
