@@ -10,7 +10,7 @@
 
 <blockquote>
 <p><em>"The privilege of a lifetime is to become who you truly are."</em></p>
-<cite>— [[Carl Jung]]</cite>
+<cite>— Carl Jung</cite>
 </blockquote>
 
 <h2>About This Painting</h2>
