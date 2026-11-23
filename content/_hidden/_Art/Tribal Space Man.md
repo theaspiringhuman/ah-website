@@ -7,11 +7,7 @@ date: "2017"
 ---
 ---
 
-<div class="portrait-page">
-
-<section class="portrait-info">
-
-<p class="portrait-back"><a href="/Art">← Back to Art</a></p>
+<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/Art">← Back to Art</a></p>
 
 <h1>Tribal Space Man</h1>
 

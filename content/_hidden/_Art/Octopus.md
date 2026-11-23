@@ -5,12 +5,9 @@ tags:
   - art
 date: "2016"
 ---
+<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/Art">← Back to Art</a></p>
 
 <div class="portrait-page">
-
-<section class="portrait-info">
-
-<p class="portrait-back"><a href="/Art">← Back to Art</a></p>
 
 <h1>Octopus</h1>
 

@@ -6,7 +6,7 @@ tags:
 date: 2019-09-02
 ---
 ---
-<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
+<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/Art">← Back to Art</a></p>
 
 <h1>Imagine Consciousness</h1>
 

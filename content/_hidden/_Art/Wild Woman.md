@@ -6,7 +6,7 @@ tags:
 date: 2019-02-18
 ---
 ---
-<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/art">← Back to Art</a></p>
+<div class="portrait-page"> <section class="portrait-info"> <p class="portrait-back"><a href="/Art">← Back to Art</a></p>
 
 <h1>Wild Woman</h1>
 
