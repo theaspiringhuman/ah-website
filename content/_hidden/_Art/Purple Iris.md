@@ -23,3 +23,9 @@ I painted this for my Grandma. Purple irises are her favorite. :)
 <p> <strong>Completed</strong><br> 2025 </p> </section>
 
 <section class="portrait-gallery"> <img src="/_hidden/site%20images/paintings/purple-iris.png">
+
+<div class="portrait-process">
+
+<img class="process-full" src="/_hidden/site%20images/paintings/purple-iris-framed.png" alt="Process image">
+
+</div>
