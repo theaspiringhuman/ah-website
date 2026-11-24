@@ -301,6 +301,18 @@ If you do notice the habit of self-righteousness, you know what to do: give it a
 
 ---
 
+"When is the right time to do the right thing? No one can offer a formula to answer that question, because the rhythm of the phases of action and stillness has an intelligence of its own. If we tune in, we can hear that rhythm, and the organ of perception is the [[desire]], the nudge of excitement or the feeling of flow, of rightness, of [[alignment]]. **It is a feeling of being alive.** To listen to that feeling and to [[trust]] it is a profound revolution indeed. What would the world be, if we all listened to that?" ^quote45
+
+**pg. 140
+
+---
+
+"[[desire|Desire]] comes from unmet needs. That is a fundamental precept of [[self-trust]]... In the new [[narrative|story]], we look for the unmet need that drives the desire. This is a powerful transformative tool not only for personal development, but also... for [[society|social]] [[change]]. When we address the unmet need directly, it no longer drives the [[desire]] that had been so destructive. Fail to address the need, and the boiler that drives the desire keeps building pressure. Addiction and the gratification of superficial desires are like a release valve. When we clamp down on it with willpower, the pressure builds and eventually explodes out, perhaps as a binge, or, if the old expression of the desire is rendered unavailable, then as a new addictive behavior." ^quote46
+
+**pg. 145
+
+---
+
 [^1]: [[Collective Plague as Analogous to Markers of Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
