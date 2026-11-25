@@ -313,6 +313,32 @@ If you do notice the habit of self-righteousness, you know what to do: give it a
 
 ---
 
+"Because our deeper unmet needs were mostly invisible to us, and because they have been unmet for so long, our physical and mental systems have adapted around them so that the pain becomes [[unconscious|subconscious]], diffuse, latent. That makes it hard sometimes to identify what the unmet need is." ^quote47
+
+**pg. 148
+
+---
+
+"One role of the changemaker is to be the eyes and ears of the world." ^quote48
+
+**pg. 151
+
+---
+
+"Legitimacy is a matter of collective perception, and we have the power to change people's perceptions." ^quote49
+
+**pg. 151
+
+---
+
+"Pleasure and [[desire]] are a natural guidance system that directs organisms toward food, warmth, sex, and other things that meet their needs. Are we to imagine that we are exceptions to [[nature|nature's]] way? Are we to imagine that we've graduated past that guidance system, moved on to a higher realm in which pleasure is no longer ally, but enemy? No. That is a thought form of Separation. The guidance system of pleasure works in us too. It does not stop at the basic animal needs of food, sex, and shelter. In all its forms, it guides us toward the fulfillment of our needs and desires, and therefore to the unfolding of our potential.
+
+To [[trust]] again, after all these centuries, is a journey that might begin, for those of us who are most alienated from it, with the conscious, deliberate fulfillment of whatever trivial pleasures are available, building the habit of [[self-trust]]. As that muscle of discernment grows stronger, we can use it to choose greater and greater pleasures, which correspond to the fulfillment of deeper and deeper desires. It is for good reason that hedonism has always carried a faintly subversive air. To choose pleasure, even the most superficial, and to embrace and celebrate that choice, is to set in motion a process that upends the Story of the World. Eventually, the superficial pleasures become tedious and unsatisfying, and we move on to the kind of pleasure we call [[joy]]." ^quote50
+
+**pg. 153
+
+---
+
 [^1]: [[Collective Plague as Analogous to Markers of Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
