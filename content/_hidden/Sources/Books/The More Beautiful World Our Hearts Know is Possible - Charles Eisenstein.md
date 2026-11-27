@@ -339,6 +339,18 @@ To [[trust]] again, after all these centuries, is a journey that might begin, fo
 
 ---
 
+"Let us be wary of any revolution that isn't threaded with an element of play, celebration, mystery, and humor. If it is primarily a grim struggle, then it may be no revolution at all. That is not to say that there is never a time for struggle, but to frame the [[transformation|transformative]] process primarily in terms of struggle reduces it to something of the old world. It devalues other parts of the process: the gestation, the latency, the coming inward, the breathing, the emptiness, the observation, the listening, the nourishing, the reflection, the playful exploration, the unknowing. Aren't these the things we could use a little more of on this earth?" ^quote51
+
+**pg. 155
+
+---
+
+"[[fear|Fear]] is not Enemy Number One, as some spiritual teachers would have us think: the new evil to conquer in place of the old bogeymen like sin or ego. [[fear|Fear]] limits growth, it is true, but it also bounds a safe zone within which [[growth]] can happen. Only when the growth is bumping up against those [[boundaries]] is it time to break through it. So the feeling to look for is that of [[fear]] that feels a bit obsolete, a new step that you're ready to take. When you contemplate it, whatever fear you feel should have the flavor of exhilaration, not dread." ^quote52
+
+**pg. 155-156
+
+---
+
 [^1]: [[Collective Plague as Analogous to Markers of Psychological Thresholds]]
 
 [^2]: [[What's left that's sacred]]
